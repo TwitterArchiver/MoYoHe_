@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2073435719683698770",
+    "created_at": "2026-07-04T15:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073436078082871563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1834955424929648640",
+          "start": 0,
+          "username": "rabbot1Il"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073436078082871563",
+    "in_reply_to_user_id": "1834955424929648640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073435719683698770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rabbot1Il 一字干"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2073435719683698770",
+        "created_at": "2026-07-04T15:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073436078082871563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834955424929648640",
+              "start": 0,
+              "username": "rabbot1Il"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073436078082871563",
+        "in_reply_to_user_id": "1834955424929648640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073435719683698770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rabbot1Il 一字干"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834955424929648640",
+        "conversation_id": "2073435719683698770",
+        "created_at": "2026-07-04T15:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073435719683698770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073435719683698770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不要打个耳洞嘞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 102,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T14:00:51.000Z",
+        "description": "推日记本\n目标是现生幸福\n再看到我泡在推特上直接打死…",
+        "id": "1834955424929648640",
+        "location": "距离1,249,385.8km",
+        "name": "？",
+        "pinned_tweet_id": "2070812089317552362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071452726253555712/_Gma4gSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 128,
+          "like_count": 3084,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1595
+        },
+        "url": "",
+        "username": "rabbot1Il",
+        "verified": false
+      }
+    ]
+  }
+}

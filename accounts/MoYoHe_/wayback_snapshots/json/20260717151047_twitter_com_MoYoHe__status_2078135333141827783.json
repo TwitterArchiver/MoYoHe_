@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2078135333141827783",
+    "created_at": "2026-07-17T15:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078135333141827783"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078135333141827783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我当初态度应该再坚决一点的，我应该在家待着的，我应该休息的，人要是成为没有情感的动物该多好，起床，上班/上学，下班，重复，选择喜欢的人生，选择朋友，选择死亡，我好累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2078135333141827783",
+        "created_at": "2026-07-17T15:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078135333141827783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078135333141827783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当初态度应该再坚决一点的，我应该在家待着的，我应该休息的，人要是成为没有情感的动物该多好，起床，上班/上学，下班，重复，选择喜欢的人生，选择朋友，选择死亡，我好累"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 116,
+          "like_count": 2004,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 684
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

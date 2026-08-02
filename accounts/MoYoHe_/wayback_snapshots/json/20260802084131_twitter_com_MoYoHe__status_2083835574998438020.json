@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2083477032416268618",
+    "created_at": "2026-08-02T08:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083835574998438020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2023379822664413185",
+          "start": 0,
+          "username": "muzhi_1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083835574998438020",
+    "in_reply_to_user_id": "2023379822664413185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083786544138379694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muzhi_1231 我当时也是这样，班主任想办法想管班级，结果到最后班主任在上面上课他们在下面骂她，我真的当时觉得她啥都没做错，甚至是为了我们才这样管，无亲无故还对你生活的一部分很上心，真的不理解到底是哪来的恶意，这种是真的可怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083477032416268618",
+        "created_at": "2026-08-02T08:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083835574998438020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2023379822664413185",
+              "start": 0,
+              "username": "muzhi_1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083835574998438020",
+        "in_reply_to_user_id": "2023379822664413185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083786544138379694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muzhi_1231 我当时也是这样，班主任想办法想管班级，结果到最后班主任在上面上课他们在下面骂她，我真的当时觉得她啥都没做错，甚至是为了我们才这样管，无亲无故还对你生活的一部分很上心，真的不理解到底是哪来的恶意，这种是真的可怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023379822664413185",
+        "conversation_id": "2083477032416268618",
+        "created_at": "2026-08-02T05:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083786544138379694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083786544138379694",
+        "in_reply_to_user_id": "2023379822664413185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083786504577728666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 就是这样一位在我看来很称职的老师就因为偶尔说教或者批评那些成绩排在前面的同学，就算是被他们记恨上了，经常聚在一起蛐蛐老师甚至是辱骂老师。我记得最清楚的一次就是高考前一天的动员会，我们班级班主任在台上发言的时候，那些人还在下面骂老师，我真的觉得特别恶心特别可怕😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 161,
+          "like_count": 4498,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1027
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T12:52:10.000Z",
+        "description": "无言关注很抱歉🙇🏻‍♀️",
+        "id": "2023379822664413185",
+        "name": "蓮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083774086480891904/Q6XJE5fW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 26,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "muzhi_1231",
+        "verified": false
+      }
+    ]
+  }
+}

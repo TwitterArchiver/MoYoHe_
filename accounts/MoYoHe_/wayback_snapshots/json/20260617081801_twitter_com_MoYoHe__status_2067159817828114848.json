@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2066518447811604595",
+    "created_at": "2026-06-17T08:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067159817828114848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2044796054852546562",
+          "start": 0,
+          "username": "Ayy227111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067159817828114848",
+    "in_reply_to_user_id": "2044796054852546562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066518447811604595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayy227111 那这条也点😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2066518447811604595",
+        "created_at": "2026-06-17T08:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067159817828114848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044796054852546562",
+              "start": 0,
+              "username": "Ayy227111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067159817828114848",
+        "in_reply_to_user_id": "2044796054852546562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066518447811604595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayy227111 那这条也点😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044796054852546562",
+        "conversation_id": "2066518447811604595",
+        "created_at": "2026-06-15T13:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066518447811604595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066518447811604595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁一直给我点赞好特么吓人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 71,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 95
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T15:14:05.000Z",
+        "description": "18↑ 中浮上 \n超级性缘脑/情绪不稳定/人格解体/恐惧、回避型依恋/\nswitch但dom s/\nintj-t/中立邪恶/6w5 614/\n我会查成分 回关＝你很可爱or你长得还行\n被我骂了记得说谢谢。\n专注自己的意淫生活 勿扰。",
+        "id": "2044796054852546562",
+        "name": "Nina",
+        "pinned_tweet_id": "2066540914701713508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065496850543886336/YehlHnbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 42,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 430
+        },
+        "username": "Ayy227111",
+        "verified": false
+      }
+    ]
+  }
+}

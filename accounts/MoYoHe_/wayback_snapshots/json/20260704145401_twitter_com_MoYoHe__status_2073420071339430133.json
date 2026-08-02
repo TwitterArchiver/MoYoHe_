@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2073419560888517015",
+    "created_at": "2026-07-04T14:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073420071339430133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2067549451355639808",
+          "start": 0,
+          "username": "Iholdtheblade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073420071339430133",
+    "in_reply_to_user_id": "2067549451355639808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073419560888517015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iholdtheblade 一个🕶️直接掐死\n不是你以为我真掐啊，你才是最坏的那个"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4100,
+        "height": 822,
+        "media_key": "13_2073419543486337024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073419543486337024/img/6KE54nR0VABvqgnJ.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073419543486337024/vid/avc1/320x548/KzkX9ubs7ZM1DraB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073419543486337024/vid/avc1/480x822/iW9fkVacJo2OkHo3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073419543486337024/pl/NdDSG6wEgRBfhAwQ.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2073419560888517015",
+        "created_at": "2026-07-04T14:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073420071339430133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067549451355639808",
+              "start": 0,
+              "username": "Iholdtheblade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073420071339430133",
+        "in_reply_to_user_id": "2067549451355639808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073419560888517015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iholdtheblade 一个🕶️直接掐死\n不是你以为我真掐啊，你才是最坏的那个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073419543486337024"
+          ]
+        },
+        "author_id": "2067549451355639808",
+        "conversation_id": "2073419560888517015",
+        "created_at": "2026-07-04T14:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073419560888517015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RviswmSjRg",
+              "end": 23,
+              "expanded_url": "https://x.com/Iholdtheblade/status/2073419560888517015/video/1",
+              "media_key": "13_2073419543486337024",
+              "start": 0,
+              "url": "https://t.co/RviswmSjRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073419560888517015",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RviswmSjRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 102,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 434
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T10:07:16.000Z",
+        "description": "hi，叫我隔阂就好\n苦逼高中生 不谈恋爱不聊骚 讨厌顺直男\n碎碎念，生活日常，猫咪，音乐就是我的全部啦\n看心情互fo\n别好奇关于我皮下的一切感谢！",
+        "id": "2067549451355639808",
+        "location": "在你左侧",
+        "name": "更痛更苦更隔阂",
+        "pinned_tweet_id": "2070540177811063284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067562656031293440/d1d-OGxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 39,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 400
+        },
+        "url": "",
+        "username": "Iholdtheblade",
+        "verified": false
+      }
+    ]
+  }
+}

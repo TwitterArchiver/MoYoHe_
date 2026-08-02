@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2065728856619958762",
+    "created_at": "2026-06-13T09:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065728856619958762"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065728856619958762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不反对每个人有讨厌的人或物，这没问题，但是当你真的要在公共平台去发这些东西时，能不能做好最该死的隐私问题，我不论骂什么，我所有的截图一律我都不漏任何隐私信息，这对现实生活没有帮助，把推特当情绪垃圾桶没问题，但是你的情绪垃圾桶最后结果是让你身边的人遇到侵害，那么你就是个纯正的傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2065728856619958762",
+        "created_at": "2026-06-13T09:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065728856619958762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065728856619958762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不反对每个人有讨厌的人或物，这没问题，但是当你真的要在公共平台去发这些东西时，能不能做好最该死的隐私问题，我不论骂什么，我所有的截图一律我都不漏任何隐私信息，这对现实生活没有帮助，把推特当情绪垃圾桶没问题，但是你的情绪垃圾桶最后结果是让你身边的人遇到侵害，那么你就是个纯正的傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 52,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

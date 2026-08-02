@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2080365790738735161",
+    "created_at": "2026-07-23T18:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T19:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080365790738735161"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080365790738735161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然发现现在玩的游戏全是老人游戏，LOL炉石ow，完全没有新玩家，而且二游和单机也没办法一起玩😇我已升天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2080365790738735161",
+        "created_at": "2026-07-23T18:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080365790738735161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080365790738735161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现现在玩的游戏全是老人游戏，LOL炉石ow，完全没有新玩家，而且二游和单机也没办法一起玩😇我已升天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 122,
+          "like_count": 2488,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

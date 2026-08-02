@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2074486244525150299",
+    "created_at": "2026-07-07T23:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T00:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074636688203341865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2074348798340648960",
+          "start": 0,
+          "username": "xtw6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074636688203341865",
+    "in_reply_to_user_id": "2074348798340648960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074498991216316590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xtw6o 看着爱人在眼前，但是无法接触😭\n痛啊，太痛了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2074486244525150299",
+        "created_at": "2026-07-07T23:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074636688203341865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2074348798340648960",
+              "start": 0,
+              "username": "xtw6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074636688203341865",
+        "in_reply_to_user_id": "2074348798340648960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074498991216316590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xtw6o 看着爱人在眼前，但是无法接触😭\n痛啊，太痛了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074348798340648960",
+        "conversation_id": "2074486244525150299",
+        "created_at": "2026-07-07T14:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074498991216316590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074498991216316590",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074486244525150299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 小鸟胃你赢了，我像一个无能的丈夫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 129,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 563
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T04:25:33.000Z",
+        "description": "乱七八糟情绪垃圾桶的账号不要在意，没有黄🗑️",
+        "id": "2074348798340648960",
+        "name": "口服液",
+        "pinned_tweet_id": "2074478966006743274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074517221204992000/GL8XCMh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 8,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "xtw6o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2078463095773839811",
+    "created_at": "2026-07-18T14:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078485102569677159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025852742707945473",
+          "start": 0,
+          "username": "kikisuki111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078485102569677159",
+    "in_reply_to_user_id": "2025852742707945473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078463095773839811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikisuki111 只想说好的不想说坏的，就怕说出去会给他们造成心理负担😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2078463095773839811",
+        "created_at": "2026-07-18T14:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078485102569677159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025852742707945473",
+              "start": 0,
+              "username": "kikisuki111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078485102569677159",
+        "in_reply_to_user_id": "2025852742707945473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078463095773839811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikisuki111 只想说好的不想说坏的，就怕说出去会给他们造成心理负担😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2078463095773839811",
+        "created_at": "2026-07-18T12:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078463095773839811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078463095773839811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实不管我怎么和朋友说我很好但想死的念头从来没变过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 118,
+          "like_count": 2061,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 688
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸｜分身@kikiii00000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "kikiii00000"
+              }
+            ]
+          }
+        },
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2059810784612597967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 514,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 966
+        },
+        "url": "",
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

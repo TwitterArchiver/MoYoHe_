@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2022636575289651648",
+    "created_at": "2026-02-14T11:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022636575289651648"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022636575289651648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜欢跟别人说话，我希望被人需要，我希望成为一个对别人而说特别的存在，但是我做不到，我总是在幻想，如果今天有人愿意跟我聊聊天，愿意与我聊到天南海北，我就会满足了，但是当我真跟一个我有兴趣的人聊天时，我又担心，ta是不是对我压根没兴趣，我是不是说错话了，我是不是太啰嗦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2022636575289651648",
+        "created_at": "2026-02-14T11:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022636575289651648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022636575289651648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢跟别人说话，我希望被人需要，我希望成为一个对别人而说特别的存在，但是我做不到，我总是在幻想，如果今天有人愿意跟我聊聊天，愿意与我聊到天南海北，我就会满足了，但是当我真跟一个我有兴趣的人聊天时，我又担心，ta是不是对我压根没兴趣，我是不是说错话了，我是不是太啰嗦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

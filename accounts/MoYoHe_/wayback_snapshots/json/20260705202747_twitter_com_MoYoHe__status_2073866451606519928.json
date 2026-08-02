@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2073866451606519928",
+    "created_at": "2026-07-05T20:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T21:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073866451606519928"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073866451606519928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你是一个山河四省的高考生，你拼尽了你数十年的努力争取不在初高中得病或者自杀，最终你的成绩不错考上了个一本大学，你以为终于脱离地狱了，结果你发现这是地狱的第三层，每天都在忙一些无所谓的事情，没有活的那么累但是不知道该干什么了，这个时候在匹配一些傻逼给你，这辈子有福了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2073866451606519928",
+        "created_at": "2026-07-05T20:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073866451606519928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073866451606519928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是一个山河四省的高考生，你拼尽了你数十年的努力争取不在初高中得病或者自杀，最终你的成绩不错考上了个一本大学，你以为终于脱离地狱了，结果你发现这是地狱的第三层，每天都在忙一些无所谓的事情，没有活的那么累但是不知道该干什么了，这个时候在匹配一些傻逼给你，这辈子有福了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 112,
+          "like_count": 616,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

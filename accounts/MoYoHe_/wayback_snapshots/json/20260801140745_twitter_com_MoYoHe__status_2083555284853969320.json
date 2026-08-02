@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2083555284853969320",
+    "created_at": "2026-08-01T14:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083555284853969320"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083555284853969320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经常会看到一些推文说什么，生活揭不开锅需要下海，要不挂个门槛，回复里面全是一股显得自己做过很骄傲的味道，生活总有选择，这些人只是放弃了选择而去走捷径，就跟考试作弊拿高分一样，有更好的选择压根不愿意去选，然后最后落下个是生活逼我这样的，这他妈是什么屁话，意思每个穷人都要卖才能活吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083555284853969320",
+        "created_at": "2026-08-01T14:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083555284853969320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083555284853969320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常会看到一些推文说什么，生活揭不开锅需要下海，要不挂个门槛，回复里面全是一股显得自己做过很骄傲的味道，生活总有选择，这些人只是放弃了选择而去走捷径，就跟考试作弊拿高分一样，有更好的选择压根不愿意去选，然后最后落下个是生活逼我这样的，这他妈是什么屁话，意思每个穷人都要卖才能活吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 153,
+          "like_count": 4352,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1000
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

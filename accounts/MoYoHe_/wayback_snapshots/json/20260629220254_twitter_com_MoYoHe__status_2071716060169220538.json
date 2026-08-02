@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2071695980811194828",
+    "created_at": "2026-06-29T22:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T23:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071716060169220538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "FoxGod__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071716060169220538",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071695980811194828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxGod__ 这是什么性缘脑啊，是需要一段关系来缓解自己的情绪压力就可以立刻抛下另一段吗？自私成啥了，为了活下去不择手段可以，但是最后活下来了伤害别人情感怎么算，这太他妈傻逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071695980811194828",
+        "created_at": "2026-06-29T22:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T23:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071716060169220538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "FoxGod__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071716060169220538",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071695980811194828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxGod__ 这是什么性缘脑啊，是需要一段关系来缓解自己的情绪压力就可以立刻抛下另一段吗？自私成啥了，为了活下去不择手段可以，但是最后活下来了伤害别人情感怎么算，这太他妈傻逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2071695980811194828",
+        "created_at": "2026-06-29T20:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T21:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071695980811194828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071695980811194828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想到曾经住院期间认识一个女孩 她在住院前谈了一个男朋友 男朋友对她很好 线下见过几面完全不舍得碰她太多 认为她还小\n但是那个女孩被关在医院里一个多月就连她自己都认为对方会因为等不下去而离开自己 但出院后她发现对方居然还在等她 关心她 不过尽管如此她还是和一个同期住院的男生恋爱 甚至亲嘴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 99,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我是上帝，我在審視一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行?",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071050732862631936/S6NhD6zU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7168,
+          "following_count": 229,
+          "like_count": 32858,
+          "listed_count": 19,
+          "media_count": 211,
+          "tweet_count": 1247
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "FoxGod__",
+        "verified": false
+      }
+    ]
+  }
+}

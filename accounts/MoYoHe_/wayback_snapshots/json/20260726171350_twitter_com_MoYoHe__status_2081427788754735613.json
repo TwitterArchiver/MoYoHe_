@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2081408693640499369",
+    "created_at": "2026-07-26T17:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081427788754735613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911495718793064449",
+          "start": 0,
+          "username": "ji_ba438"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081427788754735613",
+    "in_reply_to_user_id": "1911495718793064449",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081408693640499369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_ba438 WTF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38600,
+        "height": 1072,
+        "media_key": "13_2081363706810957825",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081363706810957825/img/1iyZXuo0r3rslSwO.jpg",
+        "public_metrics": {
+          "view_count": 41665
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081363706810957825/vid/avc1/482x270/zK1dSyo-S08HexLJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081363706810957825/vid/avc1/644x360/Ca5o8ujH1MnlRyfx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081363706810957825/vid/avc1/1288x720/dvsxXVeQN-GnOGoW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081363706810957825/pl/-gO4Yw2CTu3zghim.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2081408693640499369",
+        "created_at": "2026-07-26T17:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081427788754735613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911495718793064449",
+              "start": 0,
+              "username": "ji_ba438"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081427788754735613",
+        "in_reply_to_user_id": "1911495718793064449",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081408693640499369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_ba438 WTF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081363706810957825"
+          ],
+          "media_source_tweet_id": [
+            "2081364495872766055"
+          ]
+        },
+        "author_id": "1911495718793064449",
+        "conversation_id": "2081408693640499369",
+        "created_at": "2026-07-26T15:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081408693640499369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Gh0xu3ti1",
+              "end": 32,
+              "expanded_url": "https://x.com/jd_choco_fac/status/2081364495872766055/video/1",
+              "media_key": "13_2081363706810957825",
+              "start": 9,
+              "url": "https://t.co/4Gh0xu3ti1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081408693640499369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑死我了我也想玩 https://t.co/4Gh0xu3ti1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 133,
+          "like_count": 3049,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 783
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T19:04:38.000Z",
+        "description": "不聊骚不互看，我只是爱碎碎念和想要交朋友",
+        "id": "1911495718793064449",
+        "name": "火鸡味锅巴",
+        "pinned_tweet_id": "2069889275496407346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015329584317870080/Vqe4XEjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 168,
+          "like_count": 3526,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1262
+        },
+        "url": "",
+        "username": "ji_ba438",
+        "verified": false
+      }
+    ]
+  }
+}

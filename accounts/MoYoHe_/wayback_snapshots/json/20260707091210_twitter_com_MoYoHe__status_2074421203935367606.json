@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2071594318255505642",
+    "created_at": "2026-07-07T09:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074421203935367606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2989269190",
+          "start": 0,
+          "username": "Wi1sonyuan"
+        },
+        {
+          "end": 27,
+          "id": "1333172444962697228",
+          "start": 12,
+          "username": "KseniiaBaziian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074421203935367606",
+    "in_reply_to_user_id": "2989269190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074419757693170162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wi1sonyuan @KseniiaBaziian 这还学我说话来的，别学我行吗大哥，你多大岁数了还要学我说话，没自己的思考能力吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071594318255505642",
+        "created_at": "2026-07-07T09:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074421203935367606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2989269190",
+              "start": 0,
+              "username": "Wi1sonyuan"
+            },
+            {
+              "end": 27,
+              "id": "1333172444962697228",
+              "start": 12,
+              "username": "KseniiaBaziian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074421203935367606",
+        "in_reply_to_user_id": "2989269190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074419757693170162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wi1sonyuan @KseniiaBaziian 这还学我说话来的，别学我行吗大哥，你多大岁数了还要学我说话，没自己的思考能力吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2989269190",
+        "conversation_id": "2071594318255505642",
+        "created_at": "2026-07-07T09:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074419757693170162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            },
+            {
+              "end": 24,
+              "id": "1333172444962697228",
+              "start": 9,
+              "username": "KseniiaBaziian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074419757693170162",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074418856328904802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ @KseniiaBaziian 别人的键政是块巧克力，人吃了没事，狗吃了会死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 123,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-21T07:59:37.000Z",
+        "description": "",
+        "id": "2989269190",
+        "name": "WilsonYuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1077134075826073600/H8mFeCk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 77,
+          "like_count": 1192,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1528
+        },
+        "url": "",
+        "username": "Wi1sonyuan",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-29T22:14:33.000Z",
+        "description": "🔗 Helping businesses scale with blockchain since 2020\n🏝️Bali in July",
+        "id": "1333172444962697228",
+        "location": "London",
+        "name": "Kseniia Baziian",
+        "pinned_tweet_id": "2063266178915860624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965407376996999168/esF5mffM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6251,
+          "following_count": 1480,
+          "like_count": 16486,
+          "listed_count": 106,
+          "media_count": 1253,
+          "tweet_count": 9989
+        },
+        "url": "",
+        "username": "KseniiaBaziian",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2069889521970454535",
+    "created_at": "2026-06-24T21:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T22:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069892513239064791"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069892513239064791",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069889521970454535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我首先意识到电影不止局限于剧情的是坠落的审判和分手的决心，因为这两部我记得出的时间相近同时都带有一些生死观和价值观，我到现在还记得分手的决心导演表达的完美的自杀手法，不会留下痕迹，不会有人在意，完美的从人间消失的手段，还有包括坠落的审判 庭审的结果压根不重要，重要的是审判"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2069889521970454535",
+        "created_at": "2026-06-24T21:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T22:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069892513239064791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069892513239064791",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069889521970454535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我首先意识到电影不止局限于剧情的是坠落的审判和分手的决心，因为这两部我记得出的时间相近同时都带有一些生死观和价值观，我到现在还记得分手的决心导演表达的完美的自杀手法，不会留下痕迹，不会有人在意，完美的从人间消失的手段，还有包括坠落的审判 庭审的结果压根不重要，重要的是审判"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2069889521970454535",
+        "created_at": "2026-06-24T21:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T22:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069889521970454535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069889521970454535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我精神方面的问题还有一点，是我总会情不自禁的吸收我看过的一些影视剧中角色的特性，而且我还觉得有些部分确实融入进我的生活或者本身就跟我很相似，从小时候父母离异之后我接触到的第一部电影刚好就是银河护卫队，我当时会幻想我的童年和星爵没两样，我的父亲没准真的有一艘宇宙飞船，小孩子的幻想嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 106,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

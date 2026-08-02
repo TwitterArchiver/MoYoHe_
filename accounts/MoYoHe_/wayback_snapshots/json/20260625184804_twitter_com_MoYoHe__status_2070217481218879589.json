@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2070216788806377662",
+    "created_at": "2026-06-25T18:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T19:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070217481218879589"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070217481218879589",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070216788806377662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上吊的感觉也很奇妙，刚开始你会恐惧，同时你的脖子处会传来巨大的压力，接下来你的眼球和嘴唇会感到向外凸出，大脑意识开始逐渐消散，四肢逐渐使不上力气，同时你会逐渐吸不上气，最后你会晕死过去，或许会失禁或许不会，不知道我算倒霉还是幸运，绳子从门把手处松了😇过了一个小时又起来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2070216788806377662",
+        "created_at": "2026-06-25T18:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070217481218879589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070217481218879589",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070216788806377662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上吊的感觉也很奇妙，刚开始你会恐惧，同时你的脖子处会传来巨大的压力，接下来你的眼球和嘴唇会感到向外凸出，大脑意识开始逐渐消散，四肢逐渐使不上力气，同时你会逐渐吸不上气，最后你会晕死过去，或许会失禁或许不会，不知道我算倒霉还是幸运，绳子从门把手处松了😇过了一个小时又起来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2070216788806377662",
+        "created_at": "2026-06-25T18:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070216788806377662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070216788806377662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么不痛苦的自杀方式吗😇上吊已经试过了，烧炭会好一点吗😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 101,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

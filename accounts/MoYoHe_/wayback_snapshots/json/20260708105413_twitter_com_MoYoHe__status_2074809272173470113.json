@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074809260685631488"
+      ]
+    },
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2074809272173470113",
+    "created_at": "2026-07-08T10:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074809272173470113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ea6EPWQaq1",
+          "end": 34,
+          "expanded_url": "https://x.com/MoYoHe_/status/2074809272173470113/photo/1",
+          "media_key": "3_2074809260685631488",
+          "start": 11,
+          "url": "https://t.co/ea6EPWQaq1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074809272173470113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "负能量嘉豪TV启动😇 https://t.co/ea6EPWQaq1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2074809260685631488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMs0B5_boAAMB3f.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074809260685631488"
+          ]
+        },
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2074809272173470113",
+        "created_at": "2026-07-08T10:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074809272173470113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ea6EPWQaq1",
+              "end": 34,
+              "expanded_url": "https://x.com/MoYoHe_/status/2074809272173470113/photo/1",
+              "media_key": "3_2074809260685631488",
+              "start": 11,
+              "url": "https://t.co/ea6EPWQaq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074809272173470113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "负能量嘉豪TV启动😇 https://t.co/ea6EPWQaq1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 129,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 573
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

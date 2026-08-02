@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2081013613612154981",
+    "created_at": "2026-07-26T12:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081352181454918100"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081352181454918100",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081013613612154981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个帖子下面再出现那种伪人发言一样锁评论😅怎么次次发个啥帖子就有这种伪人，我说的不是中国话吗，这么直白简单的话看不懂是何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2081013613612154981",
+        "created_at": "2026-07-26T12:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081352181454918100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081352181454918100",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081013613612154981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个帖子下面再出现那种伪人发言一样锁评论😅怎么次次发个啥帖子就有这种伪人，我说的不是中国话吗，这么直白简单的话看不懂是何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2081013613612154981",
+        "created_at": "2026-07-25T13:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081013613612154981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081013613612154981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4975,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为有80%一开始上推的男生，都是因为炫压抑，做出的行为包括，评论底下刷存在感（没有说我没干过的意思，）私信骚扰小姑娘，最隐晦的可能就是自己看看篇解决一下，我这么说主要还是因为推这个平台不正规，都不用为自己的言行费心，就像当初瓦一堆人喊妈妈一样，就是因为没人管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 133,
+          "like_count": 2958,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 781
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

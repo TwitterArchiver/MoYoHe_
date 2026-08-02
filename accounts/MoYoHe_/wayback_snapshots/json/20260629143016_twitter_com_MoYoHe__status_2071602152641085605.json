@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2071601236361740625",
+    "created_at": "2026-06-29T14:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071602152641085605"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071602152641085605",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071601236361740625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当然剧中的这个概念忽略的一点，有些父母并不真的在乎这台法拉利，他们会犯错然后在数十年后这辆车出故障的同时，他们会说你没有故障或者你以前不是这样的，人跟汽车是相同的，都有一个压力限度，超过压力限度而导致报废也是情有可原的，这种情况下自我修复用处其实不大了，只能寄希望于修理厂或修理工"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071601236361740625",
+        "created_at": "2026-06-29T14:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071602152641085605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071602152641085605",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071601236361740625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然剧中的这个概念忽略的一点，有些父母并不真的在乎这台法拉利，他们会犯错然后在数十年后这辆车出故障的同时，他们会说你没有故障或者你以前不是这样的，人跟汽车是相同的，都有一个压力限度，超过压力限度而导致报废也是情有可原的，这种情况下自我修复用处其实不大了，只能寄希望于修理厂或修理工"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071601236361740625",
+        "created_at": "2026-06-29T14:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071601236361740625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071601236361740625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天在看的正念谋杀有个概念很吸引人，父母带给我们生命就像送一台全新的法拉利，带同时他们也会因为犯错在这辆法拉利上留下刮痕，我们都不理解为什么父母会这么做，但生活总会留下痕迹，只有不去经历才不会犯错，经历了这些划痕后最好的选择就是修复自身并且不去犯相同的错，这种正念还是挺有趣的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 97,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

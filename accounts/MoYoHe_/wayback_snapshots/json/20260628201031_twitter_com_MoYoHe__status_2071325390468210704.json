@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2071325390468210704",
+    "created_at": "2026-06-28T20:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T21:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071325390468210704"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071325390468210704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我讨厌死亡，甚至可以说的上憎恶它，对于某些物种来说死亡是为了带来更好的开始，鲸鱼啊树木啊，但是对人类而言只能带来悲伤，你甚至没办法再见到你日思夜想的人一面，直到有一天你醒来，发现你忘却了，你有点不在乎了，你甚至没办法想起他的样貌和声音，我无法想象那种痛苦，甚至比死亡还要恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071325390468210704",
+        "created_at": "2026-06-28T20:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071325390468210704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071325390468210704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌死亡，甚至可以说的上憎恶它，对于某些物种来说死亡是为了带来更好的开始，鲸鱼啊树木啊，但是对人类而言只能带来悲伤，你甚至没办法再见到你日思夜想的人一面，直到有一天你醒来，发现你忘却了，你有点不在乎了，你甚至没办法想起他的样貌和声音，我无法想象那种痛苦，甚至比死亡还要恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 96,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 315
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2069834526709195220",
+    "created_at": "2026-06-27T10:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070815448103538875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1717365314894127104",
+          "start": 0,
+          "username": "RJYbaby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070815448103538875",
+    "in_reply_to_user_id": "1717365314894127104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069834526709195220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RJYbaby 接下来你要接受的是好的大专不比本科差，好的本科不比大专差，好的985不比坏的大专差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2069834526709195220",
+        "created_at": "2026-06-27T10:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070815448103538875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1717365314894127104",
+              "start": 0,
+              "username": "RJYbaby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070815448103538875",
+        "in_reply_to_user_id": "1717365314894127104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069834526709195220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RJYbaby 接下来你要接受的是好的大专不比本科差，好的本科不比大专差，好的985不比坏的大专差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717365314894127104",
+        "conversation_id": "2069834526709195220",
+        "created_at": "2026-06-24T17:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069834526709195220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069834526709195220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底去大专还是民办二本🥹这个问题又来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 100,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T02:19:49.000Z",
+        "description": "这里小鸢~",
+        "id": "1717365314894127104",
+        "location": "❤️",
+        "name": "阿鸢鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769176630680018944/hA6ks6es_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 90,
+          "like_count": 1665,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "RJYbaby",
+        "verified": false
+      }
+    ]
+  }
+}

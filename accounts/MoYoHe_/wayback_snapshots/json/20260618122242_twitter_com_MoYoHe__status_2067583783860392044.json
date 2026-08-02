@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067180527019569514",
+    "created_at": "2026-06-18T12:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067583783860392044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "706232320924086272",
+          "start": 0,
+          "username": "alinn_enriquez"
+        },
+        {
+          "end": 28,
+          "id": "2003845262557827072",
+          "start": 16,
+          "username": "lizim493978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067583783860392044",
+    "in_reply_to_user_id": "706232320924086272",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067556579721834590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alinn_enriquez @lizim493978 WTF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067180527019569514",
+        "created_at": "2026-06-18T12:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067583783860392044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "706232320924086272",
+              "start": 0,
+              "username": "alinn_enriquez"
+            },
+            {
+              "end": 28,
+              "id": "2003845262557827072",
+              "start": 16,
+              "username": "lizim493978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067583783860392044",
+        "in_reply_to_user_id": "706232320924086272",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067556579721834590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alinn_enriquez @lizim493978 WTF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "706232320924086272",
+        "conversation_id": "2067180527019569514",
+        "created_at": "2026-06-18T10:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067556579721834590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            },
+            {
+              "end": 21,
+              "id": "2003845262557827072",
+              "start": 9,
+              "username": "lizim493978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067556579721834590",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067226870744228338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ @lizim493978 👆\n😘\n⭐\n‌🙏\n ⁠✨👌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 98,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 148
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-05T21:38:01.000Z",
+        "description": "桐🌷城🔥上🎊椚~下方可联系✈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linlin801",
+                "end": 23,
+                "expanded_url": "http://t.me/linlin801",
+                "start": 0,
+                "url": "https://t.co/NOvp0avpmz"
+              }
+            ]
+          }
+        },
+        "id": "706232320924086272",
+        "location": "距离1.9km    ✈👉",
+        "name": "🌸蜜桃香糖🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066908084962770944/RSdBWEhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 68,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 71
+        },
+        "url": "https://t.co/NOvp0avpmz",
+        "username": "alinn_enriquez",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T15:09:10.000Z",
+        "description": "太阳还会出来吗…",
+        "id": "2003845262557827072",
+        "name": "Dove.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046259265946656768/yPoAlcGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 26,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "lizim493978",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2072333029779845605",
+    "created_at": "2026-07-01T15:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072340072020767109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1974322069807714305",
+          "start": 0,
+          "username": "toskaIceland"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072340072020767109",
+    "in_reply_to_user_id": "1974322069807714305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072333029779845605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toskaIceland 别低估自己，你已经很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2072333029779845605",
+        "created_at": "2026-07-01T15:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072340072020767109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1974322069807714305",
+              "start": 0,
+              "username": "toskaIceland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072340072020767109",
+        "in_reply_to_user_id": "1974322069807714305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072333029779845605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toskaIceland 别低估自己，你已经很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974322069807714305",
+        "conversation_id": "2072333029779845605",
+        "created_at": "2026-07-01T14:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072333029779845605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072333029779845605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真是不知道我这样的人为什么有那么强的自尊心，本来就是个贱畜啊 自尊心也是我多年痛苦的来源"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 97,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 371
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T03:54:18.000Z",
+        "description": "兄弟你不要跟我扯 我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点",
+        "id": "1974322069807714305",
+        "name": "Toska",
+        "pinned_tweet_id": "2068400474588328247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920786865975296/ReB-uSO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 93,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "toskaIceland",
+        "verified": false
+      }
+    ]
+  }
+}

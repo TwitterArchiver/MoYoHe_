@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2074470186380366168",
+    "created_at": "2026-07-07T23:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T00:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074636745057185988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003845262557827072",
+          "start": 0,
+          "username": "lizim493978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074636745057185988",
+    "in_reply_to_user_id": "2003845262557827072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074540837086879866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizim493978 是这样的，点个关注就跑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2074470186380366168",
+        "created_at": "2026-07-07T23:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074636745057185988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003845262557827072",
+              "start": 0,
+              "username": "lizim493978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074636745057185988",
+        "in_reply_to_user_id": "2003845262557827072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074540837086879866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizim493978 是这样的，点个关注就跑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003845262557827072",
+        "conversation_id": "2074470186380366168",
+        "created_at": "2026-07-07T17:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074540837086879866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074540837086879866",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074470306056675361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 我是那种给别人抖音点一个赞然后等他过来追我😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 129,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T15:09:10.000Z",
+        "description": "太阳还会出来吗…",
+        "id": "2003845262557827072",
+        "name": "Dove.",
+        "pinned_tweet_id": "2073783340055011746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074545882113175552/FkKVCOGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 33,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "lizim493978",
+        "verified": false
+      }
+    ]
+  }
+}

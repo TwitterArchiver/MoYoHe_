@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067924542325178866",
+    "created_at": "2026-06-19T11:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067927478900027709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1720852749330591744",
+          "start": 0,
+          "username": "Xuannnnn_oxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067927478900027709",
+    "in_reply_to_user_id": "1720852749330591744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067926836441682167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuannnnn_oxo 最好的办法就是问他们班同学要她爸妈的电话，子女不还的父母还就完了，你去堵她她还可能污蔑你说她还你了，这种人钱都不还脸肯定也是不要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067924542325178866",
+        "created_at": "2026-06-19T11:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067927478900027709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720852749330591744",
+              "start": 0,
+              "username": "Xuannnnn_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067927478900027709",
+        "in_reply_to_user_id": "1720852749330591744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067926836441682167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuannnnn_oxo 最好的办法就是问他们班同学要她爸妈的电话，子女不还的父母还就完了，你去堵她她还可能污蔑你说她还你了，这种人钱都不还脸肯定也是不要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720852749330591744",
+        "conversation_id": "2067924542325178866",
+        "created_at": "2026-06-19T11:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067926836441682167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067926836441682167",
+        "in_reply_to_user_id": "1720852749330591744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067924542325178866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯。她学校班级姓名电话号我都搞到手了我可以干点什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 109,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T17:17:41.000Z",
+        "description": "精神病随便发发性取向为女不扩列不聊骚别骚扰我 不谈不约不收门槛专心经营唐氏生活",
+        "id": "1720852749330591744",
+        "name": "瑄瑄",
+        "pinned_tweet_id": "2067461776116179213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858663287992242176/wAA5qpC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 22,
+          "like_count": 769,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1055
+        },
+        "url": "",
+        "username": "Xuannnnn_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

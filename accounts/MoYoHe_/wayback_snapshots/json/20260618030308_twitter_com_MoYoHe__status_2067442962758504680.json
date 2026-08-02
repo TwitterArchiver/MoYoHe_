@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067442962758504680",
+    "created_at": "2026-06-18T03:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067442962758504680"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067442962758504680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "得抑郁症后半年左右都没跟家里说，我知道家里没钱给我看病，即便有钱看病最后还要拿这个事情没事唠叨，而且不会把我当正常人看，最后还是告诉了，结果还真就跟我想的一样，再加上小城市甚至没有一个合适的专治心理的医院，唯一一个还全是跟老年抑郁区在一起的，最后直接不了了之了，爆！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067442962758504680",
+        "created_at": "2026-06-18T03:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067442962758504680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067442962758504680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "得抑郁症后半年左右都没跟家里说，我知道家里没钱给我看病，即便有钱看病最后还要拿这个事情没事唠叨，而且不会把我当正常人看，最后还是告诉了，结果还真就跟我想的一样，再加上小城市甚至没有一个合适的专治心理的医院，唯一一个还全是跟老年抑郁区在一起的，最后直接不了了之了，爆！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 92,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

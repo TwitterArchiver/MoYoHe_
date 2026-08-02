@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2083478423565959414",
+    "created_at": "2026-08-01T09:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083478423565959414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MoYoHe_/status…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/MoYoHe_/status/2083477032416268618",
+          "start": 141,
+          "url": "https://t.co/jcgqvDchiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083478423565959414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083477032416268618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起这个主要是因为高中时英语老师是个年龄较大的老师，现在年龄上来了可能确实讲不动，但是讲课讲的还不错，结果因为年龄大，班里很多人因为这事就在班主任面前辱骂她，而且从这事之后班里大部分人上课直接就是完全不听了，我当时其实觉得他们对这老师的方式挺不对的，我也为这老师说过几句但用处不大 https://t.co/jcgqvDchiO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083478423565959414",
+        "created_at": "2026-08-01T09:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083478423565959414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MoYoHe_/status…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/MoYoHe_/status/2083477032416268618",
+              "start": 141,
+              "url": "https://t.co/jcgqvDchiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083478423565959414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083477032416268618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起这个主要是因为高中时英语老师是个年龄较大的老师，现在年龄上来了可能确实讲不动，但是讲课讲的还不错，结果因为年龄大，班里很多人因为这事就在班主任面前辱骂她，而且从这事之后班里大部分人上课直接就是完全不听了，我当时其实觉得他们对这老师的方式挺不对的，我也为这老师说过几句但用处不大 https://t.co/jcgqvDchiO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083477032416268618",
+        "created_at": "2026-08-01T08:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083477032416268618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083477032416268618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有就是我觉得学生时代尊师重道也很重要，当然一些品德很差，对学生搞针对或者带偏见的老师除外\n学生都会认真听讲的课堂大部分都是因为学生尊敬老师才能做到，比方说这个老师比较严厉或者讲课很有意思，但是如果本身就对老师有成见或者压根不把老师放在眼里，那肯定他讲任何东西你都听不进去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 151,
+          "like_count": 4305,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 992
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

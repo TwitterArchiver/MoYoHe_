@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2074393482136068440",
+    "created_at": "2026-07-07T07:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074393482136068440"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074393482136068440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽了我以后再也不可能提及任何国内或者国外的话题了，这些见证区就跟魔怔了一样，我那篇帖子感慨的是亚洲各国青年都没什么活力了，能活着能撑下去已经是难能可贵了主要是最后那句我们是被历史遗忘的一代，结果扯着扯着就到见证了，都是机器人吗🤖检索到关键词就发病，神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2074393482136068440",
+        "created_at": "2026-07-07T07:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074393482136068440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074393482136068440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽了我以后再也不可能提及任何国内或者国外的话题了，这些见证区就跟魔怔了一样，我那篇帖子感慨的是亚洲各国青年都没什么活力了，能活着能撑下去已经是难能可贵了主要是最后那句我们是被历史遗忘的一代，结果扯着扯着就到见证了，都是机器人吗🤖检索到关键词就发病，神了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 122,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

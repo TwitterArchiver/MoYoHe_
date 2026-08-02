@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2082738866168164611",
+    "created_at": "2026-07-30T09:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082763593561575574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2054104143212822529",
+          "start": 0,
+          "username": "dontfkblockme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082763593561575574",
+    "in_reply_to_user_id": "2054104143212822529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082762939426369630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dontfkblockme 这个确实挺恐怖的，怎么看着越再生越快，最后完全不怕了站起来准备反杀了，感觉在梦里被打或者被杀也挺吓人的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2082762939426369630].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2082762939426369630",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2082762939426369630"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2082738866168164611",
+        "created_at": "2026-07-30T09:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082763593561575574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2054104143212822529",
+              "start": 0,
+              "username": "dontfkblockme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082763593561575574",
+        "in_reply_to_user_id": "2054104143212822529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082762939426369630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontfkblockme 这个确实挺恐怖的，怎么看着越再生越快，最后完全不怕了站起来准备反杀了，感觉在梦里被打或者被杀也挺吓人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 145,
+          "like_count": 3897,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 919
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T07:40:52.000Z",
+        "description": "I’m a nobody",
+        "id": "2054104143212822529",
+        "name": "嘔吐物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054106463019343872/bScXhzKi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 23,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "dontfkblockme",
+        "verified": false
+      }
+    ]
+  }
+}

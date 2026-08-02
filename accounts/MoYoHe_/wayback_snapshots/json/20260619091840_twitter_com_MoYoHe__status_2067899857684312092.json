@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067856787563552929",
+    "created_at": "2026-06-19T09:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067899857684312092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040055666799443968",
+          "start": 0,
+          "username": "MeguToge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067899857684312092",
+    "in_reply_to_user_id": "2040055666799443968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067856787563552929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeguToge 狗狗是真可爱，我家里原来也养了四只猫，但是除了暹罗比较聪明黏人剩下的都不怎么活动，但是狗狗无论大小都很粘人，柯基啊拉布拉多金毛，想想我都受不了🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067856787563552929",
+        "created_at": "2026-06-19T09:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067899857684312092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040055666799443968",
+              "start": 0,
+              "username": "MeguToge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067899857684312092",
+        "in_reply_to_user_id": "2040055666799443968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067856787563552929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeguToge 狗狗是真可爱，我家里原来也养了四只猫，但是除了暹罗比较聪明黏人剩下的都不怎么活动，但是狗狗无论大小都很粘人，柯基啊拉布拉多金毛，想想我都受不了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040055666799443968",
+        "conversation_id": "2067856787563552929",
+        "created_at": "2026-06-19T06:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067856787563552929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067856787563552929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我特别想养狗啊但是家里有五只猫了，我特别喜欢那种大大的狗 小时候妈妈有个朋友就养了 我就经常去她那里玩 和狗狗一起玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 109,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T13:18:22.000Z",
+        "description": "你好我是零零 精神疾病有\n会自伤情绪不稳定 可以找我互fo",
+        "id": "2040055666799443968",
+        "name": "澪朽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054842631885385728/0Astpl2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 81,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "MeguToge",
+        "verified": false
+      }
+    ]
+  }
+}

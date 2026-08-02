@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2074088352551510481",
+    "created_at": "2026-07-07T07:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074392588392845736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1128515917715873792",
+          "start": 0,
+          "username": "LeonKai3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074392588392845736",
+    "in_reply_to_user_id": "1128515917715873792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074391788790448540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeonKai3 能不能别再来我帖子下面发癫了😅我都说了这帖子不是见证帖，是感慨现在青年都过得很苦，重点都抓不住吗，我都说了亚洲各国就只能看见国内和日本这几个字眼是吧，你们见证区大脑也是完全不生长的吗😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2074088352551510481",
+        "created_at": "2026-07-07T07:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074392588392845736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1128515917715873792",
+              "start": 0,
+              "username": "LeonKai3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074392588392845736",
+        "in_reply_to_user_id": "1128515917715873792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074391788790448540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeonKai3 能不能别再来我帖子下面发癫了😅我都说了这帖子不是见证帖，是感慨现在青年都过得很苦，重点都抓不住吗，我都说了亚洲各国就只能看见国内和日本这几个字眼是吧，你们见证区大脑也是完全不生长的吗😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128515917715873792",
+        "conversation_id": "2074088352551510481",
+        "created_at": "2026-07-07T07:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074391788790448540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074391788790448540",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074088352551510481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 日本公认的被毁掉的一代是教育改革快乐教育的一代，你是快乐教育么？\n所以现在教育系统里玩命宣传快乐教育，禁止补习班，主动拉高普通人教育资源获取成本的“教育人士”是什么成分你清楚了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 122,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-15T04:22:16.000Z",
+        "description": "beyond the time",
+        "id": "1128515917715873792",
+        "location": "魔都",
+        "name": "LeonKai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072574152889016320/ucMtw51a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 61,
+          "like_count": 86,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "LeonKai3",
+        "verified": false
+      }
+    ]
+  }
+}

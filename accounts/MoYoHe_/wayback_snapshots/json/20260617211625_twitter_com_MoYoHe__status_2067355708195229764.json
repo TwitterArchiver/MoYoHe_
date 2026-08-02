@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067355708195229764",
+    "created_at": "2026-06-17T21:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T22:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067355708195229764"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067355708195229764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从小到大一直都很想养只小狗，应该是在我父母离婚那年我就感觉很孤独，我就跟我妈说我想养只小狗，我妈每次就是答应下来，这次考多少多少分，干什么什么就给你养，或者等你上初中，等你上高中，可是没有一次兑现过，等到我上大学了再提起这事，她反而说，你不是上大学了吗，自己去大学养呗，真是服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067355708195229764",
+        "created_at": "2026-06-17T21:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T22:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067355708195229764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067355708195229764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从小到大一直都很想养只小狗，应该是在我父母离婚那年我就感觉很孤独，我就跟我妈说我想养只小狗，我妈每次就是答应下来，这次考多少多少分，干什么什么就给你养，或者等你上初中，等你上高中，可是没有一次兑现过，等到我上大学了再提起这事，她反而说，你不是上大学了吗，自己去大学养呗，真是服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 87,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 127
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2072061111793504320",
+    "created_at": "2026-06-30T23:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T00:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072093702320005368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "befriendsyep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072093702320005368",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072061111793504320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@befriendsyep 那看来我已经是飞升成神了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2072061111793504320",
+        "created_at": "2026-06-30T23:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072093702320005368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "befriendsyep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072093702320005368",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072061111793504320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@befriendsyep 那看来我已经是飞升成神了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2072061111793504320",
+        "created_at": "2026-06-30T20:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072061111793504320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072061111793504320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在还没睡的人都是强者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 98,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "爱你们，有烦恼或问题可以私信和我倾诉，我会帮你们的，找我闲聊也可以哦 ✌︎' ֊'",
+        "id": "1814688236398166016",
+        "location": "伊甸园",
+        "name": "TK",
+        "pinned_tweet_id": "2069745633905549553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063647900262072320/nlC7fHyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 738,
+          "like_count": 7258,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "befriendsyep",
+        "verified": false
+      }
+    ]
+  }
+}

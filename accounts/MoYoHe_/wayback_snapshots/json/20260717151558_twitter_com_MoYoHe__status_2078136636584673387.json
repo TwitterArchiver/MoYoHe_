@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2078136636584673387",
+    "created_at": "2026-07-17T15:15:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078136636584673387"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078136636584673387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我曾经害怕变成我父亲那样的混球，因为喝酒耍酒疯影响别人，所以我从不喝酒，我害怕像我哥那样抽烟影响别人，所以我从不抽烟，我有太多从未做过的事，我希望我能因为没做出的这些行为变得更好，可是到头来我跟我的父亲好像还是一模一样，没有任何变化，那我所做的坚持是什么，我应该去享受人生的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2078136636584673387",
+        "created_at": "2026-07-17T15:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078136636584673387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078136636584673387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我曾经害怕变成我父亲那样的混球，因为喝酒耍酒疯影响别人，所以我从不喝酒，我害怕像我哥那样抽烟影响别人，所以我从不抽烟，我有太多从未做过的事，我希望我能因为没做出的这些行为变得更好，可是到头来我跟我的父亲好像还是一模一样，没有任何变化，那我所做的坚持是什么，我应该去享受人生的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 116,
+          "like_count": 2004,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 685
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

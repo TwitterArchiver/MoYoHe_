@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2025558462378426573",
+    "created_at": "2026-02-22T13:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T14:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025564309234057626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1985699231483744256",
+          "start": 0,
+          "username": "mythlrw8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025564309234057626",
+    "in_reply_to_user_id": "1985699231483744256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025558462378426573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mythlrw8 朋友，我也不知道该怎么称呼你，所以就称你为朋友，我看你也在经历巨大的痛苦，我也是，我现在疲于现实生活，大学也没什么朋友，谁都不认识，我真的很想再去多认识些朋友，但是发现推特上并没有有关抑郁症交友的，如果你不介意，我们能认识吗，不会过多干扰你，就是聊聊天，说说话，如果打扰到你很抱歉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2025558462378426573",
+        "created_at": "2026-02-22T13:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025564309234057626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1985699231483744256",
+              "start": 0,
+              "username": "mythlrw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025564309234057626",
+        "in_reply_to_user_id": "1985699231483744256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025558462378426573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mythlrw8 朋友，我也不知道该怎么称呼你，所以就称你为朋友，我看你也在经历巨大的痛苦，我也是，我现在疲于现实生活，大学也没什么朋友，谁都不认识，我真的很想再去多认识些朋友，但是发现推特上并没有有关抑郁症交友的，如果你不介意，我们能认识吗，不会过多干扰你，就是聊聊天，说说话，如果打扰到你很抱歉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985699231483744256",
+        "conversation_id": "2025558462378426573",
+        "created_at": "2026-02-22T13:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025558462378426573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025558462378426573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非要我现在捅一刀才能冷静下来吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T13:22:55.000Z",
+        "description": "",
+        "id": "1985699231483744256",
+        "name": "myth",
+        "pinned_tweet_id": "2024774751693275273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024867928538300416/DBWy_SyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 89,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 574
+        },
+        "username": "mythlrw8",
+        "verified": false
+      }
+    ]
+  }
+}

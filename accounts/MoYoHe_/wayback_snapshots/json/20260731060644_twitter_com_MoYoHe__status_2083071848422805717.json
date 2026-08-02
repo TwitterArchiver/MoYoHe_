@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2083071586349752830",
+    "created_at": "2026-07-31T06:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083071848422805717"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083071848422805717",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083071586349752830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我之后专门开个帖留一下我觉得比较好听且很好的台词，希望以后哪怕不玩LOL了也能常看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083071586349752830",
+        "created_at": "2026-07-31T06:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083071848422805717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083071848422805717",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083071586349752830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我之后专门开个帖留一下我觉得比较好听且很好的台词，希望以后哪怕不玩LOL了也能常看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083071586349752830",
+        "created_at": "2026-07-31T06:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083071586349752830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083071586349752830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "LOL的世界观和剧情写的非常好，除了吃书太严重以外真的能出很好的小说（破败之咒除外佛耶戈有点🤡）我印象最深的就是潘森的背景故事，屡败屡战，爬上巨神峰后不被星灵接受，结果星灵死后凡人之躯给暗裔里面最强的剑魔打败了，还有他那句语音，亚托克斯曾弑杀天神，但现在他面对一个凡人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 145,
+          "like_count": 4118,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 941
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

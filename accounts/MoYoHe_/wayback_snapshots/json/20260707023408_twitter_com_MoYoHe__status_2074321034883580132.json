@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2074064759574695971",
+    "created_at": "2026-07-07T02:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074321034883580132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1550562835415339008",
+          "start": 0,
+          "username": "Syluskittennnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074321034883580132",
+    "in_reply_to_user_id": "1550562835415339008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074064759574695971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Syluskittennnnn 跟我当初一样😇住了两周花了9000，还好医保报了一大半，不然我真不知道咋跟家里说了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 821,
+        "media_key": "3_2074064757016141824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiO6FsaoAAE0N0.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2074064759574695971",
+        "created_at": "2026-07-07T02:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074321034883580132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1550562835415339008",
+              "start": 0,
+              "username": "Syluskittennnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074321034883580132",
+        "in_reply_to_user_id": "1550562835415339008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074064759574695971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Syluskittennnnn 跟我当初一样😇住了两周花了9000，还好医保报了一大半，不然我真不知道咋跟家里说了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074064757016141824"
+          ]
+        },
+        "author_id": "1550562835415339008",
+        "conversation_id": "2074064759574695971",
+        "created_at": "2026-07-06T09:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074064759574695971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vKrH8p5btu",
+              "end": 35,
+              "expanded_url": "https://x.com/Syluskittennnnn/status/2074064759574695971/photo/1",
+              "media_key": "3_2074064757016141824",
+              "start": 12,
+              "url": "https://t.co/vKrH8p5btu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074064759574695971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1046,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "住院12天消费九千…… https://t.co/vKrH8p5btu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 119,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 525
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T19:26:35.000Z",
+        "description": "🌳",
+        "id": "1550562835415339008",
+        "location": "❤️‍🩹",
+        "name": "我和树",
+        "pinned_tweet_id": "2051719004486852623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066558236610961413/17MPPV1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5821,
+          "following_count": 157,
+          "like_count": 4773,
+          "listed_count": 25,
+          "media_count": 87,
+          "tweet_count": 1066
+        },
+        "url": "",
+        "username": "Syluskittennnnn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2073985980835725805",
+    "created_at": "2026-07-07T06:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074375668197191749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1599024279756365824",
+          "start": 0,
+          "username": "yiyiyiyiyizy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074375668197191749",
+    "in_reply_to_user_id": "1599024279756365824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073985980835725805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiyiyiyiyizy 地域黑的人素质和认知只能说低到出奇了😅他能因为一件事去认定一个地区的人是什么样的，就能说明他的大脑本身就不大，那如果因为一件事认死理，那我还能说因为你骗人了所以你应该被抓进监狱呢😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2073985980835725805",
+        "created_at": "2026-07-07T06:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074375668197191749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1599024279756365824",
+              "start": 0,
+              "username": "yiyiyiyiyizy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074375668197191749",
+        "in_reply_to_user_id": "1599024279756365824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073985980835725805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiyiyiyiyizy 地域黑的人素质和认知只能说低到出奇了😅他能因为一件事去认定一个地区的人是什么样的，就能说明他的大脑本身就不大，那如果因为一件事认死理，那我还能说因为你骗人了所以你应该被抓进监狱呢😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599024279756365824",
+        "conversation_id": "2073985980835725805",
+        "created_at": "2026-07-06T04:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073985980835725805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073985980835725805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6364,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地域黑的全都是傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 122,
+          "like_count": 751,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T12:54:41.000Z",
+        "description": "话!很!多!  你也最好有礼貌一点!^ ^",
+        "id": "1599024279756365824",
+        "location": "月球",
+        "name": "栗子一",
+        "pinned_tweet_id": "1862906198556639255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619927404990058497/ecGK-pzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 19,
+          "like_count": 1235,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "yiyiyiyiyizy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2076515488503595107",
+    "created_at": "2026-07-13T06:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076555414129500552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003845262557827072",
+          "start": 0,
+          "username": "lizim493978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076555414129500552",
+    "in_reply_to_user_id": "2003845262557827072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076515488503595107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizim493978 对自己有点信心啊，你看你能跟我聊这么长时间，我自己都是聊天苦手来的，这不就说明你聊天技术高超吗😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2076515488503595107",
+        "created_at": "2026-07-13T06:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076555414129500552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003845262557827072",
+              "start": 0,
+              "username": "lizim493978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076555414129500552",
+        "in_reply_to_user_id": "2003845262557827072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076515488503595107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizim493978 对自己有点信心啊，你看你能跟我聊这么长时间，我自己都是聊天苦手来的，这不就说明你聊天技术高超吗😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003845262557827072",
+        "conversation_id": "2076515488503595107",
+        "created_at": "2026-07-13T03:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076515488503595107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076515488503595107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我和人的关系只适合停留在他看见我的高p照片然后想接近我和我当朋友 到这里就可以了 因为我照片是高p的情商智商都不高 一点思想三观都没有但凡有一点深度的话题我都聊不下去 多说几句话就惹人嫌😇从今天开始我将不会和任何一个人建立亲密关系☹️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 118,
+          "like_count": 1456,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T15:09:10.000Z",
+        "description": "太阳还会出来吗…",
+        "id": "2003845262557827072",
+        "name": "Dove.",
+        "pinned_tweet_id": "2075103322424607004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074545882113175552/FkKVCOGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 36,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "lizim493978",
+        "verified": false
+      }
+    ]
+  }
+}

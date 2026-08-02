@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2065126340005888090",
+    "created_at": "2026-06-11T22:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T23:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065197633380163620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003845262557827072",
+          "start": 0,
+          "username": "lizim493978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065197633380163620",
+    "in_reply_to_user_id": "2003845262557827072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065126340005888090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizim493978 忧郁女神希尔顿😶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065126336918925312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjNdkBbMAAPiho.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2065126340005888090",
+        "created_at": "2026-06-11T22:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065197633380163620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003845262557827072",
+              "start": 0,
+              "username": "lizim493978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065197633380163620",
+        "in_reply_to_user_id": "2003845262557827072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065126340005888090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizim493978 忧郁女神希尔顿😶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065126336918925312"
+          ]
+        },
+        "author_id": "2003845262557827072",
+        "conversation_id": "2065126340005888090",
+        "created_at": "2026-06-11T17:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065126340005888090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzxU1RzFLL",
+              "end": 31,
+              "expanded_url": "https://x.com/lizim493978/status/2065126340005888090/photo/1",
+              "media_key": "3_2065126336918925312",
+              "start": 8,
+              "url": "https://t.co/dzxU1RzFLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065126340005888090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "惡名總比無名好 https://t.co/dzxU1RzFLL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 50,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T15:09:10.000Z",
+        "description": "太阳还会出来吗…",
+        "id": "2003845262557827072",
+        "name": "Dove.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046259265946656768/yPoAlcGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 26,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 33
+        },
+        "username": "lizim493978",
+        "verified": false
+      }
+    ]
+  }
+}

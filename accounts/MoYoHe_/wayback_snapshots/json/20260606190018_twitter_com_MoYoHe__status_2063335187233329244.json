@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2063224684536279540",
+    "created_at": "2026-06-06T19:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T20:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063335187233329244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057055984338833408",
+          "start": 0,
+          "username": "Yuramyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063335187233329244",
+    "in_reply_to_user_id": "2057055984338833408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063224684536279540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuramyn 精神胜利的来了，你回不回他都说你急，再多说两句直接把线下有房有车都说出来了，再多说两句家里直接变出一套四合院了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1986,
+        "media_key": "3_2063224676235771904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIL6V7agAAWbpD.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2063224684536279540",
+        "created_at": "2026-06-06T19:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063335187233329244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057055984338833408",
+              "start": 0,
+              "username": "Yuramyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063335187233329244",
+        "in_reply_to_user_id": "2057055984338833408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063224684536279540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuramyn 精神胜利的来了，你回不回他都说你急，再多说两句直接把线下有房有车都说出来了，再多说两句家里直接变出一套四合院了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063224676235771904"
+          ]
+        },
+        "author_id": "2057055984338833408",
+        "conversation_id": "2063224684536279540",
+        "created_at": "2026-06-06T11:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063224684536279540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Shj2WSm5fP",
+              "end": 79,
+              "expanded_url": "https://x.com/Yuramyn/status/2063224684536279540/photo/1",
+              "media_key": "3_2063224676235771904",
+              "start": 56,
+              "url": "https://t.co/Shj2WSm5fP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063224684536279540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8509,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "谁能帮我分析一下这个人咋了？就是他讲话这个逻辑我都没看懂，哪里有难回答的问题，不是只有他看不起的私信吗？😶😶😶 https://t.co/Shj2WSm5fP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 43,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T11:11:44.000Z",
+        "description": "23，女的，研究生，私信有礼貌回…本人阴晴不定",
+        "id": "2057055984338833408",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "2062469907514868189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058189035542372352/6mVkFU1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 15,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 48
+        },
+        "username": "Yuramyn",
+        "verified": false
+      }
+    ]
+  }
+}

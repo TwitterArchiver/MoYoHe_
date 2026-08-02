@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2082209505761480857",
+    "created_at": "2026-07-29T00:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T01:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082255549308239899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1888859509973766144",
+          "start": 0,
+          "username": "rncn27555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082255549308239899",
+    "in_reply_to_user_id": "1888859509973766144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082240207945073015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rncn27555 嗯嗯，以后找到工作润的远远的，远离这片伤心之地"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2082209505761480857",
+        "created_at": "2026-07-29T00:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082255549308239899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1888859509973766144",
+              "start": 0,
+              "username": "rncn27555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082255549308239899",
+        "in_reply_to_user_id": "1888859509973766144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082240207945073015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rncn27555 嗯嗯，以后找到工作润的远远的，远离这片伤心之地"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888859509973766144",
+        "conversation_id": "2082209505761480857",
+        "created_at": "2026-07-28T23:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082240207945073015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082240207945073015",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082209712351940639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 抱抱呢。活着就好 看看以后能不能找工作自己离家吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 143,
+          "like_count": 3410,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 837
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T07:56:23.000Z",
+        "description": "泛性恋 性别脱敏",
+        "id": "1888859509973766144",
+        "name": "ran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081961896572555264/-X09q-N7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "rncn27555",
+        "verified": false
+      }
+    ]
+  }
+}

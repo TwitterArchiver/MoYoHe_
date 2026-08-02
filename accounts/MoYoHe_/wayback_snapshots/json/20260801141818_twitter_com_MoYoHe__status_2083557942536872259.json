@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2083250067838996803",
+    "created_at": "2026-08-01T14:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083557942536872259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050195658603483136",
+          "start": 0,
+          "username": "Idontwanttmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083557942536872259",
+    "in_reply_to_user_id": "2050195658603483136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083250067838996803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontwanttmf 帖子跟回复评论左脑搏击右脑是啥意思，你自己说的立道德标杆是傻逼，下面人说处男找处女有啥问题你又说没问题，你想单说约炮没问题你就直接说这件事，结果你自己先精神胜利说别人不做是因为约不到，这究竟是啥逻辑啊卧槽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083250067838996803",
+        "created_at": "2026-08-01T14:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083557942536872259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050195658603483136",
+              "start": 0,
+              "username": "Idontwanttmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083557942536872259",
+        "in_reply_to_user_id": "2050195658603483136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083250067838996803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontwanttmf 帖子跟回复评论左脑搏击右脑是啥意思，你自己说的立道德标杆是傻逼，下面人说处男找处女有啥问题你又说没问题，你想单说约炮没问题你就直接说这件事，结果你自己先精神胜利说别人不做是因为约不到，这究竟是啥逻辑啊卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050195658603483136",
+        "conversation_id": "2083250067838996803",
+        "created_at": "2026-07-31T17:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083250067838996803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tukesiwomenzou…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/tukesiwomenzou1/status/2083139348187468205",
+              "start": 122,
+              "url": "https://t.co/s2KqDHVs7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083250067838996803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 19046,
+          "like_count": 129,
+          "quote_count": 3,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083139348187468205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不傻逼吗……给自己树立一个道德标杆然后自己遵守的同时还要别人遵守，感觉像是因为结婚发现对方不是处于是气愤分手的那种…什么时候你的小猪脑才能意识到性和爱可以分开独立存在什么时候再来谈论这个话题吧，这种自己压抑到最后还要套别人身上的才是最二笔的 https://t.co/s2KqDHVs7k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 153,
+          "like_count": 4352,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1001
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T12:49:21.000Z",
+        "description": "🚪88\n第四世\n前世：\n@kira20194922529\n@keaiiea\n@TheFirstKidz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "kira20194922529"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "keaiiea"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "TheFirstKidz"
+              }
+            ]
+          }
+        },
+        "id": "2050195658603483136",
+        "name": "Jonas（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077563930407546880/oMF7brlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 220,
+          "like_count": 2529,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "Idontwanttmf",
+        "verified": false
+      }
+    ]
+  }
+}

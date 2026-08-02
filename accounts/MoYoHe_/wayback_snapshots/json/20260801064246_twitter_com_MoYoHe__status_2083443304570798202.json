@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2083431154510880982",
+    "created_at": "2026-08-01T06:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083443304570798202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1994535480017522690",
+          "start": 0,
+          "username": "yingduolaomian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083443304570798202",
+    "in_reply_to_user_id": "1994535480017522690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083431154510880982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingduolaomian 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2083431145811968002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnVlrAbgAISuiy.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083431154510880982",
+        "created_at": "2026-08-01T06:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083443304570798202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1994535480017522690",
+              "start": 0,
+              "username": "yingduolaomian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083443304570798202",
+        "in_reply_to_user_id": "1994535480017522690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083431154510880982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingduolaomian 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083431145811968002"
+          ]
+        },
+        "author_id": "1994535480017522690",
+        "conversation_id": "2083431154510880982",
+        "created_at": "2026-08-01T05:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083431154510880982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Et2UwPVQbl",
+              "end": 33,
+              "expanded_url": "https://x.com/yingduolaomian/status/2083431154510880982/photo/1",
+              "media_key": "3_2083431145811968002",
+              "start": 10,
+              "url": "https://t.co/Et2UwPVQbl"
+            },
+            {
+              "display_url": "x.com/yingduolaomian…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/yingduolaomian/status/2083240612237861362",
+              "start": 34,
+              "url": "https://t.co/UEXCC1Cn8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083431154510880982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083240612237861362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个吱吱也是很乖啦 https://t.co/Et2UwPVQbl https://t.co/UEXCC1Cn8S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 152,
+          "like_count": 4289,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 986
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T22:35:03.000Z",
+        "description": "此人享福中🍋🍋🍋🍋",
+        "id": "1994535480017522690",
+        "name": "起航！寻找无尽的红苕稀饭！",
+        "pinned_tweet_id": "2053784295236649073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076983317531185152/XvrfWaiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 150,
+          "like_count": 7724,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "yingduolaomian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2082420537272541237",
+    "created_at": "2026-07-29T15:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082495210471538742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860377535215013888",
+          "start": 0,
+          "username": "AraiNogawaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082495210471538742",
+    "in_reply_to_user_id": "1860377535215013888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082420537272541237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraiNogawaovo 上吊真的感觉跟书里写的一模一样，自己亲身体会以为终于能结束了，结果一醒来发现绳子松了还活在人间炼狱😵，我之前一直想试试烧炭，但是看他们说死亡率低而且容易留下后遗症，我希望我要死就死透别再活过来给别人添麻烦了🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2082420537272541237",
+        "created_at": "2026-07-29T15:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082495210471538742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860377535215013888",
+              "start": 0,
+              "username": "AraiNogawaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082495210471538742",
+        "in_reply_to_user_id": "1860377535215013888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082420537272541237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraiNogawaovo 上吊真的感觉跟书里写的一模一样，自己亲身体会以为终于能结束了，结果一醒来发现绳子松了还活在人间炼狱😵，我之前一直想试试烧炭，但是看他们说死亡率低而且容易留下后遗症，我希望我要死就死透别再活过来给别人添麻烦了🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860377535215013888",
+        "conversation_id": "2082420537272541237",
+        "created_at": "2026-07-29T10:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082420537272541237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082420537272541237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上吊真是一种好痛苦的死法啊尤其是该痛的都痛完了一睁眼又被救回来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 143,
+          "like_count": 3562,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 861
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T17:39:13.000Z",
+        "description": "ENTP｜keep honored\n称呼随意什麼都行 Arai/kilo\n｜生理女心理女^欢迎聊天^互關大歡迎｜\n-\n双手合十的时候，第一个听到祈祷的人是自己。",
+        "id": "1860377535215013888",
+        "location": "Singapore",
+        "name": "荒井野川",
+        "pinned_tweet_id": "2081818446371934245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075617491817226240/WqJS9TrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 235,
+          "like_count": 2148,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 905
+        },
+        "url": "",
+        "username": "AraiNogawaovo",
+        "verified": true
+      }
+    ]
+  }
+}

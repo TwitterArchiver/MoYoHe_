@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067589747602751982",
+    "created_at": "2026-06-19T00:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T01:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067772157011325113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755494652889661440",
+          "start": 0,
+          "username": "Victor_zhang233"
+        },
+        {
+          "end": 27,
+          "id": "1661148065749942272",
+          "start": 17,
+          "username": "MeiyiSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067772157011325113",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067701258144952748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victor_zhang233 @MeiyiSama 矮人科技发力了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067589747602751982",
+        "created_at": "2026-06-19T00:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067772157011325113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 27,
+              "id": "1661148065749942272",
+              "start": 17,
+              "username": "MeiyiSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067772157011325113",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067701258144952748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @MeiyiSama 矮人科技发力了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067589747602751982",
+        "created_at": "2026-06-18T20:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067701258144952748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1661148065749942272",
+              "start": 0,
+              "username": "MeiyiSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067701258144952748",
+        "in_reply_to_user_id": "1661148065749942272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067589747602751982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiyiSama 什么？这不是走资，我们这个邓小平理论体积小方便携带，拆开一包，放水里就会摸石头过河，一戳就破，用来擦脚，擦脸，擦嘴都是很好用的，你看打开以后像茅台一样大小，放在小渔村里画圈就会变富，吸钱性很强的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 103,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 372,
+          "like_count": 7310,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2060
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-23T23:12:24.000Z",
+        "description": "1935出生于吉林长春，1950参加中国人民解放军并参加抗美援朝。1951加入中国共产党。复员后到上海入第十七棉纺织厂当工人。后于保卫科任干事。1966响应伟大领袖毛主席号召推翻上海市委反动统治打响夺权第一枪，并在党十大上成功当选副主席。 1976粉碎走资派妄图复辟资本主义的阴谋诡计，在党十一大当选中华人民共和国主席。",
+        "id": "1661148065749942272",
+        "location": "中华人民共和国北京市西城区中南海",
+        "name": "王洪文",
+        "pinned_tweet_id": "1849506577570726220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800529443313848321/pBGkVoI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 73,
+          "like_count": 793,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 2579
+        },
+        "url": "",
+        "username": "MeiyiSama",
+        "verified": false
+      }
+    ]
+  }
+}

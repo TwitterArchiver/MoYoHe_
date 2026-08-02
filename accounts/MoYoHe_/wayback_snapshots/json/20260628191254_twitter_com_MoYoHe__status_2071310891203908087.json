@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2071310290613055937",
+    "created_at": "2026-06-28T19:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071310891203908087"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071310891203908087",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071310290613055937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打个比方，我妈在我高考前三个月突然跟我说她要去南方闯荡一番，结果不到一个月就灰头土脸跑回来了，还因为干活太久把手给闹坏了，为了看病花了将近她赚的三倍多工资，包括我上大学，她也是一味地想让我去南方，一点都没考虑以后的生活成本，赚6000可能光吃住就要花2000，跟在本地找工作赚的甚至没区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071310290613055937",
+        "created_at": "2026-06-28T19:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071310891203908087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071310891203908087",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071310290613055937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打个比方，我妈在我高考前三个月突然跟我说她要去南方闯荡一番，结果不到一个月就灰头土脸跑回来了，还因为干活太久把手给闹坏了，为了看病花了将近她赚的三倍多工资，包括我上大学，她也是一味地想让我去南方，一点都没考虑以后的生活成本，赚6000可能光吃住就要花2000，跟在本地找工作赚的甚至没区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071310290613055937",
+        "created_at": "2026-06-28T19:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071310290613055937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071310290613055937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西北的大部分中老年人都有一种错觉，那就是去南方＝能挣更多钱，但是他们完全不会考虑住在哪吃什么怎样生活，甚至他们会选择性无视自己的年龄性别学历，一味地觉得只要去南方，那就能赚到钱，该怎么说呢，有点像一味地沉浸在过去，南方确实发达有赚大钱的机会，但是这不是过去，不是遍地都有发财的机会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 96,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

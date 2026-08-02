@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067933569901908137",
+    "created_at": "2026-06-19T11:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067934326273327559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058924635547402243",
+          "start": 0,
+          "username": "kasemarin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067934326273327559",
+    "in_reply_to_user_id": "2058924635547402243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067933569901908137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin520 感觉小孩是最闹挺的，一说就是孩子还小，又不是没有见过乖孩子，别家孩子老实坐定就你家孩子跳啊，一脚踹死，家长也一脚踹死，旁边围观不管的也一脚踹死😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067933569901908137",
+        "created_at": "2026-06-19T11:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067934326273327559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058924635547402243",
+              "start": 0,
+              "username": "kasemarin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067934326273327559",
+        "in_reply_to_user_id": "2058924635547402243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067933569901908137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin520 感觉小孩是最闹挺的，一说就是孩子还小，又不是没有见过乖孩子，别家孩子老实坐定就你家孩子跳啊，一脚踹死，家长也一脚踹死，旁边围观不管的也一脚踹死😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058924635547402243",
+        "conversation_id": "2067933569901908137",
+        "created_at": "2026-06-19T11:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067933569901908137"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067933569901908137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌公共场所大喊大叫四处奔跑的小孩。很吵。很讨厌。特别是家长不管的，我真想从小的到老的全部抽死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 110,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T14:55:29.000Z",
+        "description": "08 ISFP 无聊的留学生 自伤/bpd 叫我小殇\n匿名箱https://t.co/ut4i56f9mf\n欧尼酱 @elkvika 恋人@minako8964 老婆@boqiaoahm4\n 互fo请私信 有时候看不到 查成分回fo 成分不过关会取 健全人只fo女孩子男的滚一股顺直味恶心死了去死去死去死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "elkvika"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "minako8964"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "boqiaoahm4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 30,
+                "url": "https://t.co/ut4i56f9mf"
+              }
+            ]
+          }
+        },
+        "id": "2058924635547402243",
+        "location": "死死死",
+        "name": "用户1219（互fo私）",
+        "pinned_tweet_id": "2064694234670928276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060345615574618114/FMDvngb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 36,
+          "like_count": 2883,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1213
+        },
+        "url": "",
+        "username": "kasemarin520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067990592056148126",
+    "created_at": "2026-06-19T17:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068025812205670766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1855066705636315136",
+          "start": 0,
+          "username": "wobuyaoshuohua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068025812205670766",
+    "in_reply_to_user_id": "1855066705636315136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067990592056148126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobuyaoshuohua 我去廿神注销了，真的假的？我去真注销了！ 没骚我真比以前老实了，你再这样说我骚我真受不了咧🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067990592056148126",
+        "created_at": "2026-06-19T17:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068025812205670766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1855066705636315136",
+              "start": 0,
+              "username": "wobuyaoshuohua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068025812205670766",
+        "in_reply_to_user_id": "1855066705636315136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067990592056148126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobuyaoshuohua 我去廿神注销了，真的假的？我去真注销了！ 没骚我真比以前老实了，你再这样说我骚我真受不了咧🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855066705636315136",
+        "conversation_id": "2067990592056148126",
+        "created_at": "2026-06-19T15:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T16:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067990592056148126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067990592056148126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2910,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这群人怎么可以骂我的亲亲男宝！！他很尊重女生的 只是聊个骚而已啊！你们把他骂走了我上哪找代餐啊😭👊🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 111,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T01:57:13.000Z",
+        "description": "截图死全家 | 我骂的没妈 骂我的死全家 | 讨厌所有人",
+        "id": "1855066705636315136",
+        "location": "🚪1888  你全家的丧葬费",
+        "name": "乳糖不耐受害者",
+        "pinned_tweet_id": "2065596599150186669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046193166508797952/JiehycCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 56,
+          "like_count": 1577,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 1809
+        },
+        "url": "",
+        "username": "wobuyaoshuohua",
+        "verified": false
+      }
+    ]
+  }
+}

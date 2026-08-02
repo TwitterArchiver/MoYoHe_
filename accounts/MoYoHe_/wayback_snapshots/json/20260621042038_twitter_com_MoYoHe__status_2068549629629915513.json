@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2068309883674567055",
+    "created_at": "2026-06-21T04:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068549629629915513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050906352994684928",
+          "start": 0,
+          "username": "Cuttterssi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068549629629915513",
+    "in_reply_to_user_id": "2050906352994684928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068309883674567055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cuttterssi 主播怎么这么有女人味求教程"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2068309875063771136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQc33yb0AAZCv7.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2068309883674567055",
+        "created_at": "2026-06-21T04:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068549629629915513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050906352994684928",
+              "start": 0,
+              "username": "Cuttterssi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068549629629915513",
+        "in_reply_to_user_id": "2050906352994684928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068309883674567055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cuttterssi 主播怎么这么有女人味求教程"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068309875063771136"
+          ]
+        },
+        "author_id": "2050906352994684928",
+        "conversation_id": "2068309883674567055",
+        "created_at": "2026-06-20T12:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068309883674567055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNZeVnTZc4",
+              "end": 23,
+              "expanded_url": "https://x.com/Cuttterssi/status/2068309883674567055/photo/1",
+              "media_key": "3_2068309875063771136",
+              "start": 0,
+              "url": "https://t.co/jNZeVnTZc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068309883674567055",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 994,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jNZeVnTZc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 112,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T11:53:16.000Z",
+        "description": "07/167/55/infp 很无聊 ，希望正能量的人找我聊天，我是男人。性别为男。",
+        "id": "2050906352994684928",
+        "location": "-10cm",
+        "name": "cuttte",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062336030322393089/yZptLkKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 316,
+          "like_count": 2693,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1091
+        },
+        "url": "",
+        "username": "Cuttterssi",
+        "verified": false
+      }
+    ]
+  }
+}

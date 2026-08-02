@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2069889521970454535",
+    "created_at": "2026-06-24T21:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T22:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069891358018691303"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069891358018691303",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069889521970454535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大学期间我的空闲时间更多，也有更多的空间让我享受电影和美剧，七宗罪 美国精神病人 无敌少侠 黑袍纠察队 掩耳盗铃 还有包括我曾经看过的拳击俱乐部 两杆大烟枪 狗镇等乱七八糟的电影 虽然大部分都属于较为热门的 但是我确实在看这些影视剧的时候汲取到了一些角色的特质并把它们附着于我自己身上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2069889521970454535",
+        "created_at": "2026-06-24T21:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T22:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069891358018691303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069891358018691303",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069889521970454535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大学期间我的空闲时间更多，也有更多的空间让我享受电影和美剧，七宗罪 美国精神病人 无敌少侠 黑袍纠察队 掩耳盗铃 还有包括我曾经看过的拳击俱乐部 两杆大烟枪 狗镇等乱七八糟的电影 虽然大部分都属于较为热门的 但是我确实在看这些影视剧的时候汲取到了一些角色的特质并把它们附着于我自己身上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2069889521970454535",
+        "created_at": "2026-06-24T21:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T22:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069889521970454535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069889521970454535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我精神方面的问题还有一点，是我总会情不自禁的吸收我看过的一些影视剧中角色的特性，而且我还觉得有些部分确实融入进我的生活或者本身就跟我很相似，从小时候父母离异之后我接触到的第一部电影刚好就是银河护卫队，我当时会幻想我的童年和星爵没两样，我的父亲没准真的有一艘宇宙飞船，小孩子的幻想嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 107,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

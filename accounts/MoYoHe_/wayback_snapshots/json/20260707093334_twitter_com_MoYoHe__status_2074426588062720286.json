@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073922845818671104"
+      ],
+      "media_source_tweet_id": [
+        "2074070855013826773"
+      ]
+    },
+    "author_id": "1923100693944299520",
+    "conversation_id": "2074426588062720286",
+    "created_at": "2026-07-07T09:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074426588062720286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "911294414781337600",
+          "start": 3,
+          "username": "itsD3lay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XeXPlBLkQ3",
+          "end": 37,
+          "expanded_url": "https://x.com/itsD3lay/status/2074070855013826773/photo/1",
+          "media_key": "3_2073922845818671104",
+          "start": 14,
+          "url": "https://t.co/XeXPlBLkQ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074426588062720286",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1626
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074070855013826773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsD3lay: https://t.co/XeXPlBLkQ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2073922845818671104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgN1xSW0AAZ91Z.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073922845818671104"
+          ],
+          "media_source_tweet_id": [
+            "2074070855013826773"
+          ]
+        },
+        "author_id": "1923100693944299520",
+        "conversation_id": "2074426588062720286",
+        "created_at": "2026-07-07T09:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074426588062720286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "911294414781337600",
+              "start": 3,
+              "username": "itsD3lay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XeXPlBLkQ3",
+              "end": 37,
+              "expanded_url": "https://x.com/itsD3lay/status/2074070855013826773/photo/1",
+              "media_key": "3_2073922845818671104",
+              "start": 14,
+              "url": "https://t.co/XeXPlBLkQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074426588062720286",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1626
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074070855013826773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsD3lay: https://t.co/XeXPlBLkQ3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073922845818671104"
+          ]
+        },
+        "author_id": "911294414781337600",
+        "conversation_id": "2074070855013826773",
+        "created_at": "2026-07-06T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074070855013826773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XeXPlBLkQ3",
+              "end": 23,
+              "expanded_url": "https://x.com/itsD3lay/status/2074070855013826773/photo/1",
+              "media_key": "3_2073922845818671104",
+              "start": 0,
+              "url": "https://t.co/XeXPlBLkQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074070855013826773",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 692,
+          "impression_count": 241904,
+          "like_count": 30465,
+          "quote_count": 36,
+          "reply_count": 47,
+          "retweet_count": 1626
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XeXPlBLkQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 124,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-22T18:21:34.000Z",
+        "description": "📥 contacto: itsd3laybusiness@gmail.com📩 \n| BYTS COMP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/pablosans34/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/pablosans34/",
+                "start": 0,
+                "url": "https://t.co/EjiUPH2UjF"
+              }
+            ]
+          }
+        },
+        "id": "911294414781337600",
+        "location": "bcn",
+        "name": "itsD3lay🐧",
+        "pinned_tweet_id": "2073285678994014600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611849135732277249/52jKE673_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156635,
+          "following_count": 1247,
+          "like_count": 773613,
+          "listed_count": 284,
+          "media_count": 22373,
+          "tweet_count": 77178
+        },
+        "url": "https://t.co/EjiUPH2UjF",
+        "username": "itsD3lay",
+        "verified": true
+      }
+    ]
+  }
+}

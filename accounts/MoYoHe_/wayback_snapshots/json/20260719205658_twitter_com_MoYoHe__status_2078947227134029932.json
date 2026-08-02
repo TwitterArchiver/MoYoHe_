@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2078943697438445896",
+    "created_at": "2026-07-19T20:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078947227134029932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040055666799443968",
+          "start": 0,
+          "username": "MeguToge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078947227134029932",
+    "in_reply_to_user_id": "2040055666799443968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078943697438445896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeguToge 我懂那种，就是大概只要有想法就会诞生，这种想法还挺好的，无限多个多重宇宙诞生无限种可能性，真的很美好😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2078943697438445896",
+        "created_at": "2026-07-19T20:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078947227134029932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040055666799443968",
+              "start": 0,
+              "username": "MeguToge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078947227134029932",
+        "in_reply_to_user_id": "2040055666799443968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078943697438445896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeguToge 我懂那种，就是大概只要有想法就会诞生，这种想法还挺好的，无限多个多重宇宙诞生无限种可能性，真的很美好😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040055666799443968",
+        "conversation_id": "2078943697438445896",
+        "created_at": "2026-07-19T20:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078943697438445896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078943697438445896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得宇宙外面有更多的宇宙 然后呢 每个宇宙里面就是你脑内想象的一切 额 就是无限个 每个宇宙他里面都不一样 比如你现在想象一个长颈鹿在微波炉里织毛衣 也许真有一个宇宙是这样子呢？然后我就莫名其妙想象有无限个New jeans在跳OMG 就是有延迟那样子🌚🌚🌚😹😹😹我不会描述"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 122,
+          "like_count": 2168,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 693
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T13:18:22.000Z",
+        "description": "你好我是零零 精神疾病有\n戒割中 情绪不稳定",
+        "id": "2040055666799443968",
+        "name": "澪朽",
+        "pinned_tweet_id": "2074792018325508555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072217024085024768/mdMOZJLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 79,
+          "like_count": 2004,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 982
+        },
+        "url": "",
+        "username": "MeguToge",
+        "verified": false
+      }
+    ]
+  }
+}

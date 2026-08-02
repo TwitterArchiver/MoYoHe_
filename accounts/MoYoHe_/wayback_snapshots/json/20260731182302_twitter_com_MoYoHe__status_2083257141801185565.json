@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2083256850984964296",
+    "created_at": "2026-07-31T18:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T19:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083257141801185565"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083257141801185565",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083256850984964296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "更别说有些人要工作要生活，一天支配的时间本身就不多，所以到底都是谁在排这些网红店啊卧槽，能不能别捧了让食物就是正常食物，饭店就是正常饭店啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083256850984964296",
+        "created_at": "2026-07-31T18:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083257141801185565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083257141801185565",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083256850984964296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更别说有些人要工作要生活，一天支配的时间本身就不多，所以到底都是谁在排这些网红店啊卧槽，能不能别捧了让食物就是正常食物，饭店就是正常饭店啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083256850984964296",
+        "created_at": "2026-07-31T18:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083256850984964296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MoYoHe_/status…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/MoYoHe_/status/2083256085331562939",
+              "start": 141,
+              "url": "https://t.co/5C60FJEh47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083256850984964296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083256085331562939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的不理解为啥要去网红店，我要来个暴论，正常人的思维不应该就是凑合凑合吃点喝点吗，排了几小时队为了买个奶茶或者面包乱七八糟的，结果吃到嘴里发现也就那样，可能还没家门口的普通面包店好吃，而且哪怕他很好吃我也不觉得花几小时后再花几百块会很值，我浑身上下就剩时间了我还要浪费在这里排队 https://t.co/5C60FJEh47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 146,
+          "like_count": 4197,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 958
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10041893638",
+          "name": "Apple - Siri"
+        }
+      }
+    ],
+    "conversation_id": "2082521535768887745",
+    "created_at": "2026-07-29T17:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082521535768887745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1352809096500674560",
+          "start": 3,
+          "username": "9Deface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082521535768887745",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6925
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082145784514920880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9Deface: Me: Hey Siri.\n🤖: Yes master?\nMe: Call all of my friends. \n🤖: ERROR no friends detected.\nMe: I mean my pawns.\n🤖: Understood mas…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 538,
+        "media_key": "16_2082145743070973953",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOVEhYpWUAEqA9T.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOVEhYpWUAEqA9T.mp4"
+          }
+        ],
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041893638",
+              "name": "Apple - Siri"
+            }
+          }
+        ],
+        "conversation_id": "2082521535768887745",
+        "created_at": "2026-07-29T17:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082521535768887745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1352809096500674560",
+              "start": 3,
+              "username": "9Deface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082521535768887745",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6925
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082145784514920880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9Deface: Me: Hey Siri.\n🤖: Yes master?\nMe: Call all of my friends. \n🤖: ERROR no friends detected.\nMe: I mean my pawns.\n🤖: Understood mas…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2082145743070973953"
+          ]
+        },
+        "author_id": "1352809096500674560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041893638",
+              "name": "Apple - Siri"
+            }
+          }
+        ],
+        "conversation_id": "2082145784514920880",
+        "created_at": "2026-07-28T16:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082145784514920880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8magNzByNZ",
+              "end": 198,
+              "expanded_url": "https://x.com/9Deface/status/2082145784514920880/photo/1",
+              "media_key": "16_2082145743070973953",
+              "start": 175,
+              "url": "https://t.co/8magNzByNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082145784514920880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5178,
+          "impression_count": 806980,
+          "like_count": 60058,
+          "quote_count": 271,
+          "reply_count": 211,
+          "retweet_count": 6925
+        },
+        "reply_settings": "everyone",
+        "text": "Me: Hey Siri.\n🤖: Yes master?\nMe: Call all of my friends. \n🤖: ERROR no friends detected.\nMe: I mean my pawns.\n🤖: Understood master, calling all 8 billon people.\nMe: Checkmate. https://t.co/8magNzByNZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 144,
+          "like_count": 3690,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 871
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-23T02:44:00.000Z",
+        "description": "JJBA🥇\n@timberwolves @realmadrid\nCR:Soul Eater",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "timberwolves"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "realmadrid"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/3VF9F",
+                "end": 23,
+                "expanded_url": "https://boxd.it/3VF9F",
+                "start": 0,
+                "url": "https://t.co/LhsvPT5icQ"
+              }
+            ]
+          }
+        },
+        "id": "1352809096500674560",
+        "location": "20 👴🏽",
+        "name": "Joseph | TENOÍ",
+        "pinned_tweet_id": "2072763484354293788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070646034133286912/YFHFE9zs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 560,
+          "like_count": 194864,
+          "listed_count": 2,
+          "media_count": 1480,
+          "tweet_count": 7162
+        },
+        "url": "https://t.co/LhsvPT5icQ",
+        "username": "9Deface",
+        "verified": false
+      }
+    ]
+  }
+}

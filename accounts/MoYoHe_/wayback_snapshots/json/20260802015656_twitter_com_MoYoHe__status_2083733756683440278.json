@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2009108738255593472",
+    "conversation_id": "2083422992483385824",
+    "created_at": "2026-08-02T01:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083733756683440278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1923100693944299520",
+          "start": 0,
+          "username": "MoYoHe_"
+        },
+        {
+          "end": 31,
+          "id": "2919796180",
+          "start": 22,
+          "username": "paz_olmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083733756683440278",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083422992483385824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoYoHe_ 她太涩了lz 我真顶不住 @paz_olmo 2q"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [2009108738255593472].",
+      "parameter": "author_id",
+      "resource_id": "2009108738255593472",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009108738255593472"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009108738255593472",
+        "conversation_id": "2083422992483385824",
+        "created_at": "2026-08-02T01:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083733756683440278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            },
+            {
+              "end": 31,
+              "id": "2919796180",
+              "start": 22,
+              "username": "paz_olmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083733756683440278",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083422992483385824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 她太涩了lz 我真顶不住 @paz_olmo 2q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2083422992483385824",
+        "created_at": "2026-08-01T05:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083422992483385824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083422992483385824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 34022,
+          "like_count": 264,
+          "quote_count": 1,
+          "reply_count": 92,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现人的开智真是需要时间的，我高三当时有一次贼豪，以至于我干完那个事我自己都蚌埠住，大概是晚自习我们班吵着要看电影，但是那阵大概离高考还有一个月两个月吧，而且我那阵是真的像趁晚自习刷会题，结果他们找的电影网站看不了，我就一句话没说跑上去找了个电影网站给他们放，下来接着刷题去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 158,
+          "like_count": 4451,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1017
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-13T15:13:56.000Z",
+        "description": "",
+        "id": "2919796180",
+        "name": "鹿鹿",
+        "pinned_tweet_id": "2081600928428478972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034851471104339968/c0OeApyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 0,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "paz_olmo",
+        "verified": false
+      }
+    ]
+  }
+}

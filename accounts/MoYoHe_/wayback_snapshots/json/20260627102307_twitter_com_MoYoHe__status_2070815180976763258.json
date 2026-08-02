@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2056641334048678297",
+    "created_at": "2026-06-27T10:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070815180976763258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1482662424129904642",
+          "start": 0,
+          "username": "ItsCloudyOwooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070815180976763258",
+    "in_reply_to_user_id": "1482662424129904642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070396277108383993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ItsCloudyOwooo 这个是病的比较严重的时候写的，看个乐子就好😇我这种已经属于种族灭绝了，太绝对了，不过我觉得对我自己来说还是早死好一点😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2056641334048678297",
+        "created_at": "2026-06-27T10:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070815180976763258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1482662424129904642",
+              "start": 0,
+              "username": "ItsCloudyOwooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070815180976763258",
+        "in_reply_to_user_id": "1482662424129904642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070396277108383993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ItsCloudyOwooo 这个是病的比较严重的时候写的，看个乐子就好😇我这种已经属于种族灭绝了，太绝对了，不过我觉得对我自己来说还是早死好一点😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482662424129904642",
+        "conversation_id": "2056641334048678297",
+        "created_at": "2026-06-26T06:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070396277108383993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070396277108383993",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056641334048678297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 卧槽了老铁我感觉活着比死罪还可怕😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 100,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T10:34:21.000Z",
+        "description": "某不愿透露姓名的单机上网人\nles/0.5/全属性(意思为爱当什么都行)\n其实是同人女出身，淫商还行但没实操过只有在自己身上演练(对手指)\nage：18",
+        "id": "1482662424129904642",
+        "name": "按时吃药╹∀╹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823721776255488000/266tpYKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 269,
+          "like_count": 2625,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 641
+        },
+        "url": "",
+        "username": "ItsCloudyOwooo",
+        "verified": false
+      }
+    ]
+  }
+}

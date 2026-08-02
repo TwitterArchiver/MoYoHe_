@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2074806332641972349",
+    "created_at": "2026-07-08T10:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074806332641972349"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074806332641972349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "妈的，相比冷暴力，感觉最难过的还是发了一大堆对方不回或者回个6，心都快碎了😇喊朋友打个游戏问了几次结果回个不来，我真感觉心脏要骤停了，今天还美美跟老妈吵一架，地狱难度吗😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2074806332641972349",
+        "created_at": "2026-07-08T10:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074806332641972349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074806332641972349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的，相比冷暴力，感觉最难过的还是发了一大堆对方不回或者回个6，心都快碎了😇喊朋友打个游戏问了几次结果回个不来，我真感觉心脏要骤停了，今天还美美跟老妈吵一架，地狱难度吗😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 129,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

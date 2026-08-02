@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2068038340230934655",
+    "created_at": "2026-06-19T18:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T19:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068039527877521830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1839085606573637632",
+          "start": 0,
+          "username": "zhiii_tan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068039527877521830",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068038350041423880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiii_tan 西八小妹妹，这人给我脑溢血快看出来了😡这人咋这么无理取闹，啥叫做别人的朋友都能陪人聊天，那还有人死了呢她咋不死，我真要来点攻击性了，受不了了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068038346828587008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMl62SaoAAcNff.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2068038340230934655",
+        "created_at": "2026-06-19T18:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068039527877521830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068039527877521830",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068038350041423880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan 西八小妹妹，这人给我脑溢血快看出来了😡这人咋这么无理取闹，啥叫做别人的朋友都能陪人聊天，那还有人死了呢她咋不死，我真要来点攻击性了，受不了了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068038346828587008"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "conversation_id": "2068038340230934655",
+        "created_at": "2026-06-19T18:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068038350041423880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/reHUDZK4zn",
+              "end": 23,
+              "expanded_url": "https://x.com/zhiii_tan/status/2068038350041423880/photo/1",
+              "media_key": "3_2068038346828587008",
+              "start": 0,
+              "url": "https://t.co/reHUDZK4zn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068038350041423880",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068038340230934655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/reHUDZK4zn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 112,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 560,
+          "like_count": 1231,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 3165
+        },
+        "url": "",
+        "username": "zhiii_tan",
+        "verified": false
+      }
+    ]
+  }
+}

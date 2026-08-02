@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067228354269601916",
+    "created_at": "2026-06-17T12:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067228354269601916"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067228354269601916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "国内的有些精神病院的专业水准真是要高度质疑，我第一次也是唯一一次住院测了ADHD，我整次测试总共只有一次图像测试走神没点上，总共10分钟的测试，结果判断我有严重ADHD，疯了吗，包括我测的脑电波以及一些基础测试现在网上只能查到已测但是没有结果，这就代表这些测试完全没用了，都没法复诊，神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067228354269601916",
+        "created_at": "2026-06-17T12:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067228354269601916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067228354269601916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内的有些精神病院的专业水准真是要高度质疑，我第一次也是唯一一次住院测了ADHD，我整次测试总共只有一次图像测试走神没点上，总共10分钟的测试，结果判断我有严重ADHD，疯了吗，包括我测的脑电波以及一些基础测试现在网上只能查到已测但是没有结果，这就代表这些测试完全没用了，都没法复诊，神了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 84,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 115
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

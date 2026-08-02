@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2072489951263170793",
+    "created_at": "2026-07-02T01:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T02:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072489951263170793"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072489951263170793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "初恋是世界上最美好的事情，你会牵起ta的手，跟ta一起学习，出去看电影，玩游戏，或是聊家常，说说今天班里发生的趣事，跟ta一起散步，被同班同学撞到后的尴尬，或是送一点小礼物，帮ta解难，教ta不会的题\n在这一天过去后，送ta回家，在离别前亲吻ta一下，这种感觉无与伦比，或许也是此时仅有的一次了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2072489951263170793",
+        "created_at": "2026-07-02T01:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072489951263170793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072489951263170793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初恋是世界上最美好的事情，你会牵起ta的手，跟ta一起学习，出去看电影，玩游戏，或是聊家常，说说今天班里发生的趣事，跟ta一起散步，被同班同学撞到后的尴尬，或是送一点小礼物，帮ta解难，教ta不会的题\n在这一天过去后，送ta回家，在离别前亲吻ta一下，这种感觉无与伦比，或许也是此时仅有的一次了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 98,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

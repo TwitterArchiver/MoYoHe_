@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2078947791670571059",
+    "created_at": "2026-07-19T20:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T21:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078947791670571059"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078947791670571059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩阿瓦隆感觉逻辑性好差🫠发言类游戏玩的人还很累，而且正因为这点大伙情绪都会很激动，我以后再也不会选择这种游戏了，与其玩的大伙不开心不如我自己一个人回去玩英雄联盟呢，至少会被我压力的人早因为我的臭脾气走了🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2078947791670571059",
+        "created_at": "2026-07-19T20:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078947791670571059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078947791670571059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩阿瓦隆感觉逻辑性好差🫠发言类游戏玩的人还很累，而且正因为这点大伙情绪都会很激动，我以后再也不会选择这种游戏了，与其玩的大伙不开心不如我自己一个人回去玩英雄联盟呢，至少会被我压力的人早因为我的臭脾气走了🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 122,
+          "like_count": 2170,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

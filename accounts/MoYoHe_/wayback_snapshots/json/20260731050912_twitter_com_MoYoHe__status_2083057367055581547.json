@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2083056088799150234",
+    "created_at": "2026-07-31T05:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083057367055581547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055365812660133888",
+          "start": 0,
+          "username": "Graysexuals7c1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083057367055581547",
+    "in_reply_to_user_id": "2055365812660133888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083056088799150234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Graysexuals7c1 敏感肌msk等会一应激把你这号封了，太敏感了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083056088799150234",
+        "created_at": "2026-07-31T05:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083057367055581547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055365812660133888",
+              "start": 0,
+              "username": "Graysexuals7c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083057367055581547",
+        "in_reply_to_user_id": "2055365812660133888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083056088799150234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Graysexuals7c1 敏感肌msk等会一应激把你这号封了，太敏感了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055365812660133888",
+        "conversation_id": "2083056088799150234",
+        "created_at": "2026-07-31T05:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083056088799150234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elonmusk/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/elonmusk/status/2083045860691116247",
+              "start": 19,
+              "url": "https://t.co/RxOLPkZ6Zp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083056088799150234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083045860691116247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神经病啊天天星舰星舰 快给我大号解封 https://t.co/RxOLPkZ6Zp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 145,
+          "like_count": 4107,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 936
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T19:15:56.000Z",
+        "description": "兄弟你不要跟我扯我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点\n杀msk全家，互fo回家😭",
+        "id": "2055365812660133888",
+        "name": "toska，梦想炸了（二代目）",
+        "pinned_tweet_id": "2082733972472148118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082712747473502208/NZ6ADN4x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 77,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Graysexuals7c1",
+        "verified": false
+      }
+    ]
+  }
+}

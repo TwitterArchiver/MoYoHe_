@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067180527019569514",
+    "created_at": "2026-06-17T12:44:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067226870744228338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003845262557827072",
+          "start": 0,
+          "username": "lizim493978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067226870744228338",
+    "in_reply_to_user_id": "2003845262557827072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067180527019569514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizim493978 太美了。。。感谢国家，感谢党，感谢同学，感谢老师，感谢氢，感谢氦，感谢锂，感谢铍，感谢硼，感谢碳，感谢氮，感谢氧，感谢氟，感谢钠，感谢镁，感谢铝，感谢硅，感谢磷， 感谢硫，感谢氯，感谢氩，感谢钾，感谢钙，感谢蛋白质，感谢糖类，感谢脂肪，感谢高尔基体，感谢线粒体，感谢叶绿体"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2067180518756753408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAZursaoAA5LeH.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067180527019569514",
+        "created_at": "2026-06-17T12:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067226870744228338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003845262557827072",
+              "start": 0,
+              "username": "lizim493978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067226870744228338",
+        "in_reply_to_user_id": "2003845262557827072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067180527019569514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizim493978 太美了。。。感谢国家，感谢党，感谢同学，感谢老师，感谢氢，感谢氦，感谢锂，感谢铍，感谢硼，感谢碳，感谢氮，感谢氧，感谢氟，感谢钠，感谢镁，感谢铝，感谢硅，感谢磷， 感谢硫，感谢氯，感谢氩，感谢钾，感谢钙，感谢蛋白质，感谢糖类，感谢脂肪，感谢高尔基体，感谢线粒体，感谢叶绿体"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067180518756753408"
+          ]
+        },
+        "author_id": "2003845262557827072",
+        "conversation_id": "2067180527019569514",
+        "created_at": "2026-06-17T09:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067180527019569514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eLH11kBYpu",
+              "end": 45,
+              "expanded_url": "https://x.com/lizim493978/status/2067180527019569514/photo/1",
+              "media_key": "3_2067180518756753408",
+              "start": 22,
+              "url": "https://t.co/eLH11kBYpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067180527019569514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對我使壤吧，對我撒嬌吧，你做什麼我都依你。 https://t.co/eLH11kBYpu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 84,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 114
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T15:09:10.000Z",
+        "description": "太阳还会出来吗…",
+        "id": "2003845262557827072",
+        "name": "Dove.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046259265946656768/yPoAlcGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 26,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 35
+        },
+        "username": "lizim493978",
+        "verified": false
+      }
+    ]
+  }
+}

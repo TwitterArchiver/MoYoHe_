@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2074807160345706498",
+    "created_at": "2026-07-08T12:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074834194778452205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1295640838182060033",
+          "start": 0,
+          "username": "pv_wen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074834194778452205",
+    "in_reply_to_user_id": "1295640838182060033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074814574831055288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pv_wen 对对，大嘴安格斯那个套餐除了价格贵其他毫无缺陷，是我吃过的汉堡里最好吃的😭每周五想开荤直接干一顿大嘴安格斯，一点烦恼都没有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2074807160345706498",
+        "created_at": "2026-07-08T12:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074834194778452205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1295640838182060033",
+              "start": 0,
+              "username": "pv_wen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074834194778452205",
+        "in_reply_to_user_id": "1295640838182060033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074814574831055288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pv_wen 对对，大嘴安格斯那个套餐除了价格贵其他毫无缺陷，是我吃过的汉堡里最好吃的😭每周五想开荤直接干一顿大嘴安格斯，一点烦恼都没有了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295640838182060033",
+        "conversation_id": "2074807160345706498",
+        "created_at": "2026-07-08T11:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074814574831055288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074814574831055288",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074807160345706498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 汉堡王的大皇堡跟大嘴安格斯，夯中夯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 129,
+          "like_count": 1006,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 575
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-18T08:37:09.000Z",
+        "description": "恨也迷人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiyeshu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiyeshu",
+                "start": 0,
+                "url": "https://t.co/FXDwDbDJXg"
+              }
+            ]
+          }
+        },
+        "id": "1295640838182060033",
+        "name": "今天也要加油努力",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837119933827928066/LUG9v1wA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 3316,
+          "like_count": 6173,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/FXDwDbDJXg",
+        "username": "pv_wen",
+        "verified": false
+      }
+    ]
+  }
+}

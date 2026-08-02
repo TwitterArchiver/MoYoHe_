@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2076741661850517936",
+    "created_at": "2026-07-13T18:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T19:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076741661850517936"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076741661850517936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大学真的需要远离很多很多傻逼的事，不然戾气会重到没边甚至影响生活\n我大一匹配到了吧唧嘴哥和打游戏哥，同时我当时还傻乎乎加了学生会，甚至想找个对象，但是后来我才发现压根就是幻想，学生会不会给你任何好处只有负担，对象更不用提，因为大伙都没什么钱，所以想找对象那支出就要翻一番"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2076741661850517936",
+        "created_at": "2026-07-13T18:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076741661850517936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076741661850517936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学真的需要远离很多很多傻逼的事，不然戾气会重到没边甚至影响生活\n我大一匹配到了吧唧嘴哥和打游戏哥，同时我当时还傻乎乎加了学生会，甚至想找个对象，但是后来我才发现压根就是幻想，学生会不会给你任何好处只有负担，对象更不用提，因为大伙都没什么钱，所以想找对象那支出就要翻一番"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 123,
+          "like_count": 1578,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

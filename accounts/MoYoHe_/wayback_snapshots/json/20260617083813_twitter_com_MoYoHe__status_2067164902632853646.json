@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067150275652292773",
+    "created_at": "2026-06-17T08:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067164902632853646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987733701980282880",
+          "start": 0,
+          "username": "odd_pearl1"
+        },
+        {
+          "end": 25,
+          "id": "2026999095664275457",
+          "start": 12,
+          "username": "meilitutu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067164902632853646",
+    "in_reply_to_user_id": "1987733701980282880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067164690325860403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odd_pearl1 @meilitutu111 叮咚鸡叮咚鸡大狗大狗叫叫叫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067150275652292773",
+        "created_at": "2026-06-17T08:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067164902632853646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987733701980282880",
+              "start": 0,
+              "username": "odd_pearl1"
+            },
+            {
+              "end": 25,
+              "id": "2026999095664275457",
+              "start": 12,
+              "username": "meilitutu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067164902632853646",
+        "in_reply_to_user_id": "1987733701980282880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067164690325860403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odd_pearl1 @meilitutu111 叮咚鸡叮咚鸡大狗大狗叫叫叫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987733701980282880",
+        "conversation_id": "2067150275652292773",
+        "created_at": "2026-06-17T08:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067164690325860403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            },
+            {
+              "end": 22,
+              "id": "2026999095664275457",
+              "start": 9,
+              "username": "meilitutu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067164690325860403",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067152501724635408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ @meilitutu111 胖宝宝胖宝宝哈基米哈基米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 71,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 100
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T04:07:09.000Z",
+        "description": "只有原创腥情",
+        "id": "1987733701980282880",
+        "name": "呆萌de、小蛋蛋（泡菜版）",
+        "pinned_tweet_id": "2063310199105171511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056296549525905408/IC-6AH6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 82,
+          "like_count": 8337,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 5659
+        },
+        "username": "odd_pearl1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T12:34:07.000Z",
+        "description": "我会稳稳地时刻准备向幸福伸出手\nhttps://t.co/NHzWYo1PbG\n停止精神自慰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhh83139",
+                "end": 39,
+                "expanded_url": "https://ngl.link/hhh83139",
+                "start": 16,
+                "url": "https://t.co/NHzWYo1PbG"
+              }
+            ]
+          }
+        },
+        "id": "2026999095664275457",
+        "name": "8964枝{樱花版}",
+        "pinned_tweet_id": "2062626097918103596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062562323060101120/Nkwy6vHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 14,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2323
+        },
+        "username": "meilitutu111",
+        "verified": false
+      }
+    ]
+  }
+}

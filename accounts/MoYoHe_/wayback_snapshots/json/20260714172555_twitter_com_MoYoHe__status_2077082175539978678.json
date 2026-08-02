@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2076364406922060231",
+    "created_at": "2026-07-14T17:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T18:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077082175539978678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2015111577176088577",
+          "start": 0,
+          "username": "MaruInNabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077082175539978678",
+    "in_reply_to_user_id": "2015111577176088577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077078274434638272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaruInNabe 是啊，能活着就已经非常不错了😢谢谢你啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2076364406922060231",
+        "created_at": "2026-07-14T17:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077082175539978678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2015111577176088577",
+              "start": 0,
+              "username": "MaruInNabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077082175539978678",
+        "in_reply_to_user_id": "2015111577176088577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077078274434638272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaruInNabe 是啊，能活着就已经非常不错了😢谢谢你啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015111577176088577",
+        "conversation_id": "2076364406922060231",
+        "created_at": "2026-07-14T17:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T18:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077078274434638272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077078274434638272",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076364406922060231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 这个鸟世界！能努力活着已经很好了…🥲不要苛责自己🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 118,
+          "like_count": 1668,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 672
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T17:17:04.000Z",
+        "description": "=maru 画画的//互联网巡回犬//点赞评论rt狂//什么都发//关注一些感兴趣的人//直fo致歉",
+        "id": "2015111577176088577",
+        "name": "忠犬厨",
+        "pinned_tweet_id": "2030340657395753272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015112400735760384/BD-5Rqsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 45,
+          "like_count": 23904,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1282
+        },
+        "url": "",
+        "username": "MaruInNabe",
+        "verified": false
+      }
+    ]
+  }
+}

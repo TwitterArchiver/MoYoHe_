@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067842560085971073",
+    "created_at": "2026-06-19T09:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067900849792405557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058924635547402243",
+          "start": 0,
+          "username": "kasemarin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067900849792405557",
+    "in_reply_to_user_id": "2058924635547402243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067842560085971073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin520 啥有话题msk推啥，前两天是胖女孩跟mtf，这两天又是赛博哭坟，只能输这些东西从我主页拱出去，我翻墙就是为了看国内一样的内容是吧😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067842560085971073",
+        "created_at": "2026-06-19T09:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067900849792405557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058924635547402243",
+              "start": 0,
+              "username": "kasemarin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067900849792405557",
+        "in_reply_to_user_id": "2058924635547402243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067842560085971073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin520 啥有话题msk推啥，前两天是胖女孩跟mtf，这两天又是赛博哭坟，只能输这些东西从我主页拱出去，我翻墙就是为了看国内一样的内容是吧😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058924635547402243",
+        "conversation_id": "2067842560085971073",
+        "created_at": "2026-06-19T05:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067842560085971073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067842560085971073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们能不能别给男网黄哭坟了。我今天刷推什么好玩的东西都没刷到全是赛博哭坟，能不能一键屏蔽哭坟内容 msk我给你条通天路你走不走。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 109,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T14:55:29.000Z",
+        "description": "08 ISFP 无聊的留学生 自伤/bpd 叫我小殇\n匿名箱https://t.co/ut4i56f9mf\n欧尼酱 @elkvika 恋人@minako8964 老婆@boqiaoahm4\n 互fo请私信 有时候看不到 查成分回fo 成分不过关会取 健全人只fo女孩子男的滚一股顺直味恶心死了去死去死去死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "elkvika"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "minako8964"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "boqiaoahm4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 30,
+                "url": "https://t.co/ut4i56f9mf"
+              }
+            ]
+          }
+        },
+        "id": "2058924635547402243",
+        "location": "死死死",
+        "name": "用户1219（互fo私）",
+        "pinned_tweet_id": "2064694234670928276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060345615574618114/FMDvngb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 36,
+          "like_count": 2802,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1188
+        },
+        "url": "",
+        "username": "kasemarin520",
+        "verified": false
+      }
+    ]
+  }
+}

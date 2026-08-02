@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2070971838306599017",
+    "created_at": "2026-06-27T20:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T21:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070971838306599017"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070971838306599017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤓👆🏻突然想起来个好玩的，今天打ow碰见个神人t，第一把碰见在对面搁那叫唤问我们家t为什么这么菜，第二把看见有个队友头像是个日本国旗就应激了，直接选猪摆烂了，结果我们家安娜直接一句“那这游戏外服还联动柜子学院呢，你卸载吧”直接不敢说话了，说实话粉红爱国能不能理智点，爱国是这样爱的是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2070971838306599017",
+        "created_at": "2026-06-27T20:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T21:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070971838306599017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070971838306599017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤓👆🏻突然想起来个好玩的，今天打ow碰见个神人t，第一把碰见在对面搁那叫唤问我们家t为什么这么菜，第二把看见有个队友头像是个日本国旗就应激了，直接选猪摆烂了，结果我们家安娜直接一句“那这游戏外服还联动柜子学院呢，你卸载吧”直接不敢说话了，说实话粉红爱国能不能理智点，爱国是这样爱的是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 105,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

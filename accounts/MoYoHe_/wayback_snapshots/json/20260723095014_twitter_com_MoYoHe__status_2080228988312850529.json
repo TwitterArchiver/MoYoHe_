@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2079947259526148426",
+    "created_at": "2026-07-23T09:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080228988312850529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803382504977735681",
+          "start": 0,
+          "username": "fasdada256185"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080228988312850529",
+    "in_reply_to_user_id": "1803382504977735681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080047017368383990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fasdada256185 我也有点这种感觉，越好的学校学生的实力就越强，人卷人，我上的普通一本居然都还有在外面留学6年回来的，是真的很恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2079947259526148426",
+        "created_at": "2026-07-23T09:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080228988312850529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803382504977735681",
+              "start": 0,
+              "username": "fasdada256185"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080228988312850529",
+        "in_reply_to_user_id": "1803382504977735681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080047017368383990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fasdada256185 我也有点这种感觉，越好的学校学生的实力就越强，人卷人，我上的普通一本居然都还有在外面留学6年回来的，是真的很恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803382504977735681",
+        "conversation_id": "2079947259526148426",
+        "created_at": "2026-07-22T21:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080047017368383990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080047017368383990",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079947259526148426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 是，我朋友高考成绩好考到了某985里，在我们眼里他很强了，但直到他博士毕业了，他也一直发自内心的自卑，说的最多的词就是“比不了”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 121,
+          "like_count": 2381,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 716
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T11:01:15.000Z",
+        "description": "我是半个机器人，所以我并不会尝试与您私信或者添加联系方式。",
+        "id": "1803382504977735681",
+        "name": "值班记录表测试中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079591114378756096/fR_k5747_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "fasdada256185",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2072841885362856341",
+    "created_at": "2026-07-03T00:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T01:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072841885362856341"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072841885362856341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是当时最后一届的旧高考，我们班的情况当时真的就像我家里前面的几个哥哥姐姐跟我说的刻板印象差不多，班里的男生分情况来说大概是三种，一种是体育生，一种是特别喜欢历史的，还有一种就是理科太难学所以来文科的，刚好还跟当年我们班对上了，而且文科班普遍对数学都很头疼，感觉真的一模一样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2072841885362856341",
+        "created_at": "2026-07-03T00:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072841885362856341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072841885362856341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是当时最后一届的旧高考，我们班的情况当时真的就像我家里前面的几个哥哥姐姐跟我说的刻板印象差不多，班里的男生分情况来说大概是三种，一种是体育生，一种是特别喜欢历史的，还有一种就是理科太难学所以来文科的，刚好还跟当年我们班对上了，而且文科班普遍对数学都很头疼，感觉真的一模一样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 97,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 399
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

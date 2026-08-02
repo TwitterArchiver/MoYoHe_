@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2057831268558205431",
+    "created_at": "2026-05-22T14:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057836562931683366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723546829454032896",
+          "start": 0,
+          "username": "yeshsbxhjs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057836562931683366",
+    "in_reply_to_user_id": "1723546829454032896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057831268558205431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeshsbxhjs 祖国人版千早爱音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2057831268558205431",
+        "created_at": "2026-05-22T14:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057836562931683366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723546829454032896",
+              "start": 0,
+              "username": "yeshsbxhjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057836562931683366",
+        "in_reply_to_user_id": "1723546829454032896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057831268558205431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeshsbxhjs 祖国人版千早爱音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723546829454032896",
+        "conversation_id": "2057831268558205431",
+        "created_at": "2026-05-22T14:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057831268558205431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057831268558205431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想干嘛就干嘛 想上学就上学 想玩就玩\n想不上就不上 想喜欢啥就喜欢啥 想讨厌啥就讨厌啥 我爱干啥就干啥 谁也管不了我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 27,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T03:43:27.000Z",
+        "description": "这里是秋秋！09 （欢迎宝宝互fo 会查一下成分 ）我成分很复杂 我会视监每一个关注我的人🙌互fo的宝宝可以找我聊天🥹我很社恐 说话像人机 没回就是手机不在……或者我在睡觉 谢谢你们喜欢我呀！！",
+        "id": "1723546829454032896",
+        "location": "天堂",
+        "name": "秋秋OvO",
+        "pinned_tweet_id": "2051527837619036362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051218647474135040/7Z32hHKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 193,
+          "like_count": 675,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 582
+        },
+        "username": "yeshsbxhjs",
+        "verified": false
+      }
+    ]
+  }
+}

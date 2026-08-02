@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2073954228511625660",
+    "created_at": "2026-07-06T02:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073958798772129808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014668633679818752",
+          "start": 0,
+          "username": "ArayaTouko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073958798772129808",
+    "in_reply_to_user_id": "2014668633679818752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073954228511625660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArayaTouko 我记得强尼这个时候已经去炸过荒坂了，不过下场大家也是都清楚😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2073954228511625660",
+        "created_at": "2026-07-06T02:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073958798772129808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014668633679818752",
+              "start": 0,
+              "username": "ArayaTouko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073958798772129808",
+        "in_reply_to_user_id": "2014668633679818752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073954228511625660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArayaTouko 我记得强尼这个时候已经去炸过荒坂了，不过下场大家也是都清楚😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014668633679818752",
+        "conversation_id": "2073954228511625660",
+        "created_at": "2026-07-06T02:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073954228511625660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073954228511625660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果真的活到2077年，75岁的我还能活蹦乱跳对着公司竖中指说cnm吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 114,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 490
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T11:57:09.000Z",
+        "description": "没事的时候会看看X，随意",
+        "id": "2014668633679818752",
+        "name": "xyx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071516855165210624/oiq7ZE1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 19,
+          "like_count": 872,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "ArayaTouko",
+        "verified": false
+      }
+    ]
+  }
+}

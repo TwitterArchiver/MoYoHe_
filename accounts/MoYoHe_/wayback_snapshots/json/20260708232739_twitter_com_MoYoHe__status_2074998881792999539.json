@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074768502175506432"
+      ],
+      "media_source_tweet_id": [
+        "2074768595863638029"
+      ]
+    },
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074998881792999539",
+    "created_at": "2026-07-08T23:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T00:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074998881792999539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1445100128474443781",
+          "start": 3,
+          "username": "AmberRayz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UrLtWLTGY7",
+          "end": 79,
+          "expanded_url": "https://x.com/AmberRayz/status/2074768595863638029/video/1",
+          "media_key": "13_2074768502175506432",
+          "start": 56,
+          "url": "https://t.co/UrLtWLTGY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074998881792999539",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2071
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074768595863638029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmberRayz: All this shi just to die on a random day https://t.co/UrLtWLTGY7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10147,
+        "height": 496,
+        "media_key": "13_2074768502175506432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074768502175506432/img/QTxA7hPaXa4v1qYP.jpg",
+        "public_metrics": {
+          "view_count": 126298
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074768502175506432/vid/avc1/460x270/r5Fod4HoV2Z0Q71s.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074768502175506432/vid/avc1/614x360/pP18hMjwPCmhRmoG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074768502175506432/vid/avc1/848x496/hq34y9Twj0BHfwX1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074768502175506432/pl/Fe_x4VT9hK8Iqkub.m3u8?v=cfc"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074768502175506432"
+          ],
+          "media_source_tweet_id": [
+            "2074768595863638029"
+          ]
+        },
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074998881792999539",
+        "created_at": "2026-07-08T23:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074998881792999539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1445100128474443781",
+              "start": 3,
+              "username": "AmberRayz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UrLtWLTGY7",
+              "end": 79,
+              "expanded_url": "https://x.com/AmberRayz/status/2074768595863638029/video/1",
+              "media_key": "13_2074768502175506432",
+              "start": 56,
+              "url": "https://t.co/UrLtWLTGY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074998881792999539",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2071
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074768595863638029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmberRayz: All this shi just to die on a random day https://t.co/UrLtWLTGY7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074768502175506432"
+          ]
+        },
+        "author_id": "1445100128474443781",
+        "conversation_id": "2074768595863638029",
+        "created_at": "2026-07-08T08:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074768595863638029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UrLtWLTGY7",
+              "end": 64,
+              "expanded_url": "https://x.com/AmberRayz/status/2074768595863638029/video/1",
+              "media_key": "13_2074768502175506432",
+              "start": 41,
+              "url": "https://t.co/UrLtWLTGY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074768595863638029",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1034,
+          "impression_count": 372041,
+          "like_count": 14687,
+          "quote_count": 54,
+          "reply_count": 52,
+          "retweet_count": 2071
+        },
+        "reply_settings": "everyone",
+        "text": "All this shi just to die on a random day https://t.co/UrLtWLTGY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 127,
+          "like_count": 1065,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T18:55:37.000Z",
+        "description": "Posting thoughts that should’ve stayed in drafts",
+        "id": "1445100128474443781",
+        "location": "Earth",
+        "name": "Ray Mond",
+        "pinned_tweet_id": "2074715747536834947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921871219168509952/4kVcu7OH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14508,
+          "following_count": 7073,
+          "like_count": 161370,
+          "listed_count": 5,
+          "media_count": 6655,
+          "tweet_count": 190950
+        },
+        "url": "",
+        "username": "AmberRayz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2070212219921674541",
+    "created_at": "2026-06-27T10:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T11:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070813241199202478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918488017251254273",
+          "start": 0,
+          "username": "miwnzhn155458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070813241199202478",
+    "in_reply_to_user_id": "1918488017251254273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070362096361996329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miwnzhn155458 我爸也这样，而且我哥居然还遗传了，俩人加一起闹了快20年，心理阴影都出来了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2070212219921674541",
+        "created_at": "2026-06-27T10:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070813241199202478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918488017251254273",
+              "start": 0,
+              "username": "miwnzhn155458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070813241199202478",
+        "in_reply_to_user_id": "1918488017251254273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070362096361996329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miwnzhn155458 我爸也这样，而且我哥居然还遗传了，俩人加一起闹了快20年，心理阴影都出来了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918488017251254273",
+        "conversation_id": "2070212219921674541",
+        "created_at": "2026-06-26T04:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070362096361996329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070362096361996329",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070212219921674541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 日 我爸耍酒疯 导致我基本上滴酒不沾。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 100,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T02:09:36.000Z",
+        "description": "一只碗\nಥ_ಥ",
+        "id": "1918488017251254273",
+        "name": "碗",
+        "pinned_tweet_id": "2057887874897629460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001532105461997568/8MxFZ15V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 21,
+          "like_count": 6053,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 2784
+        },
+        "url": "",
+        "username": "miwnzhn155458",
+        "verified": false
+      }
+    ]
+  }
+}

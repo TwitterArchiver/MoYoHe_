@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2065461516892352868",
+    "created_at": "2026-06-17T20:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T21:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067348391861133601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1720852749330591744",
+          "start": 0,
+          "username": "Xuannnnn_oxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067348391861133601",
+    "in_reply_to_user_id": "1720852749330591744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067322400912572525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuannnnn_oxo 难道说推私信有些时候别人收不到吗，那我消息甚至没被已读是不是就是因为没收到😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2065461516892352868",
+        "created_at": "2026-06-17T20:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067348391861133601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720852749330591744",
+              "start": 0,
+              "username": "Xuannnnn_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067348391861133601",
+        "in_reply_to_user_id": "1720852749330591744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067322400912572525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuannnnn_oxo 难道说推私信有些时候别人收不到吗，那我消息甚至没被已读是不是就是因为没收到😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720852749330591744",
+        "conversation_id": "2065461516892352868",
+        "created_at": "2026-06-17T19:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067322400912572525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067322400912572525",
+        "in_reply_to_user_id": "1720852749330591744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067320972374581288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个帖子能看到吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 86,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 124
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T17:17:41.000Z",
+        "description": "关注就是喜欢你（＾ν＾）精神病随便发发性取向为女不扩列不闲聊别骚扰我",
+        "id": "1720852749330591744",
+        "name": "瑄瑄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858663287992242176/wAA5qpC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 22,
+          "like_count": 675,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 890
+        },
+        "username": "Xuannnnn_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

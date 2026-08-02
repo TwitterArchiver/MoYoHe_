@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2082206306778370151",
+    "created_at": "2026-07-28T20:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082207690835792051"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082207690835792051",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082206306778370151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过你说真有遗憾也有，就是从小没个男性长辈给我当榜样，我爹是这样，我哥结果也变成这样了，家里跟我最亲的还是我大舅，结果他去年也离世了，我只是...唉...😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2082206306778370151",
+        "created_at": "2026-07-28T20:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082207690835792051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082207690835792051",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082206306778370151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过你说真有遗憾也有，就是从小没个男性长辈给我当榜样，我爹是这样，我哥结果也变成这样了，家里跟我最亲的还是我大舅，结果他去年也离世了，我只是...唉...😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2082206306778370151",
+        "created_at": "2026-07-28T20:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082206306778370151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082206306778370151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的老爹这一辈子也是很出生了，工作家里人安排的所以几乎没去上过班也能拿工资，即使有先天性心脏病还是要酗酒，每天喝完了回到家第一件事就是打人，我算没遭他几次毒手因为我妈带我跑了，我哥确实被打成猪头了，过了10来年终于我考上大学了，我老爹找来了，已经是半身不遂年老体衰了，说儿子我想你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 142,
+          "like_count": 3386,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 832
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

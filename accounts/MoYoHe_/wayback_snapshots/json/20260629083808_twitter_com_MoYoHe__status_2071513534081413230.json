@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2071511486590300400",
+    "created_at": "2026-06-29T08:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071513534081413230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2066715278873088000",
+          "start": 0,
+          "username": "AliceMeWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071513534081413230",
+    "in_reply_to_user_id": "2066715278873088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071512331193090090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceMeWu 别低估自己，总有更好的办法生存下去，有些工作并不在乎你有没有得病，坚持住吧😇如果真有一天生存受迫可以跟我说，别的我可能帮助不了但是几顿饭钱我应该还是可以帮忙的😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071511486590300400",
+        "created_at": "2026-06-29T08:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071513534081413230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2066715278873088000",
+              "start": 0,
+              "username": "AliceMeWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071513534081413230",
+        "in_reply_to_user_id": "2066715278873088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071512331193090090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceMeWu 别低估自己，总有更好的办法生存下去，有些工作并不在乎你有没有得病，坚持住吧😇如果真有一天生存受迫可以跟我说，别的我可能帮助不了但是几顿饭钱我应该还是可以帮忙的😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066715278873088000",
+        "conversation_id": "2071511486590300400",
+        "created_at": "2026-06-29T08:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071512331193090090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071512331193090090",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071511486590300400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 我觉得这就是我几年后的样子吧🥹但是我可能是为了生存，我也想好好工作可是谁会招一个精神病呢😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 97,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T02:52:43.000Z",
+        "description": "我的人生充满了痛苦 16⬆️OD ZC ZS 精神疾病 休学中 我是女生 前世好友在哪里快来fo😭",
+        "id": "2066715278873088000",
+        "name": "アイレス🦴",
+        "pinned_tweet_id": "2069465574938390584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066719984727023616/zI8Fd9uk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 105,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "AliceMeWu",
+        "verified": false
+      }
+    ]
+  }
+}

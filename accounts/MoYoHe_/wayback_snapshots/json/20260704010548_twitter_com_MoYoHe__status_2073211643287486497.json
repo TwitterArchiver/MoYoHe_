@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2073185924008341555",
+    "created_at": "2026-07-04T01:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073211643287486497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1054755477542756352",
+          "start": 0,
+          "username": "SPACERADIO_626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073211643287486497",
+    "in_reply_to_user_id": "1054755477542756352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073185924008341555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SPACERADIO_626 库库库卡卡ki（擎天柱变身）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2073185924008341555",
+        "created_at": "2026-07-04T01:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073211643287486497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1054755477542756352",
+              "start": 0,
+              "username": "SPACERADIO_626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073211643287486497",
+        "in_reply_to_user_id": "1054755477542756352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073185924008341555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SPACERADIO_626 库库库卡卡ki（擎天柱变身）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1054755477542756352",
+        "conversation_id": "2073185924008341555",
+        "created_at": "2026-07-03T23:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T00:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073185924008341555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073185924008341555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天睡觉之前在赵一鸣门口坐着我感觉，背后有个赛博坦星人在说话，一辆汽车发出的声音，然后就什么也没有了，但是它真的在说话，我也不知道说了什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 100,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-23T15:24:37.000Z",
+        "description": "☏-Shit posting | SEN KOK/森 | FicroAce/she/her/fil/fim/AuDHD drugtwt\n \n💿I'm the collapsing star of death, the pulse echo of the cosmic.",
+        "id": "1054755477542756352",
+        "location": "Space",
+        "name": "Space Badboy",
+        "pinned_tweet_id": "1998815878041973136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057596517041815552/fGsFL77j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 477,
+          "like_count": 6440,
+          "listed_count": 0,
+          "media_count": 789,
+          "tweet_count": 5481
+        },
+        "url": "",
+        "username": "SPACERADIO_626",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2071775749921775778",
+    "created_at": "2026-06-30T02:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T03:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071775749921775778"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071775749921775778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ys礼盒那个事我现在还是有印象，我甚至记得发帖那个女生她妈的名字叫什么（盒狗当时把她妈直接开出来了）名字照片住址电话号开了个遍，不过那个原帖主也是真傻逼，盒狗让她跟她骂的女生道个歉结果一点错不认，当时整个推都在骂她居然还认为自己做的没错，最后还抢先报警占个受害者的位置，神完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071775749921775778",
+        "created_at": "2026-06-30T02:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071775749921775778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071775749921775778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ys礼盒那个事我现在还是有印象，我甚至记得发帖那个女生她妈的名字叫什么（盒狗当时把她妈直接开出来了）名字照片住址电话号开了个遍，不过那个原帖主也是真傻逼，盒狗让她跟她骂的女生道个歉结果一点错不认，当时整个推都在骂她居然还认为自己做的没错，最后还抢先报警占个受害者的位置，神完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 98,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

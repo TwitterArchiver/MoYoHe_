@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2050252030548103382",
+    "created_at": "2026-05-01T16:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T17:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050252030548103382"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050252030548103382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我总是觉得我的抑郁症是我装出来的，我其实并没有病，我既没有od也没有自残，唯一一次上吊还因为太过怕死或者什么原因就早早结束了，我总有那么几天会感觉，我的病好了，我没有消极的想法了，但是几句话，几件事，那些想法又回到我的脑子里，我真的很想结束痛苦，我不想再体会一次又一次了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2050252030548103382",
+        "created_at": "2026-05-01T16:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050252030548103382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050252030548103382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我总是觉得我的抑郁症是我装出来的，我其实并没有病，我既没有od也没有自残，唯一一次上吊还因为太过怕死或者什么原因就早早结束了，我总有那么几天会感觉，我的病好了，我没有消极的想法了，但是几句话，几件事，那些想法又回到我的脑子里，我真的很想结束痛苦，我不想再体会一次又一次了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

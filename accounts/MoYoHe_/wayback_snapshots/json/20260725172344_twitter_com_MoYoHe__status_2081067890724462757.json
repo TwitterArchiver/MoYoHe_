@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2080861021649117627",
+    "created_at": "2026-07-25T17:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081067890724462757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2076841557802864640",
+          "start": 0,
+          "username": "kuukiwtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081067890724462757",
+    "in_reply_to_user_id": "2076841557802864640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080861021649117627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwtf 安格斯牛堡吗😋看的我馋哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2080860989206237184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOC0C3ibEAAk7Ah.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2080861006260260864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOC0D3Ea0AA5__M.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2080861021649117627",
+        "created_at": "2026-07-25T17:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081067890724462757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2076841557802864640",
+              "start": 0,
+              "username": "kuukiwtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081067890724462757",
+        "in_reply_to_user_id": "2076841557802864640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080861021649117627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwtf 安格斯牛堡吗😋看的我馋哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080860989206237184",
+            "3_2080861006260260864"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080861021649117627",
+        "created_at": "2026-07-25T03:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080861021649117627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDFzrrELH6",
+              "end": 25,
+              "expanded_url": "https://x.com/kuukiwtf/status/2080861021649117627/photo/1",
+              "media_key": "3_2080860989206237184",
+              "start": 2,
+              "url": "https://t.co/XDFzrrELH6"
+            },
+            {
+              "display_url": "pic.x.com/XDFzrrELH6",
+              "end": 25,
+              "expanded_url": "https://x.com/kuukiwtf/status/2080861021649117627/photo/1",
+              "media_key": "3_2080861006260260864",
+              "start": 2,
+              "url": "https://t.co/XDFzrrELH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080861021649117627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 375,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喵 https://t.co/XDFzrrELH6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 128,
+          "like_count": 2866,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 760
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 355,
+          "like_count": 5398,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 961
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

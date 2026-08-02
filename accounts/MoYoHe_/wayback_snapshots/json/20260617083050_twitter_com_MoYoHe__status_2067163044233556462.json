@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2066939519480570182",
+    "created_at": "2026-06-17T08:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T09:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067163044233556462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027675213589319683",
+          "start": 0,
+          "username": "Amatsukih16k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067163044233556462",
+    "in_reply_to_user_id": "2027675213589319683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066939519480570182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amatsukih16k 二元论真是对的，一件事为什么不能接受非黑即白的，世界上每件事都处在彩色地带让对世界本身色盲的人怎么办，找一副专门的色盲眼镜吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2066939519480570182",
+        "created_at": "2026-06-17T08:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067163044233556462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027675213589319683",
+              "start": 0,
+              "username": "Amatsukih16k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067163044233556462",
+        "in_reply_to_user_id": "2027675213589319683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066939519480570182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amatsukih16k 二元论真是对的，一件事为什么不能接受非黑即白的，世界上每件事都处在彩色地带让对世界本身色盲的人怎么办，找一副专门的色盲眼镜吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027675213589319683",
+        "conversation_id": "2066939519480570182",
+        "created_at": "2026-06-16T17:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066939519480570182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066939519480570182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从我想通了发现这个世界所有事都不是二元的时候开始，我已经懒得反驳什么东西了，好累。\n对不起我说的这个话非常没有逻辑，我在说梦话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 71,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T09:24:32.000Z",
+        "description": "日本語勉強中\n随便發點什么\n头像是自设OC",
+        "id": "2027675213589319683",
+        "name": "Amatsuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062986031146897408/tsGYE1F5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 85,
+          "like_count": 954,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "Amatsukih16k",
+        "verified": false
+      }
+    ]
+  }
+}

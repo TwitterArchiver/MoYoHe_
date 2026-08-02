@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067241169701286010",
+    "created_at": "2026-06-17T13:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067241169701286010"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067241169701286010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有一种病可以让你精确的知道你在7天后就会死亡，但是在这7天内你不会出现任何机体退化的情况，我真希望得一次这种病，然后去骂我想骂的人，做我想做的事，让我一起看不惯的东西滚他妈逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067241169701286010",
+        "created_at": "2026-06-17T13:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067241169701286010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067241169701286010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有一种病可以让你精确的知道你在7天后就会死亡，但是在这7天内你不会出现任何机体退化的情况，我真希望得一次这种病，然后去骂我想骂的人，做我想做的事，让我一起看不惯的东西滚他妈逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 86,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 120
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

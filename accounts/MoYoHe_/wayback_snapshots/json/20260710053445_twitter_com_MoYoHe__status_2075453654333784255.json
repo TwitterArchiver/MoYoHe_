@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2075107224062755321",
+    "created_at": "2026-07-10T05:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075453654333784255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545615400708501504",
+          "start": 0,
+          "username": "nikonikobiu"
+        },
+        {
+          "end": 23,
+          "id": "1772467523012763648",
+          "start": 13,
+          "username": "Won_0bing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075453654333784255",
+    "in_reply_to_user_id": "1545615400708501504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075447023554461749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nikonikobiu @Won_0bing 对，信仰伊斯兰教的原因导致不让吃，但不是所有回民都信，民族不能决定信仰，你可以身为任何民族然后信任何教"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2075107224062755321",
+        "created_at": "2026-07-10T05:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075453654333784255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545615400708501504",
+              "start": 0,
+              "username": "nikonikobiu"
+            },
+            {
+              "end": 23,
+              "id": "1772467523012763648",
+              "start": 13,
+              "username": "Won_0bing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075453654333784255",
+        "in_reply_to_user_id": "1545615400708501504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075447023554461749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nikonikobiu @Won_0bing 对，信仰伊斯兰教的原因导致不让吃，但不是所有回民都信，民族不能决定信仰，你可以身为任何民族然后信任何教"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545615400708501504",
+        "conversation_id": "2075107224062755321",
+        "created_at": "2026-07-10T05:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075447023554461749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            },
+            {
+              "end": 19,
+              "id": "1772467523012763648",
+              "start": 9,
+              "username": "Won_0bing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075447023554461749",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075412932486439244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ @Won_0bing 回民为啥不能吃啊 因为信仰伊斯兰教吗 使所有回民都信吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 126,
+          "like_count": 1178,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 607
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T03:46:52.000Z",
+        "description": "infp",
+        "id": "1545615400708501504",
+        "location": "圣彼得堡",
+        "name": "nikoniko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990539110906318848/1J2j5-jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 18,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "nikonikobiu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T03:36:12.000Z",
+        "description": "",
+        "id": "1772467523012763648",
+        "name": "스키",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075083779027456000/16a0wuRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 40,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "Won_0bing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2076656314999243060",
+    "created_at": "2026-07-13T18:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T19:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076735725605892223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994535480017522690",
+          "start": 0,
+          "username": "Jkkk1240397"
+        },
+        {
+          "end": 24,
+          "id": "2015111577176088577",
+          "start": 13,
+          "username": "MaruInNabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076735725605892223",
+    "in_reply_to_user_id": "1994535480017522690",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076706348604236278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jkkk1240397 @MaruInNabe 不死族加一☠️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2076656314999243060",
+        "created_at": "2026-07-13T18:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076735725605892223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994535480017522690",
+              "start": 0,
+              "username": "Jkkk1240397"
+            },
+            {
+              "end": 24,
+              "id": "2015111577176088577",
+              "start": 13,
+              "username": "MaruInNabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076735725605892223",
+        "in_reply_to_user_id": "1994535480017522690",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076706348604236278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jkkk1240397 @MaruInNabe 不死族加一☠️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994535480017522690",
+        "conversation_id": "2076656314999243060",
+        "created_at": "2026-07-13T16:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076706348604236278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2015111577176088577",
+              "start": 0,
+              "username": "MaruInNabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076706348604236278",
+        "in_reply_to_user_id": "2015111577176088577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076656314999243060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaruInNabe 哎好伤感吧祝大家永远不死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 123,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T22:35:03.000Z",
+        "description": "此人享福中🧩🧩🧩🧩",
+        "id": "1994535480017522690",
+        "name": "起航！寻找无尽的红苕稀饭！",
+        "pinned_tweet_id": "2053784295236649073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075557464913973248/UT_T8DNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 143,
+          "like_count": 6142,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "Jkkk1240397",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T17:17:04.000Z",
+        "description": "=maru 画画的//互联网巡回犬//点赞评论rt狂//什么都发//关注一些感兴趣的人//直fo致歉",
+        "id": "2015111577176088577",
+        "name": "忠犬厨",
+        "pinned_tweet_id": "2030340657395753272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015112400735760384/BD-5Rqsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 44,
+          "like_count": 23837,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1272
+        },
+        "url": "",
+        "username": "MaruInNabe",
+        "verified": false
+      }
+    ]
+  }
+}

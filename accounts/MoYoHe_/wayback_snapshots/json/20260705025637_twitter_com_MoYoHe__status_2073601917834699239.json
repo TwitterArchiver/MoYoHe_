@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2073379045216317731",
+    "created_at": "2026-07-05T02:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073601917834699239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2003845262557827072",
+          "start": 0,
+          "username": "lizim493978"
+        },
+        {
+          "end": 23,
+          "id": "1577362467419611137",
+          "start": 13,
+          "username": "Retepa555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073601917834699239",
+    "in_reply_to_user_id": "2003845262557827072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073516489202889114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizim493978 @Retepa555 那你肯定是不如我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2073379045216317731",
+        "created_at": "2026-07-05T02:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073601917834699239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2003845262557827072",
+              "start": 0,
+              "username": "lizim493978"
+            },
+            {
+              "end": 23,
+              "id": "1577362467419611137",
+              "start": 13,
+              "username": "Retepa555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073601917834699239",
+        "in_reply_to_user_id": "2003845262557827072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073516489202889114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizim493978 @Retepa555 那你肯定是不如我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003845262557827072",
+        "conversation_id": "2073379045216317731",
+        "created_at": "2026-07-04T21:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T22:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073516489202889114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            },
+            {
+              "end": 19,
+              "id": "1577362467419611137",
+              "start": 9,
+              "username": "Retepa555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073516489202889114",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073384701801500825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ @Retepa555 不不不，我甩的比你埋汰点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 105,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 455
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T15:09:10.000Z",
+        "description": "太阳还会出来吗…",
+        "id": "2003845262557827072",
+        "name": "Dove.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046259265946656768/yPoAlcGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 32,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "lizim493978",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069459272237453314/oe_JsCpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 882,
+          "like_count": 25904,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa555",
+        "verified": false
+      }
+    ]
+  }
+}

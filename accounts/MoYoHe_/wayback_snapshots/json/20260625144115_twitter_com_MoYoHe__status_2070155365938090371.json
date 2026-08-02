@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2070120670781112629",
+    "created_at": "2026-06-25T14:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070155365938090371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050906352994684928",
+          "start": 0,
+          "username": "Cuttterssi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070155365938090371",
+    "in_reply_to_user_id": "2050906352994684928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070120670781112629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cuttterssi 这种基本上就是抑郁症了，我去了六七趟医院一直都给我开的抑郁状态，情况都差的已经自杀了还状态呢，神了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2070120670781112629",
+        "created_at": "2026-06-25T14:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070155365938090371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050906352994684928",
+              "start": 0,
+              "username": "Cuttterssi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070155365938090371",
+        "in_reply_to_user_id": "2050906352994684928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070120670781112629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cuttterssi 这种基本上就是抑郁症了，我去了六七趟医院一直都给我开的抑郁状态，情况都差的已经自杀了还状态呢，神了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050906352994684928",
+        "conversation_id": "2070120670781112629",
+        "created_at": "2026-06-25T12:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070120670781112629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070120670781112629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有医院的证明 我有抑郁情绪，而不是抑郁症，太惨了。连你生病都要定义等级，然后我这种没有抑郁症的 ，就是没必要对我特殊，然后证明给老师看，直接给我没收了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 106,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T11:53:16.000Z",
+        "description": "07/167/55/infp 很无聊 ，希望正能量的人找我聊天，我是男人。性别为男。",
+        "id": "2050906352994684928",
+        "location": "-10cm",
+        "name": "cuttte",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062336030322393089/yZptLkKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 336,
+          "like_count": 2935,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1164
+        },
+        "url": "",
+        "username": "Cuttterssi",
+        "verified": false
+      }
+    ]
+  }
+}

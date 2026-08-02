@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2078111095555064218",
+    "created_at": "2026-07-17T15:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078133191433670954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2074348798340648960",
+          "start": 0,
+          "username": "xtw6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078133191433670954",
+    "in_reply_to_user_id": "2074348798340648960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078111095555064218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xtw6o 不要怪罪自己，taPUA你纯粹，ta幻想的是完美恋人，要把你所有的奉献给ta，但问题是我们都是普通人，我们还有自己的苦难之路要走，能在这条路上互相搀扶一下都很好了，还要求这么多🫠不想让人活了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_2078111085450973184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbvBZwbUAAEhJi.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2078111095555064218",
+        "created_at": "2026-07-17T15:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078133191433670954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2074348798340648960",
+              "start": 0,
+              "username": "xtw6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078133191433670954",
+        "in_reply_to_user_id": "2074348798340648960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078111095555064218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xtw6o 不要怪罪自己，taPUA你纯粹，ta幻想的是完美恋人，要把你所有的奉献给ta，但问题是我们都是普通人，我们还有自己的苦难之路要走，能在这条路上互相搀扶一下都很好了，还要求这么多🫠不想让人活了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078111085450973184"
+          ]
+        },
+        "author_id": "2074348798340648960",
+        "conversation_id": "2078111095555064218",
+        "created_at": "2026-07-17T13:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078111095555064218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ZNbMgx0qc",
+              "end": 73,
+              "expanded_url": "https://x.com/xtw6o/status/2078111095555064218/photo/1",
+              "media_key": "3_2078111085450973184",
+              "start": 50,
+              "url": "https://t.co/8ZNbMgx0qc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078111095555064218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道怎么说，虽然已经过去了，但我不想伤害任何有过情感认真对待过的人。但也没有人来包容我哪怕一点 https://t.co/8ZNbMgx0qc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 116,
+          "like_count": 2002,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T04:25:33.000Z",
+        "description": "我活着玩 瞎说呢 放点垃圾在这里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/weishiji",
+                "end": 23,
+                "expanded_url": "https://ngl.link/weishiji",
+                "start": 0,
+                "url": "https://t.co/CfcIO1sylr"
+              }
+            ]
+          }
+        },
+        "id": "2074348798340648960",
+        "name": "口服液",
+        "pinned_tweet_id": "2075462026504323166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076986106340593664/PsvEIKkG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 2,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/CfcIO1sylr",
+        "username": "xtw6o",
+        "verified": false
+      }
+    ]
+  }
+}

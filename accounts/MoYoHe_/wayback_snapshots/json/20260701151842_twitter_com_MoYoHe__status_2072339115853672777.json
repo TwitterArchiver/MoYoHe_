@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2072337938265067950",
+    "created_at": "2026-07-01T15:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072339115853672777"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072339115853672777",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072337938265067950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很难想象9月份复学还要因为学费，收拾公寓，补课程交朋友，一个人飞回浙江这些烂事而再遭心一次，我已经爆压了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2072337938265067950",
+        "created_at": "2026-07-01T15:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072339115853672777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072339115853672777",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072337938265067950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很难想象9月份复学还要因为学费，收拾公寓，补课程交朋友，一个人飞回浙江这些烂事而再遭心一次，我已经爆压了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2072337938265067950",
+        "created_at": "2026-07-01T15:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072337938265067950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072337938265067950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神经被压迫着睡了12个小时，我妈做手术需要用钱去找我爷要居然转头骂我一顿，我妈做小手术我没跟着过去我哥又给我骂一顿，朋友六个人说一起出去旅行喊我我也没钱出去，开学还要付房租，为啥人生永远不能轻松一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 97,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

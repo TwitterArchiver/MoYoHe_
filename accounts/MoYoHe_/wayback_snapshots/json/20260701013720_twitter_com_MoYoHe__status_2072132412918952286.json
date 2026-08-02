@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2072132412918952286",
+    "created_at": "2026-07-01T01:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T02:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072132412918952286"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072132412918952286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高中文科生的好处就是历史老师动不动会让我们把窗户门关上，讲点书上没有的知识😋再加上高中的历史老师是个很有意思的老师，上课就像说书一样，可能是我这辈子上课最认真的时候了，而且那阵同桌是个历史迷，没事就拿点明朝那些事，或者二战史之类的书，看起来是真带劲，现在在想看历史感觉还要重新学😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2072132412918952286",
+        "created_at": "2026-07-01T01:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072132412918952286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072132412918952286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高中文科生的好处就是历史老师动不动会让我们把窗户门关上，讲点书上没有的知识😋再加上高中的历史老师是个很有意思的老师，上课就像说书一样，可能是我这辈子上课最认真的时候了，而且那阵同桌是个历史迷，没事就拿点明朝那些事，或者二战史之类的书，看起来是真带劲，现在在想看历史感觉还要重新学😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 97,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 366
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

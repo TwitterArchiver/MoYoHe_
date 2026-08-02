@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2081990152390582299",
+    "created_at": "2026-07-28T06:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081990152390582299"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081990152390582299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到互关头像突然想起来一拳超人了，重制版哪都好看，不管是画面表现力还是剧情，但是到了饿狼篇完全变成饿狼传说了，琦玉打个饿狼都快打不明白了，认真打喷嚏和认真掀桌子以及认真放屁是什么招式我请问，还有人类吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2081990152390582299",
+        "created_at": "2026-07-28T06:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081990152390582299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081990152390582299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到互关头像突然想起来一拳超人了，重制版哪都好看，不管是画面表现力还是剧情，但是到了饿狼篇完全变成饿狼传说了，琦玉打个饿狼都快打不明白了，认真打喷嚏和认真掀桌子以及认真放屁是什么招式我请问，还有人类吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 142,
+          "like_count": 3280,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 816
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

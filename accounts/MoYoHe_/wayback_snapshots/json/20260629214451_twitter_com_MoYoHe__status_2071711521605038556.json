@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2071659555667460170",
+    "created_at": "2026-06-29T21:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T22:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071711521605038556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "befriendsyep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071711521605038556",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071659555667460170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@befriendsyep 卧槽我得病后一直在想怎么杀人，就是一种莫名其妙的欲望，但是你让我真去干我也干不出来，能不能来个泰勒帮我把这些事解决了再把身体还给我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071659555667460170",
+        "created_at": "2026-06-29T21:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T22:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071711521605038556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "befriendsyep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071711521605038556",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071659555667460170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@befriendsyep 卧槽我得病后一直在想怎么杀人，就是一种莫名其妙的欲望，但是你让我真去干我也干不出来，能不能来个泰勒帮我把这些事解决了再把身体还给我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2071659555667460170",
+        "created_at": "2026-06-29T18:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T19:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071659555667460170"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071659555667460170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想反社会，我想杀人，我想自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 99,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "爱你们，有烦恼或问题可以私信和我倾诉，我会帮你们的，找我闲聊也可以哦 ✌︎' ֊'",
+        "id": "1814688236398166016",
+        "location": "伊甸园",
+        "name": "TK",
+        "pinned_tweet_id": "2069745633905549553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063647900262072320/nlC7fHyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 733,
+          "like_count": 7068,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1729
+        },
+        "url": "",
+        "username": "befriendsyep",
+        "verified": false
+      }
+    ]
+  }
+}

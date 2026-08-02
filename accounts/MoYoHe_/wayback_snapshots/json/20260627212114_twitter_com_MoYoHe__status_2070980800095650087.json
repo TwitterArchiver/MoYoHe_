@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2070979766099042484",
+    "created_at": "2026-06-27T21:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T22:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070980800095650087"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070980800095650087",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070979766099042484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且这部剧很像亚洲国家人们的缩影，对生活变得更加美好充满希望，对未来有所期待，但期待落空剩下的只有懊悔和不甘，慢慢的逐渐转化为恨意，恨过去，恨自己，恨群体，再到逐渐形成一种文化，融合在骨髓里，由世代传承，驱动前行的动力反而从期望变成无终的恨意了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2070979766099042484",
+        "created_at": "2026-06-27T21:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T22:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070980800095650087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070980800095650087",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070979766099042484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且这部剧很像亚洲国家人们的缩影，对生活变得更加美好充满希望，对未来有所期待，但期待落空剩下的只有懊悔和不甘，慢慢的逐渐转化为恨意，恨过去，恨自己，恨群体，再到逐渐形成一种文化，融合在骨髓里，由世代传承，驱动前行的动力反而从期望变成无终的恨意了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2070979766099042484",
+        "created_at": "2026-06-27T21:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T22:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070979766099042484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070979766099042484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我现在已经像怒呛人生里的两个主角一样了，糟糕的童年，糟糕的家庭，以及该死的生活，满腔怒火和渺小的愿望，对世界的恨意从出生到死亡，无处发泄，有可以互相理解的人也只有经历互相伤害才能互相理解，我还蛮喜欢这种饱含恨意的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 104,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

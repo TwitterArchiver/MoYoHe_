@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067827491264446815",
+    "created_at": "2026-06-19T11:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067932695821529556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782751587821363200",
+          "start": 0,
+          "username": "MisshuhuForever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067932695821529556",
+    "in_reply_to_user_id": "1782751587821363200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067827491264446815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisshuhuForever 同情网黄的是最神的，这个职业本身就特殊，他都是靠卖身体来赚钱的居然能说出来老实孩子，对女网黄挂🚪就是一个劲夸，到男网黄就变成了好可惜老实孩子，左右脑互搏吗，阿诺来了都说不出这种话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067827491264446815",
+        "created_at": "2026-06-19T11:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067932695821529556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782751587821363200",
+              "start": 0,
+              "username": "MisshuhuForever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067932695821529556",
+        "in_reply_to_user_id": "1782751587821363200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067827491264446815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisshuhuForever 同情网黄的是最神的，这个职业本身就特殊，他都是靠卖身体来赚钱的居然能说出来老实孩子，对女网黄挂🚪就是一个劲夸，到男网黄就变成了好可惜老实孩子，左右脑互搏吗，阿诺来了都说不出这种话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782751587821363200",
+        "conversation_id": "2067827491264446815",
+        "created_at": "2026-06-19T04:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T05:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067827491264446815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067827491264446815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3473,
+          "like_count": 107,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这群给男网黄哭丧洗白溺爱的脑残一辈子都有了，老实孩子这种话都说出来了，这下真是男人至死是少男。既然提前声明是荡夫就能免疫一切，我说真的女网黄也声明一下自己是荡妇吧，谁骂你你就说我早就告诉过你们我是荡妇，所以干什么都是正常的你们凭什么骂我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 110,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T12:41:22.000Z",
+        "description": "我绝不是你幻想中的电波系女主角。",
+        "id": "1782751587821363200",
+        "name": "✨来推特总要给男网黄哭丧吧✨",
+        "pinned_tweet_id": "2048867724550652197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066817624055726080/7HEYhyaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 27,
+          "like_count": 5743,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1167
+        },
+        "url": "",
+        "username": "MisshuhuForever",
+        "verified": false
+      }
+    ]
+  }
+}

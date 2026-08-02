@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074442933248610304",
+        "3_2074442942304133121",
+        "3_2074442950847991808",
+        "3_2074442959555268608"
+      ]
+    },
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074442970158317822",
+    "created_at": "2026-07-07T10:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T11:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074442970158317822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QgQxH40xzr",
+          "end": 34,
+          "expanded_url": "https://x.com/MoYoHe_/status/2074442970158317822/photo/1",
+          "media_key": "3_2074442933248610304",
+          "start": 11,
+          "url": "https://t.co/QgQxH40xzr"
+        },
+        {
+          "display_url": "pic.x.com/QgQxH40xzr",
+          "end": 34,
+          "expanded_url": "https://x.com/MoYoHe_/status/2074442970158317822/photo/1",
+          "media_key": "3_2074442942304133121",
+          "start": 11,
+          "url": "https://t.co/QgQxH40xzr"
+        },
+        {
+          "display_url": "pic.x.com/QgQxH40xzr",
+          "end": 34,
+          "expanded_url": "https://x.com/MoYoHe_/status/2074442970158317822/photo/1",
+          "media_key": "3_2074442950847991808",
+          "start": 11,
+          "url": "https://t.co/QgQxH40xzr"
+        },
+        {
+          "display_url": "pic.x.com/QgQxH40xzr",
+          "end": 34,
+          "expanded_url": "https://x.com/MoYoHe_/status/2074442970158317822/photo/1",
+          "media_key": "3_2074442959555268608",
+          "start": 11,
+          "url": "https://t.co/QgQxH40xzr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074442970158317822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们一个个都要干啥😭 https://t.co/QgQxH40xzr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1652,
+        "media_key": "3_2074442933248610304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnm218aUAA2uRp.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1224,
+        "media_key": "3_2074442942304133121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnm3XraoAENgaE.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2036,
+        "media_key": "3_2074442950847991808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnm33gbkAAeu64.jpg",
+        "width": 956
+      },
+      {
+        "height": 2036,
+        "media_key": "3_2074442959555268608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnm4X8aEAAgUxU.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074442933248610304",
+            "3_2074442942304133121",
+            "3_2074442950847991808",
+            "3_2074442959555268608"
+          ]
+        },
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074442970158317822",
+        "created_at": "2026-07-07T10:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074442970158317822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QgQxH40xzr",
+              "end": 34,
+              "expanded_url": "https://x.com/MoYoHe_/status/2074442970158317822/photo/1",
+              "media_key": "3_2074442933248610304",
+              "start": 11,
+              "url": "https://t.co/QgQxH40xzr"
+            },
+            {
+              "display_url": "pic.x.com/QgQxH40xzr",
+              "end": 34,
+              "expanded_url": "https://x.com/MoYoHe_/status/2074442970158317822/photo/1",
+              "media_key": "3_2074442942304133121",
+              "start": 11,
+              "url": "https://t.co/QgQxH40xzr"
+            },
+            {
+              "display_url": "pic.x.com/QgQxH40xzr",
+              "end": 34,
+              "expanded_url": "https://x.com/MoYoHe_/status/2074442970158317822/photo/1",
+              "media_key": "3_2074442950847991808",
+              "start": 11,
+              "url": "https://t.co/QgQxH40xzr"
+            },
+            {
+              "display_url": "pic.x.com/QgQxH40xzr",
+              "end": 34,
+              "expanded_url": "https://x.com/MoYoHe_/status/2074442970158317822/photo/1",
+              "media_key": "3_2074442959555268608",
+              "start": 11,
+              "url": "https://t.co/QgQxH40xzr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074442970158317822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们一个个都要干啥😭 https://t.co/QgQxH40xzr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 126,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

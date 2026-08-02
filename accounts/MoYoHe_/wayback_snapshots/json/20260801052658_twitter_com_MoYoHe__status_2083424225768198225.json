@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2083424225768198225",
+    "created_at": "2026-08-01T05:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083424225768198225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MoYoHe_/status…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/MoYoHe_/status/2083422992483385824",
+          "start": 141,
+          "url": "https://t.co/NrzOubQZHp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083424225768198225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083422992483385824",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当时一句话没说上去下来，然后班里人就哇～，下来就一低头坐那写题了，我现在想想是真特么豪，不止现在这么想，我高考完后一想起来这事就刺挠，是真难绷啊，不过还有一个原因其实是找的影视我不爱看（）当时好像放的是怪奇物语吧，而且以我当时视角来看我可能是真想刷几道题不被吵😇不过依旧很豪就是了 https://t.co/NrzOubQZHp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2083424225768198225",
+        "created_at": "2026-08-01T05:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083424225768198225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MoYoHe_/status…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/MoYoHe_/status/2083422992483385824",
+              "start": 141,
+              "url": "https://t.co/NrzOubQZHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083424225768198225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083422992483385824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时一句话没说上去下来，然后班里人就哇～，下来就一低头坐那写题了，我现在想想是真特么豪，不止现在这么想，我高考完后一想起来这事就刺挠，是真难绷啊，不过还有一个原因其实是找的影视我不爱看（）当时好像放的是怪奇物语吧，而且以我当时视角来看我可能是真想刷几道题不被吵😇不过依旧很豪就是了 https://t.co/NrzOubQZHp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2083422992483385824",
+        "created_at": "2026-08-01T05:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083422992483385824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083422992483385824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现人的开智真是需要时间的，我高三当时有一次贼豪，以至于我干完那个事我自己都蚌埠住，大概是晚自习我们班吵着要看电影，但是那阵大概离高考还有一个月两个月吧，而且我那阵是真的像趁晚自习刷会题，结果他们找的电影网站看不了，我就一句话没说跑上去找了个电影网站给他们放，下来接着刷题去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 151,
+          "like_count": 4278,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 981
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

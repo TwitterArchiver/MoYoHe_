@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082887208613376000",
+        "3_2082887231556259840"
+      ]
+    },
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082887254297792823",
+    "created_at": "2026-07-30T17:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082887254297792823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z4rBL8FB5l",
+          "end": 30,
+          "expanded_url": "https://x.com/MoYoHe_/status/2082887254297792823/photo/1",
+          "media_key": "3_2082887208613376000",
+          "start": 7,
+          "url": "https://t.co/Z4rBL8FB5l"
+        },
+        {
+          "display_url": "pic.x.com/Z4rBL8FB5l",
+          "end": 30,
+          "expanded_url": "https://x.com/MoYoHe_/status/2082887254297792823/photo/1",
+          "media_key": "3_2082887231556259840",
+          "start": 7,
+          "url": "https://t.co/Z4rBL8FB5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082887254297792823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这名字真帅吧 https://t.co/Z4rBL8FB5l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2082887208613376000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfm4XCa8AAL1iJ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2082887231556259840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfm5sgbkAAhs6X.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082887208613376000",
+            "3_2082887231556259840"
+          ]
+        },
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082887254297792823",
+        "created_at": "2026-07-30T17:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082887254297792823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z4rBL8FB5l",
+              "end": 30,
+              "expanded_url": "https://x.com/MoYoHe_/status/2082887254297792823/photo/1",
+              "media_key": "3_2082887208613376000",
+              "start": 7,
+              "url": "https://t.co/Z4rBL8FB5l"
+            },
+            {
+              "display_url": "pic.x.com/Z4rBL8FB5l",
+              "end": 30,
+              "expanded_url": "https://x.com/MoYoHe_/status/2082887254297792823/photo/1",
+              "media_key": "3_2082887231556259840",
+              "start": 7,
+              "url": "https://t.co/Z4rBL8FB5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082887254297792823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这名字真帅吧 https://t.co/Z4rBL8FB5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 146,
+          "like_count": 4010,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 929
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

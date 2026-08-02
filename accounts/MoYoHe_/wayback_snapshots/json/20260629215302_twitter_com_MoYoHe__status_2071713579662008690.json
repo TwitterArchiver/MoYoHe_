@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2071713579662008690",
+    "created_at": "2026-06-29T21:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T22:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071713579662008690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071713579662008690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽我要疯了，我现在的精神完全是被拉成两段，一段在西北一段在江南，一边我在家里每天面对是无止尽的干燥和气候变化带来的湿疹，一边又是不到两个月要开学的大学，同时我的公寓下半年还需要交清租费，但是我现在甚至没有去赚，更别提从几天前就开始的背痛和脖子疼，整个身体都像被肢解了一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071713579662008690",
+        "created_at": "2026-06-29T21:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T22:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071713579662008690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071713579662008690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我要疯了，我现在的精神完全是被拉成两段，一段在西北一段在江南，一边我在家里每天面对是无止尽的干燥和气候变化带来的湿疹，一边又是不到两个月要开学的大学，同时我的公寓下半年还需要交清租费，但是我现在甚至没有去赚，更别提从几天前就开始的背痛和脖子疼，整个身体都像被肢解了一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 100,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

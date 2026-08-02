@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2060737956219162775",
+    "created_at": "2026-05-30T20:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T21:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060819605887811682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050906352994684928",
+          "start": 0,
+          "username": "Cuttterssi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060819605887811682",
+    "in_reply_to_user_id": "2050906352994684928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060737956219162775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cuttterssi 还真是，不仅这些还有480p超级画质以及91手势和神秘面具男或者神秘面具女"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2060737956219162775",
+        "created_at": "2026-05-30T20:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T21:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060819605887811682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050906352994684928",
+              "start": 0,
+              "username": "Cuttterssi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060819605887811682",
+        "in_reply_to_user_id": "2050906352994684928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060737956219162775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cuttterssi 还真是，不仅这些还有480p超级画质以及91手势和神秘面具男或者神秘面具女"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050906352994684928",
+        "conversation_id": "2060737956219162775",
+        "created_at": "2026-05-30T14:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060737956219162775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060737956219162775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 625,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最难看的就是国产自录。毛还特别多，逼和吊也看不见。镜头就是乱晃  ，人长得也丑 然后也不知道在骚叫什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 41,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T11:53:16.000Z",
+        "description": "07/166/55/enfp",
+        "id": "2050906352994684928",
+        "name": "cuttte",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052220702925758466/4Dixzrk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 149,
+          "like_count": 1314,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 670
+        },
+        "username": "Cuttterssi",
+        "verified": false
+      }
+    ]
+  }
+}

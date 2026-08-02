@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1012447344627814400",
+          "name": "Case Closed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1012447344627814400",
+          "name": "Case Closed"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2067865942646784357",
+    "created_at": "2026-06-19T09:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T10:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067895751964045488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1901633821696483329",
+          "start": 0,
+          "username": "even12694"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067895751964045488",
+    "in_reply_to_user_id": "1901633821696483329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067865942646784357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@even12694 真探，神探夏洛克，扑克脸，最后这个跟柯南挺像，女主走哪哪死人，不过没多少集，挺好看的🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2067865942646784357",
+        "created_at": "2026-06-19T09:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067895751964045488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1901633821696483329",
+              "start": 0,
+              "username": "even12694"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067895751964045488",
+        "in_reply_to_user_id": "1901633821696483329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067865942646784357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@even12694 真探，神探夏洛克，扑克脸，最后这个跟柯南挺像，女主走哪哪死人，不过没多少集，挺好看的🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901633821696483329",
+        "conversation_id": "2067865942646784357",
+        "created_at": "2026-06-19T07:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067865942646784357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067865942646784357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么好看的悬疑片，美剧日剧都可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 109,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T13:57:08.000Z",
+        "description": "在点赞之前我已经看完了你的主页所有内容，点赞的意思是我觉得你蛮萌的。",
+        "id": "1901633821696483329",
+        "name": "ZzGG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058918434734272512/iwQSERnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 25,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 725
+        },
+        "url": "",
+        "username": "even12694",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2076749780819251629",
+    "created_at": "2026-07-14T05:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076907598390186062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653207153044520960",
+          "start": 0,
+          "username": "AsilenA123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076907598390186062",
+    "in_reply_to_user_id": "1653207153044520960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076835360538312817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsilenA123 主要我在考虑大部分电影都是需要商业价值的，有些电影可能是导演想拍出自己想表达的，但是这样不会影响卖座吗🤔而且制片厂应该也会要求一定的售票率之类的吧，不过确实想拍啥拍啥，有充足的表达欲去表达自己的思想也挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2076749780819251629",
+        "created_at": "2026-07-14T05:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076907598390186062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653207153044520960",
+              "start": 0,
+              "username": "AsilenA123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076907598390186062",
+        "in_reply_to_user_id": "1653207153044520960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076835360538312817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsilenA123 主要我在考虑大部分电影都是需要商业价值的，有些电影可能是导演想拍出自己想表达的，但是这样不会影响卖座吗🤔而且制片厂应该也会要求一定的售票率之类的吧，不过确实想拍啥拍啥，有充足的表达欲去表达自己的思想也挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653207153044520960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2076749780819251629",
+        "created_at": "2026-07-14T01:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076835360538312817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076835360538312817",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076749780819251629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 电影就是很长的视频，不一定要迎合大众的，作者有拍摄自己作品，表达自己思想的充分自由。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 116,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T01:18:09.000Z",
+        "description": "加班中|嵌入式学习中|长三角|温州|爱好coding|我希望停止身份政治意识形态扩散",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicoletteblog.vercel.app",
+                "end": 23,
+                "expanded_url": "https://nicoletteblog.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/VeBAi2f1TS"
+              }
+            ]
+          }
+        },
+        "id": "1653207153044520960",
+        "location": "暗淡蓝点",
+        "name": "Nicolette86132✝️ ☪️☭",
+        "pinned_tweet_id": "1904980730620592600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 1130,
+          "like_count": 43960,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 4907
+        },
+        "url": "https://t.co/VeBAi2f1TS",
+        "username": "AsilenA123",
+        "verified": true
+      }
+    ]
+  }
+}

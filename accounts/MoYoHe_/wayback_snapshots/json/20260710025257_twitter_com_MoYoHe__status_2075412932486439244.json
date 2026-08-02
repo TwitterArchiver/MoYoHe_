@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2075107224062755321",
+    "created_at": "2026-07-10T02:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T03:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075412932486439244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1772467523012763648",
+          "start": 0,
+          "username": "Won_0bing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075412932486439244",
+    "in_reply_to_user_id": "1772467523012763648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075404512467239406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Won_0bing 这种就是真极端，我也是回民但是去外地上学，那想吃就吃了反正也没啥事😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2075107224062755321",
+        "created_at": "2026-07-10T02:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075412932486439244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1772467523012763648",
+              "start": 0,
+              "username": "Won_0bing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075412932486439244",
+        "in_reply_to_user_id": "1772467523012763648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075404512467239406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Won_0bing 这种就是真极端，我也是回民但是去外地上学，那想吃就吃了反正也没啥事😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772467523012763648",
+        "conversation_id": "2075107224062755321",
+        "created_at": "2026-07-10T02:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075404512467239406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075404512467239406",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075107224062755321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 我身边另一个极端回民 给她分很普通的零食酥饼她问我是不是用猪油做的她不吃…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 126,
+          "like_count": 1160,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T03:36:12.000Z",
+        "description": "",
+        "id": "1772467523012763648",
+        "name": "스키",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075083779027456000/16a0wuRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 40,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "Won_0bing",
+        "verified": false
+      }
+    ]
+  }
+}

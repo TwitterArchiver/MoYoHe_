@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2083310080649564340",
+    "created_at": "2026-07-31T21:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T22:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083310728061346300"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083310728061346300",
+    "in_reply_to_user_id": "1923100693944299520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083310080649564340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是有一个第二人格就好了，我每天可以虚空跟他对话我的xp啊我的苦恼啊，我在想什么他随时都能知道，他还能操纵我的身体帮我干点这干点那，感觉会非常带感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083310080649564340",
+        "created_at": "2026-07-31T21:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083310728061346300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083310728061346300",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083310080649564340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是有一个第二人格就好了，我每天可以虚空跟他对话我的xp啊我的苦恼啊，我在想什么他随时都能知道，他还能操纵我的身体帮我干点这干点那，感觉会非常带感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083310080649564340",
+        "created_at": "2026-07-31T21:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083310080649564340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MoYoHe_/status…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/MoYoHe_/status/2082596623683887125",
+              "start": 72,
+              "url": "https://t.co/0rhCn43xp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083310080649564340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082596623683887125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过我真的还挺想找人聊这些的，但是因为话题太过变态所以导致没办法跟人聊这些，我好崩溃啊卧槽，这个小号也是一点热度没有我甚至不敢挂出来，我要爆了 https://t.co/0rhCn43xp2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 149,
+          "like_count": 4241,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 969
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

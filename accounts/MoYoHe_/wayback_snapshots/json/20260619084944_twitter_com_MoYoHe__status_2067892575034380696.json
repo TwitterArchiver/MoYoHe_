@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067592428081803676",
+    "created_at": "2026-06-19T08:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067892575034380696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974218651474829312",
+          "start": 0,
+          "username": "Elther2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067892575034380696",
+    "in_reply_to_user_id": "1974218651474829312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067873721898111061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elther2778 是这样的，尤其有些时候发私信收不到回复心凉半截😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067592428081803676",
+        "created_at": "2026-06-19T08:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067892575034380696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974218651474829312",
+              "start": 0,
+              "username": "Elther2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067892575034380696",
+        "in_reply_to_user_id": "1974218651474829312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067873721898111061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elther2778 是这样的，尤其有些时候发私信收不到回复心凉半截😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974218651474829312",
+        "conversation_id": "2067592428081803676",
+        "created_at": "2026-06-19T07:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067873721898111061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067873721898111061",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067592428081803676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 感觉没人私信才会很难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 106,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T21:03:07.000Z",
+        "description": "英国留学生/打工version\n同好私我互fo互推喵，正在攒钱买电脑喵\nq号 2516985208，记得填一下X号，眼熟的就给过喵",
+        "id": "1974218651474829312",
+        "location": "🚪100",
+        "name": "Elther🇬🇧",
+        "pinned_tweet_id": "2067795894582296633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067886465896640512/Wpylqk-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 577,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1198
+        },
+        "url": "",
+        "username": "Elther2778",
+        "verified": false
+      }
+    ]
+  }
+}

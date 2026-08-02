@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2074422026782281873",
+    "created_at": "2026-07-07T09:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074425262100599173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1774278217253433344",
+          "start": 0,
+          "username": "7ksti4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074425262100599173",
+    "in_reply_to_user_id": "1774278217253433344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074422026782281873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7ksti4 依旧健全人发言，刚刚还碰见个30来岁的大叔搁那指点我😅说实话碰见这种的善用屏蔽吧，跟他们吵架感觉也是对牛弹琴了，继续过咱们自己的普通日常就挺好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074421986089148416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnTzjsaoAAnEyO.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074421986064048128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnTzjmboAAmEV9.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2074422026782281873",
+        "created_at": "2026-07-07T09:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074425262100599173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1774278217253433344",
+              "start": 0,
+              "username": "7ksti4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074425262100599173",
+        "in_reply_to_user_id": "1774278217253433344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074422026782281873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7ksti4 依旧健全人发言，刚刚还碰见个30来岁的大叔搁那指点我😅说实话碰见这种的善用屏蔽吧，跟他们吵架感觉也是对牛弹琴了，继续过咱们自己的普通日常就挺好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074421986089148416",
+            "3_2074421986064048128"
+          ]
+        },
+        "author_id": "1774278217253433344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074422026782281873",
+        "created_at": "2026-07-07T09:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074422026782281873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSPTUnflFX",
+              "end": 107,
+              "expanded_url": "https://x.com/7ksti4/status/2074422026782281873/photo/1",
+              "media_key": "3_2074421986089148416",
+              "start": 84,
+              "url": "https://t.co/TSPTUnflFX"
+            },
+            {
+              "display_url": "pic.x.com/TSPTUnflFX",
+              "end": 107,
+              "expanded_url": "https://x.com/7ksti4/status/2074422026782281873/photo/1",
+              "media_key": "3_2074421986064048128",
+              "start": 84,
+              "url": "https://t.co/TSPTUnflFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074422026782281873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我感觉好心酸，我只是一个努力生活的普通人。😿为什么你们这些看福利姬的要这样攻击我呢？如果生活美满我也不至于割手磕药啊…而且我没有伤害任何人在自己的小角落也要这样吗… https://t.co/TSPTUnflFX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 124,
+          "like_count": 790,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 552
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T03:31:15.000Z",
+        "description": "=凡凡｜08美术生｜od｜自伤｜电吉他手｜喜欢性青朋克｜前卫｜青少年音乐｜敲击金属｜躁动的青春期我好想拿起大砍刀杀人｜查成分互fo｜欢迎和我互动☺️",
+        "id": "1774278217253433344",
+        "name": "红发少年口口事件",
+        "pinned_tweet_id": "2046272082112323980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067084201409888256/1fLQUOMf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 473,
+          "like_count": 5763,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "7ksti4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2067329337733583065",
+    "created_at": "2026-06-17T20:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T21:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067346833337360817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1834955424929648640",
+          "start": 0,
+          "username": "rabbot1Il"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067346833337360817",
+    "in_reply_to_user_id": "1834955424929648640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067329337733583065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rabbot1Il 感觉不只是性压抑了，已经变成爱压抑或者寻求认同感了，性压抑自己动动小手就解决了，但是像这种不停去骚扰别人获得关注的就像小孩子啼哭取得关注一样，他给你发约吗或者发吊照你只要回复他，他获得关注就会满足，然后就更得寸进尺，推特这个平台私信的条件还是太宽松了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_2067329323279994880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLChEPvaUAAhODy.jpg",
+        "width": 1488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2067329337733583065",
+        "created_at": "2026-06-17T20:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T21:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067346833337360817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834955424929648640",
+              "start": 0,
+              "username": "rabbot1Il"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067346833337360817",
+        "in_reply_to_user_id": "1834955424929648640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067329337733583065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rabbot1Il 感觉不只是性压抑了，已经变成爱压抑或者寻求认同感了，性压抑自己动动小手就解决了，但是像这种不停去骚扰别人获得关注的就像小孩子啼哭取得关注一样，他给你发约吗或者发吊照你只要回复他，他获得关注就会满足，然后就更得寸进尺，推特这个平台私信的条件还是太宽松了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067329323279994880"
+          ]
+        },
+        "author_id": "1834955424929648640",
+        "conversation_id": "2067329337733583065",
+        "created_at": "2026-06-17T19:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067329337733583065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRF9CF48cU",
+              "end": 119,
+              "expanded_url": "https://x.com/rabbot1Il/status/2067329337733583065/photo/1",
+              "media_key": "3_2067329323279994880",
+              "start": 96,
+              "url": "https://t.co/qRF9CF48cU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067329337733583065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讲一下我从性压抑到现在的原因：\n原理类似在小baby啼哭时在他面前大哭，他就会懵逼地停下来看着你\n当我xyy的时候发现这上面的99%人比我压抑一万倍，我就不敢压抑了，他们疯了一般地撕咬上来。 https://t.co/qRF9CF48cU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 86,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T14:00:51.000Z",
+        "description": "不是符号 是一个人",
+        "id": "1834955424929648640",
+        "location": "距离1,249,385.8km",
+        "name": "？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054498227173687296/lazv_1dS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 88,
+          "like_count": 1133,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 811
+        },
+        "url": "",
+        "username": "rabbot1Il",
+        "verified": false
+      }
+    ]
+  }
+}

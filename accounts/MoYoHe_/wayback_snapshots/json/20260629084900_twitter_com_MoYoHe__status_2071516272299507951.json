@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2071516272299507951",
+    "created_at": "2026-06-29T08:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071516272299507951"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071516272299507951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实不明白为什么老一辈都愿意让年轻人出去打拼而不是在家里蹲，又不是90，00年代遍地都是机会的时候了，像我哥出去打拼了10年分币没赚反倒欠家里100来万没还，他甚至都34了，但是如果让他没事就在家呆着打打游戏，照顾好老人，可能10年来的花销也只有水费电费和吃饭的钱，真不知道老一辈都是怎么想的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2071516272299507951",
+        "created_at": "2026-06-29T08:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071516272299507951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071516272299507951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实不明白为什么老一辈都愿意让年轻人出去打拼而不是在家里蹲，又不是90，00年代遍地都是机会的时候了，像我哥出去打拼了10年分币没赚反倒欠家里100来万没还，他甚至都34了，但是如果让他没事就在家呆着打打游戏，照顾好老人，可能10年来的花销也只有水费电费和吃饭的钱，真不知道老一辈都是怎么想的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 97,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

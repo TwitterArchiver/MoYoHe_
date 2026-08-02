@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2067439005852205530",
+    "created_at": "2026-06-18T03:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067445601504202955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050906352994684928",
+          "start": 0,
+          "username": "Cuttterssi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067445601504202955",
+    "in_reply_to_user_id": "2050906352994684928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067439005852205530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cuttterssi 这么金贵，那奖励985的吃个大鹅腿吧，本科比确实不配吃健康绿色蔬菜汁的大鹅腿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2067439005852205530",
+        "created_at": "2026-06-18T03:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067445601504202955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050906352994684928",
+              "start": 0,
+              "username": "Cuttterssi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067445601504202955",
+        "in_reply_to_user_id": "2050906352994684928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067439005852205530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cuttterssi 这么金贵，那奖励985的吃个大鹅腿吧，本科比确实不配吃健康绿色蔬菜汁的大鹅腿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050906352994684928",
+        "conversation_id": "2067439005852205530",
+        "created_at": "2026-06-18T02:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067439005852205530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vgwgypker24wje…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/vgwgypker24wjex/status/2067233708206412217",
+              "start": 15,
+              "url": "https://t.co/pN11VHDtUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067439005852205530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067233708206412217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "985的屌和本科逼有生殖隔离 https://t.co/pN11VHDtUa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 93,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 137
+        },
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T11:53:16.000Z",
+        "description": "07/167/55/infp 很无聊 ，希望正能量的人找我聊天，我是男人。性别为男。",
+        "id": "2050906352994684928",
+        "location": "0.9km",
+        "name": "cuttte",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062336030322393089/yZptLkKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 311,
+          "like_count": 2446,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1027
+        },
+        "username": "Cuttterssi",
+        "verified": false
+      }
+    ]
+  }
+}

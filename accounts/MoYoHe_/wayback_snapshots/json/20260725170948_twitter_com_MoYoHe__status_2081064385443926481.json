@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2081050909875064856",
+    "created_at": "2026-07-25T17:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T18:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081064385443926481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014668633679818752",
+          "start": 0,
+          "username": "ArayaTouko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081064385443926481",
+    "in_reply_to_user_id": "2014668633679818752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081050909875064856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArayaTouko 我初中的时候有过这种想法，就是我两个好朋友哪个跟我关系更好，但是实际上有这个问题的时候就已经有答案了，所以我后面压根不会去想这些了，都是好朋友，能一起陪伴玩的开心就OK了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2081050909875064856",
+        "created_at": "2026-07-25T17:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081064385443926481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014668633679818752",
+              "start": 0,
+              "username": "ArayaTouko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081064385443926481",
+        "in_reply_to_user_id": "2014668633679818752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081050909875064856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArayaTouko 我初中的时候有过这种想法，就是我两个好朋友哪个跟我关系更好，但是实际上有这个问题的时候就已经有答案了，所以我后面压根不会去想这些了，都是好朋友，能一起陪伴玩的开心就OK了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014668633679818752",
+        "conversation_id": "2081050909875064856",
+        "created_at": "2026-07-25T16:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081050909875064856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081050909875064856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们会对自己的朋友打分吗？就是心里会有一个rank，虽然这么说有点不太尊重朋友，但其实还是会有区分的吧。爱的朋友可能90分，一般的朋友70分这样？那这个分数会有频繁的动态变化吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 128,
+          "like_count": 2851,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 757
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T11:57:09.000Z",
+        "description": "没事的时候会看看X，随意",
+        "id": "2014668633679818752",
+        "name": "xyx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071516855165210624/oiq7ZE1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 29,
+          "like_count": 2306,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "ArayaTouko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2081013613612154981",
+    "created_at": "2026-07-26T12:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081350902863241221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1724557026867781632",
+          "start": 0,
+          "username": "Peacock166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081350902863241221",
+    "in_reply_to_user_id": "1724557026867781632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081243069022912995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Peacock166 我这个帖子的重心难道不应该是有很多性压抑的男生吗？而且我帖子里面不是也说了，不管国内外都有，那瓦里面还有地域黑跟叫妈妈的，本身这就是个私德问题，我说这个事就是希望这些人能管好自己无处安放的吊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2081013613612154981",
+        "created_at": "2026-07-26T12:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081350902863241221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1724557026867781632",
+              "start": 0,
+              "username": "Peacock166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081350902863241221",
+        "in_reply_to_user_id": "1724557026867781632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081243069022912995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Peacock166 我这个帖子的重心难道不应该是有很多性压抑的男生吗？而且我帖子里面不是也说了，不管国内外都有，那瓦里面还有地域黑跟叫妈妈的，本身这就是个私德问题，我说这个事就是希望这些人能管好自己无处安放的吊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724557026867781632",
+        "conversation_id": "2081013613612154981",
+        "created_at": "2026-07-26T04:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081243069022912995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081243069022912995",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081013613612154981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 翻墙说国外平台「不正规」、「没人管」，那你是希望推特要合谁的规，被谁管呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 131,
+          "like_count": 2953,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 777
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T22:37:16.000Z",
+        "description": "我很好骗 匿名箱：https://t.co/EiDnXoKVUS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/pdzr1cab0r2jen",
+                "end": 32,
+                "expanded_url": "https://marshmallow-qa.com/pdzr1cab0r2jen",
+                "start": 9,
+                "url": "https://t.co/EiDnXoKVUS"
+              }
+            ]
+          }
+        },
+        "id": "1724557026867781632",
+        "name": "你坐到我尾巴了",
+        "pinned_tweet_id": "2079248207729877173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022118727941308416/8EVYn_tH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 196,
+          "like_count": 20671,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1352
+        },
+        "url": "",
+        "username": "Peacock166",
+        "verified": true
+      }
+    ]
+  }
+}

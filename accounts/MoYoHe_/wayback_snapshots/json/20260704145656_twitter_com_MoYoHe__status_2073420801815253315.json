@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2073420240655159376",
+    "created_at": "2026-07-04T14:56:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:56:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073420801815253315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "befriendsyep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073420801815253315",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073420240655159376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@befriendsyep 主播别退😭我现在就你最捧场最眼熟了😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2073420240655159376",
+        "created_at": "2026-07-04T14:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073420801815253315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "befriendsyep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073420801815253315",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073420240655159376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@befriendsyep 主播别退😭我现在就你最捧场最眼熟了😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2073420240655159376",
+        "created_at": "2026-07-04T14:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073420240655159376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073420240655159376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脑子乱死了，我现在就想退推了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 102,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 435
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "爱你们，有烦恼或问题可以私信和我倾诉，我会帮你们的，找我闲聊也可以哦 ✌︎' ֊'",
+        "id": "1814688236398166016",
+        "location": "伊甸园",
+        "name": "TK",
+        "pinned_tweet_id": "2069745633905549553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063647900262072320/nlC7fHyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 756,
+          "like_count": 7818,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1940
+        },
+        "url": "",
+        "username": "befriendsyep",
+        "verified": false
+      }
+    ]
+  }
+}

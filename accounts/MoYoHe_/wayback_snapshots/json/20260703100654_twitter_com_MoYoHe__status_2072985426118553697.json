@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2072984537223639436",
+    "created_at": "2026-07-03T10:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072985426118553697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987421067884048384",
+          "start": 0,
+          "username": "yznb1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072985426118553697",
+    "in_reply_to_user_id": "1987421067884048384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072984537223639436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yznb1234 四代三光是真帅啊，不像2代那么稚嫩，也不像6代9代那么身经百战，四代刚刚好，30多岁风华正茂，而且整篇还有碍事梨一直给三光表现机会，我都想嫁了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2072984537223639436",
+        "created_at": "2026-07-03T10:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072985426118553697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987421067884048384",
+              "start": 0,
+              "username": "yznb1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072985426118553697",
+        "in_reply_to_user_id": "1987421067884048384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072984537223639436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yznb1234 四代三光是真帅啊，不像2代那么稚嫩，也不像6代9代那么身经百战，四代刚刚好，30多岁风华正茂，而且整篇还有碍事梨一直给三光表现机会，我都想嫁了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987421067884048384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Gaming News",
+              "id": "1034501001544257536",
+              "name": "Gaming news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2072984537223639436",
+        "created_at": "2026-07-03T10:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072984537223639436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ro_z1e/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ro_z1e/status/2072419481390137712",
+              "start": 16,
+              "url": "https://t.co/hyt8LrDbzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072984537223639436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072419481390137712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最佳赏味期在4吧😀不可以跳过！ https://t.co/hyt8LrDbzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我没有死亡的理由，也没有活着的理由",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "默与合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 96,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T07:24:57.000Z",
+        "description": "万人为我写诗而幸福却是此时\n不必回fo，感谢相遇",
+        "id": "1987421067884048384",
+        "location": "707",
+        "name": "(＾ω＾)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040669525604212736/vauyoVIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 592,
+          "like_count": 7949,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1802
+        },
+        "url": "",
+        "username": "yznb1234",
+        "verified": false
+      }
+    ]
+  }
+}
