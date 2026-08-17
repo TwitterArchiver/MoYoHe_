@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082996771345866752"
+      ],
+      "media_source_tweet_id": [
+        "2082996817424457821"
+      ]
+    },
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2084268792293818408",
+    "created_at": "2026-08-03T13:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084268792293818408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1498211333481066498",
+          "start": 3,
+          "username": "ActionXAi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NbvO94ct1L",
+          "end": 55,
+          "expanded_url": "https://x.com/ActionXAi/status/2082996817424457821/video/1",
+          "media_key": "13_2082996771345866752",
+          "start": 32,
+          "url": "https://t.co/NbvO94ct1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084268792293818408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082996817424457821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ActionXAi: 顶级心理学家教你如何轻松赢得吵架 https://t.co/NbvO94ct1L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 232245,
+        "height": 1024,
+        "media_key": "13_2082996771345866752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082996771345866752/img/SMSaVcyjE1NJi3pI.jpg",
+        "public_metrics": {
+          "view_count": 23509
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082996771345866752/vid/avc1/320x568/5JFVl4Gh1kojAgk3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082996771345866752/vid/avc1/480x852/ZytnTmcnsUjNzDRM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082996771345866752/vid/avc1/576x1024/tX-KH6zLOgWkNlzO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082996771345866752/pl/2sVWWDFf_0AO1hcT.m3u8?v=b81"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082996771345866752"
+          ]
+        },
+        "author_id": "1498211333481066498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2082996817424457821",
+        "created_at": "2026-07-31T01:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082996817424457821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbvO94ct1L",
+              "end": 40,
+              "expanded_url": "https://x.com/ActionXAi/status/2082996817424457821/video/1",
+              "media_key": "13_2082996771345866752",
+              "start": 17,
+              "url": "https://t.co/NbvO94ct1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082996817424457821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 38624,
+          "like_count": 315,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "顶级心理学家教你如何轻松赢得吵架 https://t.co/NbvO94ct1L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082996771345866752"
+          ],
+          "media_source_tweet_id": [
+            "2082996817424457821"
+          ]
+        },
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2084268792293818408",
+        "created_at": "2026-08-03T13:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084268792293818408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1498211333481066498",
+              "start": 3,
+              "username": "ActionXAi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbvO94ct1L",
+              "end": 55,
+              "expanded_url": "https://x.com/ActionXAi/status/2082996817424457821/video/1",
+              "media_key": "13_2082996771345866752",
+              "start": 32,
+              "url": "https://t.co/NbvO94ct1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084268792293818408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082996817424457821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ActionXAi: 顶级心理学家教你如何轻松赢得吵架 https://t.co/NbvO94ct1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 162,
+          "like_count": 4847,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1094
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T08:20:10.000Z",
+        "description": "不讲鸡汤，只讲规则。看懂人性，看清利益，看见普通人的破局机会。",
+        "id": "1498211333481066498",
+        "name": "老吴聊规则",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060300201957691393/GeIcyhWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9857,
+          "following_count": 10,
+          "like_count": 1361,
+          "listed_count": 29,
+          "media_count": 212,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "ActionXAi",
+        "verified": true
+      }
+    ]
+  }
+}

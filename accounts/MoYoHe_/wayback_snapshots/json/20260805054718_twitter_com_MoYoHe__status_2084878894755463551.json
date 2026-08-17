@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2084878894755463551",
+    "created_at": "2026-08-05T05:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084878894755463551"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084878894755463551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我其实觉得做坐出租车就安安静静的坐，人家一天开车载几百个人来回，这里面没准还有事逼，本身就够累的，还要开车，你还跟人聊天，我妈次次坐出租车就非要跟人聊天，人一旦不跟她聊她就说你这个人咋这么没趣，给你找话你都不接，你等我给你给差评😅我真难蚌了，这事发生好几次了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2084878894755463551",
+        "created_at": "2026-08-05T05:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084878894755463551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084878894755463551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实觉得做坐出租车就安安静静的坐，人家一天开车载几百个人来回，这里面没准还有事逼，本身就够累的，还要开车，你还跟人聊天，我妈次次坐出租车就非要跟人聊天，人一旦不跟她聊她就说你这个人咋这么没趣，给你找话你都不接，你等我给你给差评😅我真难蚌了，这事发生好几次了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 168,
+          "like_count": 5124,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1153
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

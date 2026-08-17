@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2084132395612246106",
+    "created_at": "2026-08-03T04:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084138327213801774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1888859509973766144",
+          "start": 0,
+          "username": "rncn27555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084138327213801774",
+    "in_reply_to_user_id": "1888859509973766144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084136880841617787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rncn27555 不脑残啊，关系好的朋友间接济下没毛病，以后有钱了还，没钱了就当请朋友的，你家庭本身就困难，她光劝你又不会改变现实状况，更何况她自己说的很重要，那对待很重要的事物不应该当掌上宝一样护着吗，不过我也有这种朋友，真的很想抽他问我俩关系好不好，老冷暴力我我真受不了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2084132395612246106",
+        "created_at": "2026-08-03T04:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084138327213801774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1888859509973766144",
+              "start": 0,
+              "username": "rncn27555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084138327213801774",
+        "in_reply_to_user_id": "1888859509973766144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084136880841617787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rncn27555 不脑残啊，关系好的朋友间接济下没毛病，以后有钱了还，没钱了就当请朋友的，你家庭本身就困难，她光劝你又不会改变现实状况，更何况她自己说的很重要，那对待很重要的事物不应该当掌上宝一样护着吗，不过我也有这种朋友，真的很想抽他问我俩关系好不好，老冷暴力我我真受不了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888859509973766144",
+        "conversation_id": "2084132395612246106",
+        "created_at": "2026-08-03T04:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084136880841617787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084136880841617787",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084135458750201923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 有的时候真的就很想把她捆身边天天抽😭她都一直在说很重要然而我体会不到 说实话虽然这个问题很现实 她的家庭牛逼一个月的零花钱都有3000块钱 显得我家里欠了百万债务像个臭老鼠 他每次都在劝我但为什么不直接给我打钱。我另一个发小在我吃不起饭的时候都会接济我 好吧以上撤回这个说法好脑残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 165,
+          "like_count": 4753,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1074
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T07:56:23.000Z",
+        "description": "泛性恋 性别脱敏 有什么玩什么抽烟喝酒整日打游戏",
+        "id": "1888859509973766144",
+        "name": "ran",
+        "pinned_tweet_id": "2082802325895446757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081961896572555264/-X09q-N7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 45,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "rncn27555",
+        "verified": false
+      }
+    ]
+  }
+}

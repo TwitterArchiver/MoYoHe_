@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2083842657751593158",
+    "created_at": "2026-08-02T09:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083842657751593158"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083842657751593158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "而且我之前想过谈恋爱啊干啥的是不是会对我这个情况好一点，但是恋爱也不是说谈就谈的，而且我觉得如果我本身就状态很差，那我谈恋爱不是给人家增加心理负担，或者说因为谈恋爱付出很多的精力，结果最后分手了，那状态不是会更差吗，双输的局面是啥意思😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083842657751593158",
+        "created_at": "2026-08-02T09:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083842657751593158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083842657751593158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "而且我之前想过谈恋爱啊干啥的是不是会对我这个情况好一点，但是恋爱也不是说谈就谈的，而且我觉得如果我本身就状态很差，那我谈恋爱不是给人家增加心理负担，或者说因为谈恋爱付出很多的精力，结果最后分手了，那状态不是会更差吗，双输的局面是啥意思😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 161,
+          "like_count": 4507,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1030
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

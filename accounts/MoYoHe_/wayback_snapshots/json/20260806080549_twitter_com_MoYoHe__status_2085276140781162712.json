@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2085269611839410337",
+    "created_at": "2026-08-06T08:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085276140781162712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756000998202740736",
+          "start": 0,
+          "username": "Mogan1139199"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085276140781162712",
+    "in_reply_to_user_id": "1756000998202740736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085272926711148970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mogan1139199 我觉着孩子生下来一般都是没什么属性的，就像一块玉一样，父母就像工匠，琢好了就是器，琢不好了那只能成废料😇当然这个形容不太对，有点物化人了，大概懂我意思就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2085269611839410337",
+        "created_at": "2026-08-06T08:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085276140781162712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756000998202740736",
+              "start": 0,
+              "username": "Mogan1139199"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085276140781162712",
+        "in_reply_to_user_id": "1756000998202740736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085272926711148970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mogan1139199 我觉着孩子生下来一般都是没什么属性的，就像一块玉一样，父母就像工匠，琢好了就是器，琢不好了那只能成废料😇当然这个形容不太对，有点物化人了，大概懂我意思就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756000998202740736",
+        "conversation_id": "2085269611839410337",
+        "created_at": "2026-08-06T07:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085272926711148970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085272926711148970",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085269611839410337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 我还挺相信人性本恶的……反而是家庭原因可以改正或者加重……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 172,
+          "like_count": 5481,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1245
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T17:04:07.000Z",
+        "description": "这里是泽子！暂且当成我的树洞吧\n如果刷到请找我聊天～如果和我互fo我会超开心的！！",
+        "id": "1756000998202740736",
+        "location": "枯寂之所",
+        "name": "Mogan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756001282551406592/RizRg8nH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 294,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "Mogan1139199",
+        "verified": false
+      }
+    ]
+  }
+}

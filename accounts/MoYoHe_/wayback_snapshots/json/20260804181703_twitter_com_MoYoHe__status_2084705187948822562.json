@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2084641828209578402",
+    "created_at": "2026-08-04T18:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084705187948822562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1888859509973766144",
+          "start": 0,
+          "username": "rncn27555"
+        },
+        {
+          "end": 18,
+          "id": "1287313244693000193",
+          "start": 11,
+          "username": "dsknzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084705187948822562",
+    "in_reply_to_user_id": "1888859509973766144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084704784771363118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rncn27555 @dsknzb 想要超强控制欲抖s说是 睡眠剥夺和食欲剥夺能做到的也是超人了 这哥们挺牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2084641828209578402",
+        "created_at": "2026-08-04T18:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084705187948822562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1888859509973766144",
+              "start": 0,
+              "username": "rncn27555"
+            },
+            {
+              "end": 18,
+              "id": "1287313244693000193",
+              "start": 11,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084705187948822562",
+        "in_reply_to_user_id": "1888859509973766144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084704784771363118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rncn27555 @dsknzb 想要超强控制欲抖s说是 睡眠剥夺和食欲剥夺能做到的也是超人了 这哥们挺牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888859509973766144",
+        "conversation_id": "2084641828209578402",
+        "created_at": "2026-08-04T18:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084704784771363118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            },
+            {
+              "end": 16,
+              "id": "1287313244693000193",
+              "start": 9,
+              "username": "dsknzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084704784771363118",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084650888510267434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ @dsknzb 可惜了一周之后就跑路了说是 貌似是我一天只给10块左右吃饭给吓跑的 关键是他这么求我的啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 165,
+          "like_count": 5001,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T07:56:23.000Z",
+        "description": "泛性恋 性别脱敏 有什么玩什么抽烟喝酒整日打游戏",
+        "id": "1888859509973766144",
+        "name": "ran",
+        "pinned_tweet_id": "2082802325895446757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081961896572555264/-X09q-N7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 47,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 118
+        },
+        "url": "",
+        "username": "rncn27555",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T09:06:18.000Z",
+        "description": "Blood,Semen,and Death‖18↑‖杂多里垢‖紫薇圣徒@gsdwnff‖匿名箱https://t.co/UQQWQB3ylm‖互fo欢迎‖单纯的屌丝一枚文盲一个讨厌一切文艺相关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "gsdwnff"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ting67955",
+                "end": 70,
+                "expanded_url": "https://ngl.link/ting67955",
+                "start": 47,
+                "url": "https://t.co/UQQWQB3ylm"
+              }
+            ]
+          }
+        },
+        "id": "1287313244693000193",
+        "location": "🚪1145.14",
+        "name": "死海@肉浪狂熱★DarkRed",
+        "pinned_tweet_id": "2025259813027090925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078279893423685632/Ku7FAhep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 2355,
+          "like_count": 24261,
+          "listed_count": 2,
+          "media_count": 655,
+          "tweet_count": 16436
+        },
+        "url": "",
+        "username": "dsknzb",
+        "verified": false
+      }
+    ]
+  }
+}

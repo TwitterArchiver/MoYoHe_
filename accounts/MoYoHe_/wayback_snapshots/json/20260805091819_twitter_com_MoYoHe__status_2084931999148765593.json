@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2084931999148765593",
+    "created_at": "2026-08-05T09:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084931999148765593"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084931999148765593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的觉得存在另外一个完全平行的宇宙，那里有一个跟现在的我完全不一样的我，因为我经常会有一些跟我实际行为相反的想法，我家里信教导致我很保守，但是我的想法真的会想干许多许多事，什么癫狂干什么，我感觉或许这是另一条平行线的我正在做的事，而且他过得很开心很满足，我觉得想到这就足够了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2084931999148765593",
+        "created_at": "2026-08-05T09:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084931999148765593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084931999148765593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得存在另外一个完全平行的宇宙，那里有一个跟现在的我完全不一样的我，因为我经常会有一些跟我实际行为相反的想法，我家里信教导致我很保守，但是我的想法真的会想干许多许多事，什么癫狂干什么，我感觉或许这是另一条平行线的我正在做的事，而且他过得很开心很满足，我觉得想到这就足够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 169,
+          "like_count": 5186,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1158
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

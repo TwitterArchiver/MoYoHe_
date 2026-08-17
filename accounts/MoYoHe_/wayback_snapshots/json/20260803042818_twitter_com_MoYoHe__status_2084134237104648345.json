@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2084013782335144233",
+    "created_at": "2026-08-03T04:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084134237104648345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1888859509973766144",
+          "start": 0,
+          "username": "rncn27555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084134237104648345",
+    "in_reply_to_user_id": "1888859509973766144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084113047975801314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rncn27555 他说出祥林嫂的时候感觉友谊已经结束了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2084013782335144233",
+        "created_at": "2026-08-03T04:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084134237104648345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1888859509973766144",
+              "start": 0,
+              "username": "rncn27555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084134237104648345",
+        "in_reply_to_user_id": "1888859509973766144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084113047975801314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rncn27555 他说出祥林嫂的时候感觉友谊已经结束了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888859509973766144",
+        "conversation_id": "2084013782335144233",
+        "created_at": "2026-08-03T03:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084113047975801314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084113047975801314",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084013782335144233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 无论怎么样不安抚朋友反而这么说吗？？😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 164,
+          "like_count": 4718,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1068
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T07:56:23.000Z",
+        "description": "泛性恋 性别脱敏 有什么玩什么抽烟喝酒整日打游戏",
+        "id": "1888859509973766144",
+        "name": "ran",
+        "pinned_tweet_id": "2082802325895446757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081961896572555264/-X09q-N7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 45,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "rncn27555",
+        "verified": false
+      }
+    ]
+  }
+}

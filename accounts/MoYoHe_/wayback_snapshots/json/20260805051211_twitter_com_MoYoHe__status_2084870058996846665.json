@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2084651663131037841",
+    "created_at": "2026-08-05T05:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084870058996846665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1711413118147182592",
+          "start": 0,
+          "username": "awjztg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084870058996846665",
+    "in_reply_to_user_id": "1711413118147182592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084864183397708138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awjztg 其实真进去几次就没啥感觉了，我有些时候刚回老家一进澡堂就臊得慌，后面又去了几次就好多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2084651663131037841",
+        "created_at": "2026-08-05T05:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084870058996846665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1711413118147182592",
+              "start": 0,
+              "username": "awjztg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084870058996846665",
+        "in_reply_to_user_id": "1711413118147182592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084864183397708138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awjztg 其实真进去几次就没啥感觉了，我有些时候刚回老家一进澡堂就臊得慌，后面又去了几次就好多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711413118147182592",
+        "conversation_id": "2084651663131037841",
+        "created_at": "2026-08-05T04:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084864183397708138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084864183397708138",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084651663131037841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 不知道为什么，一直很难接受澡堂文化，其实人体长啥样都见过了，但是就是不太好意思和很多人一起展示裸体🤦🏻‍♂️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 168,
+          "like_count": 5119,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1152
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T16:08:08.000Z",
+        "description": "💤",
+        "id": "1711413118147182592",
+        "name": "🌙",
+        "pinned_tweet_id": "2083934431769976927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984985714988351488/hYBqy8kF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 29,
+          "like_count": 1372,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "awjztg",
+        "verified": false
+      }
+    ]
+  }
+}

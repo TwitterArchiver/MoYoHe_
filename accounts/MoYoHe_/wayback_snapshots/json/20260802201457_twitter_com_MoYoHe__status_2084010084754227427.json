@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2083700276888998018",
+    "created_at": "2026-08-02T20:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T21:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084010084754227427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885026996121739264",
+          "start": 0,
+          "username": "zjc1282543"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084010084754227427",
+    "in_reply_to_user_id": "1885026996121739264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084009353817030748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zjc1282543 还真是，面不快点吃就坨了，那时候再吃是真难吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2084009292416614400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvjaO8bAAA9qxo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2083700276888998018",
+        "created_at": "2026-08-02T20:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084010084754227427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885026996121739264",
+              "start": 0,
+              "username": "zjc1282543"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084010084754227427",
+        "in_reply_to_user_id": "1885026996121739264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084009353817030748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zjc1282543 还真是，面不快点吃就坨了，那时候再吃是真难吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084009292416614400"
+          ]
+        },
+        "author_id": "1885026996121739264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083700276888998018",
+        "created_at": "2026-08-02T20:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084009353817030748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X8UNxWeIso",
+              "end": 68,
+              "expanded_url": "https://x.com/zjc1282543/status/2084009353817030748/photo/1",
+              "media_key": "3_2084009292416614400",
+              "start": 45,
+              "url": "https://t.co/X8UNxWeIso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084009353817030748",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083700276888998018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 面就得去店里吃 我这的面还流行用现炒的浇头 不到店吃不好吃😋😋😋😋😋😋 https://t.co/X8UNxWeIso"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 161,
+          "like_count": 4645,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T18:07:19.000Z",
+        "description": "不想上学",
+        "id": "1885026996121739264",
+        "name": "我07年13岁？！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913608277679886338/l9ttpYBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 54,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "zjc1282543",
+        "verified": false
+      }
+    ]
+  }
+}

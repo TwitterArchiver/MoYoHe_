@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2084693636726542344",
+    "created_at": "2026-08-05T07:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084901314861875222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2074495111300571136",
+          "start": 0,
+          "username": "chiyeovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084901314861875222",
+    "in_reply_to_user_id": "2074495111300571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084900431655059691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiyeovo 现在确实比较开放了吧可能，我认识的两个回民同学甚至对这方面都不是很介意，但是我确实感觉心里有道坎一样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2084693636726542344",
+        "created_at": "2026-08-05T07:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084901314861875222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2074495111300571136",
+              "start": 0,
+              "username": "chiyeovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084901314861875222",
+        "in_reply_to_user_id": "2074495111300571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084900431655059691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiyeovo 现在确实比较开放了吧可能，我认识的两个回民同学甚至对这方面都不是很介意，但是我确实感觉心里有道坎一样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074495111300571136",
+        "conversation_id": "2084693636726542344",
+        "created_at": "2026-08-05T07:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084900431655059691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1923100693944299520",
+              "start": 0,
+              "username": "MoYoHe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084900431655059691",
+        "in_reply_to_user_id": "1923100693944299520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084693636726542344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoYoHe_ 我一直以为大家都这么觉得。。甚至我想牵手亲吻拥抱和性一辈子只跟一个人，所以一直没谈恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 168,
+          "like_count": 5144,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T14:06:53.000Z",
+        "description": "猿压抑羽毛龙孝女三桥渡拥护者恋津田莲也小粉丝\n欢迎同好来找我玩🥰",
+        "id": "2074495111300571136",
+        "name": "池夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083631543113981952/jV0zpb61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 43,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "chiyeovo",
+        "verified": false
+      }
+    ]
+  }
+}

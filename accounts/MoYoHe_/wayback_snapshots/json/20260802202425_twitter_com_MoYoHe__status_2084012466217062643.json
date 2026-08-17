@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2084012466217062643",
+    "created_at": "2026-08-02T20:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T21:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084012466217062643"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MoYoHe_/status…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/MoYoHe_/status/2084012009906221361",
+          "start": 127,
+          "url": "https://t.co/soQk3lWqyp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084012466217062643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084012009906221361",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我当时真的是歇斯底里的跟我妈说，你去把电脑从我哥那拿回来，我妈说好好，然后她走卫生间我看到她手机亮着的，我才发现是她要把电脑拉走不是我哥，我当时心里真的特别崩溃，我以为她理解我或者啥的，反正就那一天的事我也不知道为什么我情绪波动那么大，反正我已经崩溃了 https://t.co/soQk3lWqyp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2084012466217062643",
+        "created_at": "2026-08-02T20:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084012466217062643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MoYoHe_/status…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/MoYoHe_/status/2084012009906221361",
+              "start": 127,
+              "url": "https://t.co/soQk3lWqyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084012466217062643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084012009906221361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时真的是歇斯底里的跟我妈说，你去把电脑从我哥那拿回来，我妈说好好，然后她走卫生间我看到她手机亮着的，我才发现是她要把电脑拉走不是我哥，我当时心里真的特别崩溃，我以为她理解我或者啥的，反正就那一天的事我也不知道为什么我情绪波动那么大，反正我已经崩溃了 https://t.co/soQk3lWqyp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2084012009906221361",
+        "created_at": "2026-08-02T20:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084012009906221361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084012009906221361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我曾经有段时间在家里过的特别难受，应该是23年的下半年，疫情都过去了结果我又得上新冠了，而且特别严重，后面直接肺炎，要去医院吊半个月点滴，本身离高考就不远了结果又整这出，结果回到家发现电脑也没了，说以后不让用，但是那段时间因为我本身就没办法去学校，唯一的朋友都在网络上，真的好崩溃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 162,
+          "like_count": 4659,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1052
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

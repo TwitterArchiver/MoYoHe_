@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2083836730608882151",
+    "created_at": "2026-08-02T12:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083892537924731112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1213412688790843397",
+          "start": 0,
+          "username": "AkiratheShining"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083892537924731112",
+    "in_reply_to_user_id": "1213412688790843397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083836730608882151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkiratheShining 这个电影超好看！而且结尾男老板也没放弃背地继续卖东西，就是感觉如果你真的坚持不住了，没关系，这条路不可耻，而且整部电影虽然比较低沉跟灰暗吧，但是男主那种积极向上的感觉真的很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2083836730608882151",
+        "created_at": "2026-08-02T12:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083892537924731112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1213412688790843397",
+              "start": 0,
+              "username": "AkiratheShining"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083892537924731112",
+        "in_reply_to_user_id": "1213412688790843397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083836730608882151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiratheShining 这个电影超好看！而且结尾男老板也没放弃背地继续卖东西，就是感觉如果你真的坚持不住了，没关系，这条路不可耻，而且整部电影虽然比较低沉跟灰暗吧，但是男主那种积极向上的感觉真的很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1213412688790843397",
+        "conversation_id": "2083836730608882151",
+        "created_at": "2026-08-02T08:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083836730608882151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083836730608882151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小学那阵特别迷恋自杀专卖店，觉得里面的歌很好听，每周末能玩电脑时就翻出来看，不知道看了多少遍，也许从那时刻开始就注定了以后的审美偏好，会一直喜欢这种怪诞又温暖的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 161,
+          "like_count": 4561,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1039
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T10:51:51.000Z",
+        "description": "昨夜我飞向了遥远的火星",
+        "id": "1213412688790843397",
+        "location": "精神病院",
+        "name": "闪光阿基拉",
+        "pinned_tweet_id": "1862137696195670378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081236049788108800/g4HL1P3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4522,
+          "following_count": 214,
+          "like_count": 5165,
+          "listed_count": 7,
+          "media_count": 553,
+          "tweet_count": 8191
+        },
+        "url": "",
+        "username": "AkiratheShining",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2086282756527661203",
+    "created_at": "2026-08-09T05:37:13.000Z",
+    "display_text_range": [
+      11,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086325911096344770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1834955424929648640",
+          "start": 0,
+          "username": "rabbot1Il"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086325911096344770",
+    "in_reply_to_user_id": "1834955424929648640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086282756527661203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rabbot1Il 就还是不想吃苦吧，因为上过学打过工所以知道挣钱累，刚好这边有一个特别好的捷径，那为啥不抛下尊严和道德去赚呢，但是吧这种行为我觉着没几个人能接受的了，有点...嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2086282756527661203",
+        "created_at": "2026-08-09T05:37:13.000Z",
+        "display_text_range": [
+          11,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086325911096344770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834955424929648640",
+              "start": 0,
+              "username": "rabbot1Il"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086325911096344770",
+        "in_reply_to_user_id": "1834955424929648640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086282756527661203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rabbot1Il 就还是不想吃苦吧，因为上过学打过工所以知道挣钱累，刚好这边有一个特别好的捷径，那为啥不抛下尊严和道德去赚呢，但是吧这种行为我觉着没几个人能接受的了，有点...嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834955424929648640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2086282756527661203",
+        "created_at": "2026-08-09T02:45:45.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086282756527661203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086282756527661203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 652,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实那也可以概括成一个现象就是受过高等教育的人下海。卧槽我想不明白这个问题我cpu要炸了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "is_identity_verified": false,
+        "location": "秘鲁",
+        "most_recent_tweet_id": "2086325911096344770",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1923100693944299520/1770649318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 174,
+          "like_count": 5786,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1288
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-14T14:00:51.000Z",
+        "description": "",
+        "id": "1834955424929648640",
+        "is_identity_verified": false,
+        "location": "距离1,249,385.8km",
+        "most_recent_tweet_id": "2086321224477770072",
+        "name": "？",
+        "pinned_tweet_id": "2070812089317552362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1834955424929648640/1781905358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071452726253555712/_Gma4gSF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 234,
+          "like_count": 7063,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 3067
+        },
+        "url": "",
+        "username": "rabbot1Il",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

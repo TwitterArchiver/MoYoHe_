@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2084006632540012839",
+    "created_at": "2026-08-03T06:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084165729436549429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2079191539276976128",
+          "start": 0,
+          "username": "yellow930721"
+        },
+        {
+          "end": 21,
+          "id": "2075312744417632256",
+          "start": 14,
+          "username": "4ksti7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084165729436549429",
+    "in_reply_to_user_id": "2079191539276976128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084040785176252874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yellow930721 @4ksti7 很难想象你居然跟我是同一个种类的物种，怜悯这种情绪都没有吗，本来想跟你讲道理但是转念一想你连基本做人的道理都想不明白，我以为你是上市公司的大老板，结果一看是个连性行为这种基础行为都要看片自己解决的蛆虫，我也就大概理解你的生活有多悲惨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2084006632540012839",
+        "created_at": "2026-08-03T06:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084165729436549429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2079191539276976128",
+              "start": 0,
+              "username": "yellow930721"
+            },
+            {
+              "end": 21,
+              "id": "2075312744417632256",
+              "start": 14,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084165729436549429",
+        "in_reply_to_user_id": "2079191539276976128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084040785176252874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yellow930721 @4ksti7 很难想象你居然跟我是同一个种类的物种，怜悯这种情绪都没有吗，本来想跟你讲道理但是转念一想你连基本做人的道理都想不明白，我以为你是上市公司的大老板，结果一看是个连性行为这种基础行为都要看片自己解决的蛆虫，我也就大概理解你的生活有多悲惨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079191539276976128",
+        "conversation_id": "2084006632540012839",
+        "created_at": "2026-08-02T22:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084040785176252874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2075312744417632256",
+              "start": 0,
+              "username": "4ksti7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084040785176252874",
+        "in_reply_to_user_id": "2075312744417632256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084006632540012839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4ksti7 哈哈，一帮OD废物还敢喊“不被理解”？\n你们那破生活就是自己作死作出来的，谁他妈想理解一堆垃圾的自毁日常？\n正常人努力活，你们天天求死还卖惨，理解个屁！滚回去继续OD，少出来恶心人！😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 165,
+          "like_count": 4802,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1087
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T13:08:53.000Z",
+        "description": "",
+        "id": "2079191539276976128",
+        "name": "玉虚元始天尊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079191963686109184/FPAtWPFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "yellow930721",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-09T20:16:38.000Z",
+        "description": "前世@7ksti4   又受限了我发不了帖子😭\n我是一凡｜od｜自伤｜情绪摇滚｜敲击\n查成分互fo｜欢迎和我玩！\n我转世了互关我想你们了…巡回中🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "7ksti4"
+              }
+            ]
+          }
+        },
+        "id": "2075312744417632256",
+        "name": "红发少年口口事件2.0",
+        "pinned_tweet_id": "2075565399530491957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075314100142477312/ncKAigD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 287,
+          "like_count": 1577,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "4ksti7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1923100693944299520",
+    "conversation_id": "2084143355165065475",
+    "created_at": "2026-08-03T05:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084143355165065475"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084143355165065475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "而且我在社交方面完全就是，一坨的程度，我跟人聊天超不过几句我就必须带表情包不然我真的会感觉我说话太严肃了，或者就是对方觉得我不够有趣什么的，哪怕没有表情包我也会找别的代替emoji啊或者什么的，跟学校里的学长学姐说话更神，我说话都特别怕冒犯，说话句尾动不动就是玫瑰花，跟个伪人一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923100693944299520",
+        "conversation_id": "2084143355165065475",
+        "created_at": "2026-08-03T05:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084143355165065475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084143355165065475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "而且我在社交方面完全就是，一坨的程度，我跟人聊天超不过几句我就必须带表情包不然我真的会感觉我说话太严肃了，或者就是对方觉得我不够有趣什么的，哪怕没有表情包我也会找别的代替emoji啊或者什么的，跟学校里的学长学姐说话更神，我说话都特别怕冒犯，说话句尾动不动就是玫瑰花，跟个伪人一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 165,
+          "like_count": 4778,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1079
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}

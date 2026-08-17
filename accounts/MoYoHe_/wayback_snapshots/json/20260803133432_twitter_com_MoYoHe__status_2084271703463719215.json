@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084271697834999809"
+      ]
+    },
+    "author_id": "1923100693944299520",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084271703463719215",
+    "created_at": "2026-08-03T13:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084271703463719215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KSfGnEH3Mz",
+          "end": 119,
+          "expanded_url": "https://x.com/MoYoHe_/status/2084271703463719215/photo/1",
+          "media_key": "3_2084271697834999809",
+          "start": 96,
+          "url": "https://t.co/KSfGnEH3Mz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084271703463719215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": ":说到底，你们某种意义上都很幸运.\n:现在我都死了，你还羡慕我?\n:一直是这样.\n……\n:你猜怎么着?我明白了.\n:我儿子死了，我也完蛋了.\n:但至少，我没有把他独自留在这破烂不堪的世界里. https://t.co/KSfGnEH3Mz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2084271697834999809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzSEPTbAAEn4LC.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084271697834999809"
+          ]
+        },
+        "author_id": "1923100693944299520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084271703463719215",
+        "created_at": "2026-08-03T13:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084271703463719215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSfGnEH3Mz",
+              "end": 119,
+              "expanded_url": "https://x.com/MoYoHe_/status/2084271703463719215/photo/1",
+              "media_key": "3_2084271697834999809",
+              "start": 96,
+              "url": "https://t.co/KSfGnEH3Mz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084271703463719215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": ":说到底，你们某种意义上都很幸运.\n:现在我都死了，你还羡慕我?\n:一直是这样.\n……\n:你猜怎么着?我明白了.\n:我儿子死了，我也完蛋了.\n:但至少，我没有把他独自留在这破烂不堪的世界里. https://t.co/KSfGnEH3Mz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-15T19:38:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "PE",
+              "full_name": "Peru",
+              "geo": {
+                "coordinates": [
+                  -76.0,
+                  -10.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "神明神明嘀咕嘀，我会成为什么样的大人呢",
+        "id": "1923100693944299520",
+        "location": "秘鲁",
+        "name": "黑",
+        "pinned_tweet_id": "2074250622279598408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020875771724845056/WZ0mu43F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 162,
+          "like_count": 4858,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "MoYoHe_",
+        "verified": false
+      }
+    ]
+  }
+}
